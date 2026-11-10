@@ -1,0 +1,14 @@
+# Secrets: the BGG token only ever lives in the environment / CI secrets.
+.env
+.env.*
+!.env.example
+*.token
+*.key
+
+# Local HTTP response cache
+.cache/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
