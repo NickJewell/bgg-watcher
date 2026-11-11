@@ -6,12 +6,14 @@ capped watchlist and regenerates [`WATCHLIST.md`](WATCHLIST.md): what is being
 played, what is gaining, what is anticipated, and which mechanics are showing up
 alongside trick-taking in new releases.
 
-No dependencies beyond Python 3.10+.
+The crawler needs nothing beyond Python 3.10+. The optional design analysis
+needs `pip install -r requirements.txt` and a Claude API key.
 
 ```sh
 export BGG_API_TOKEN=...        # see "The API token" below
 python -m bggwatch run          # fetch today's snapshot, rewrite WATCHLIST.md
 python -m bggwatch report       # rebuild WATCHLIST.md from stored data, no network
+python -m bggwatch analyse      # write ANALYSIS_SNAPSHOT.md (needs ANTHROPIC_API_KEY)
 python -m unittest discover -s tests
 ```
 
@@ -34,6 +36,34 @@ exposes no history, so trends come from comparing this repo's own snapshots.
 `api/geekitem/linkeditems` is the JSON endpoint behind BGG's own mechanic pages.
 It is undocumented and may change; the XML API has no way to list games by
 mechanic. Everything else uses the documented XML API2.
+
+## Design analysis
+
+`python -m bggwatch analyse` reads the latest snapshot and overwrites
+[`ANALYSIS_SNAPSHOT.md`](ANALYSIS_SNAPSHOT.md). It makes no BGG requests. It
+uses the Claude API (`claude-opus-5-5`) in three separate calls:
+
+1. **Extract and remix.** The 20 hottest games by heat, plus anything on BGG's
+   hot list, go in with their stats, tags and descriptions. The model pulls out
+   the top mechanics, themes and differentiators, then remixes them into 100
+   new variants.
+2. **Score.** A fresh call scores every variant 1–10 on seven dimensions:
+   three from Koster's Theory of Fun (pattern novelty, mastery depth, learning
+   feedback), three from MDA (mechanics, dynamics, aesthetics), and mainstream
+   reach. Weights are 35% Koster, 35% MDA, 30% market.
+3. **Pitch.** The top ten get a two-to-three paragraph designer pitch.
+
+The code, not the model, enforces the constraints (trick-taking, player range
+inside 2–4, weight 1.5–2.0), drops duplicates, asks for replacements, computes
+the weighted totals and picks the top ten. The full ranked list of 100 is kept
+in a collapsed section at the bottom of the file.
+
+The scores are one model's judgement against a rubric. They are good for
+sorting a hundred ideas; they are not a sales forecast.
+
+Set `ANTHROPIC_API_KEY` locally or as a GitHub Actions secret. Without it the
+step logs that it was skipped and the rest of the run is unaffected. If the
+analysis fails, the previous file is left in place.
 
 ## Being a good citizen
 

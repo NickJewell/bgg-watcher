@@ -2,13 +2,24 @@
 
 from __future__ import annotations
 
+import html
 import json
+import re
 import xml.etree.ElementTree as ET
 
 from .client import PoliteClient
 
 POOL_PAGE_SIZE = 50  # server-side maximum
 THING_BATCH = 20
+
+
+DESCRIPTION_CHARS = 600
+
+
+def _clean(text: str | None) -> str:
+    """BGG descriptions are double-escaped HTML; flatten to one short line."""
+    text = re.sub(r"\s+", " ", html.unescape(html.unescape(text or ""))).strip()
+    return text if len(text) <= DESCRIPTION_CHARS else text[:DESCRIPTION_CHARS].rsplit(" ", 1)[0] + "…"
 
 
 def _num(value, cast=float, default=0):
@@ -91,6 +102,7 @@ def parse_things(body: bytes) -> list[dict]:
                 "categories": links("boardgamecategory"),
                 "designers": links("boardgamedesigner"),
                 "publishers": links("boardgamepublisher")[:3],
+                "description": _clean(item.findtext("description")),
                 "usersrated": stat("usersrated"),
                 "average": round(stat("average", float), 3),
                 "rank": _num(rank_el.get("value") if rank_el is not None else None, int),

@@ -6,7 +6,7 @@ import unittest
 import urllib.error
 from pathlib import Path
 
-from bggwatch import bgg, pipeline, report
+from bggwatch import analysis, bgg, pipeline, report
 from bggwatch.client import BudgetExceeded, PoliteClient, TooManyFailures
 from bggwatch.config import Config
 from bggwatch.store import Store
@@ -106,6 +106,7 @@ class ClientTests(unittest.TestCase):
 
 THING_XML = b"""<items><item type="boardgame" id="7">
 <name type="primary" value="Seven"/><name type="alternate" value="Sept"/>
+<description>Win &amp;amp; lose&amp;#10;&amp;#10;on   purpose.</description>
 <yearpublished value="2025"/><minplayers value="3"/><maxplayers value="5"/><playingtime value="20"/>
 <link type="boardgamemechanic" id="2009" value="Trick-taking"/>
 <link type="boardgamemechanic" id="2004" value="Set Collection"/>
@@ -122,6 +123,7 @@ class ParserTests(unittest.TestCase):
         self.assertEqual((g["id"], g["name"], g["min_players"], g["max_players"]), (7, "Seven", 3, 5))
         self.assertEqual((g["weight"], g["numweights"], g["owned"], g["rank"]), (1.75, 12, 400, 0))
         self.assertEqual(g["mechanics"], ["Trick-taking", "Set Collection"])
+        self.assertEqual(g["description"], "Win & lose on purpose.")
 
     def test_pool_page(self):
         body = json.dumps({"items": [{"objectid": "7", "name": "Seven", "yearpublished": "2025",
@@ -216,6 +218,100 @@ class EndToEndTests(unittest.TestCase):
         again, seen2, _ = make_client(tmp, responder, min_delay=0, jitter=0)
         pipeline.run(again.cfg, today=dt.date(2026, 11, 10), client=again)
         self.assertEqual(len(seen2), 0)
+
+
+class AnalysisTests(unittest.TestCase):
+    def variant(self, n, **kw):
+        return {"title": f"Variant {n}", "hook": "h", "core_twist": f"twist {n}", "theme": "t",
+                "remixes": ["Seven"], "mechanics": ["Trick-taking"], "players_min": 2, "players_max": 4,
+                "est_weight": 1.8, **kw}
+
+    def scores(self, i, value):
+        return {"id": i, **{k: value for k in analysis.RUBRIC}, "rationale": f"r{i}"}
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.cfg = Config(data_dir=Path(self.tmp), analysis_variants=12, analysis_keep=3)
+        store = Store(self.tmp)
+        store.save_games({7: bgg.parse_things(THING_XML)[0], 8: {"min_players": 2, "max_players": 4}})
+        store.save_snapshot("2026-11-10", [
+            {"id": 7, "name": "Seven", "plays": 42, "hot_rank": None, "owned": 400, "wishing": 60},
+            {"id": 8, "name": "Eight", "plays": 1, "hot_rank": 9, "owned": 400, "wishing": 0}])
+
+    def test_variant_constraints(self):
+        ok = lambda **kw: analysis.valid_variant(self.variant(1, **kw), self.cfg)
+        self.assertTrue(ok())
+        self.assertFalse(ok(players_max=5))
+        self.assertFalse(ok(players_min=1))
+        self.assertFalse(ok(est_weight=2.4))
+        self.assertFalse(ok(core_twist=" "))
+
+    def test_total_is_weighted_and_clamped(self):
+        self.assertEqual(analysis.total_score(self.scores(1, 10)), 100.0)
+        self.assertEqual(analysis.total_score(self.scores(1, 99)), 100.0)
+        self.assertEqual(analysis.total_score(self.scores(1, 0)), 10.0)
+        s = {**self.scores(1, 5), "mainstream_reach": 10}
+        self.assertEqual(analysis.total_score(s), 65.0)
+        self.assertEqual(analysis.framework_scores(s), {"Koster": 5.0, "MDA": 5.0, "Market": 10.0})
+
+    def test_sources_take_top_heat_plus_hot_list(self):
+        self.cfg.analysis_sources = 1
+        date, src = analysis.select_sources(self.cfg, Store(self.tmp))
+        self.assertEqual((date, [s["name"] for s in src]), ("2026-11-10", ["Seven", "Eight"]))
+        self.assertEqual(src[0]["description"], "Win & lose on purpose.")
+
+    def test_end_to_end_tops_up_ranks_in_code_and_renders(self):
+        prompts = []
+
+        def call(prompt, schema):
+            prompts.append(prompt)
+            if schema is analysis.GENERATE_SCHEMA:  # two unusable: wrong player count, duplicate
+                vs = [self.variant(i) for i in range(1, 11)] + [self.variant(98, players_max=6), self.variant(1)]
+                sig = [{"name": "Must-not-follow", "seen_in": ["Seven"], "why_it_matters": "x"}]
+                return {"mechanics": sig, "themes": sig, "differentiators": sig, "variants": vs}
+            if schema is analysis.TOPUP_SCHEMA:
+                return {"variants": [self.variant(20), self.variant(21), self.variant(22)]}
+            if schema is analysis.SCORE_SCHEMA:
+                return {"scores": [self.scores(i, i if i <= 10 else 1) for i in range(1, 13)]}
+            ids = [int(l.split(":")[1].strip(" ,")) for l in prompt.splitlines() if l.strip().startswith('"id"')]
+            return {"pitches": [{"id": i, "pitch": f"Pitch {i}.\n\nSecond paragraph."} for i in ids]}
+
+        out = Path(self.tmp) / "A.md"
+        self.assertEqual(analysis.run(self.cfg, call=call, path=str(out)), 0)
+        self.assertEqual(len(prompts), 4)  # generate, one top-up, score, pitch
+        self.assertIn("Write 2 more", prompts[1])
+        md = out.read_text()
+        self.assertIn("### 1. Variant 10 — 100.0/100", md)
+        self.assertIn("### 3. Variant 8 — 80.0/100", md)
+        self.assertNotIn("### 4.", md)
+        self.assertIn("Pitch 10.", md)
+        self.assertIn("## All 12 variants", md)
+        self.assertNotIn("Variant 98", md)
+
+    def test_failure_leaves_previous_file_alone(self):
+        out = Path(self.tmp) / "A.md"
+        out.write_text("old")
+
+        def call(prompt, schema):
+            raise analysis.AnalysisError("boom")
+
+        self.assertEqual(analysis.run(self.cfg, call=call, path=str(out)), 1)
+        self.assertEqual(out.read_text(), "old")
+
+    def test_schemas_are_strict(self):
+        def walk(node):
+            if isinstance(node, dict):
+                if node.get("type") == "object":
+                    self.assertIs(node["additionalProperties"], False)
+                    self.assertEqual(sorted(node["required"]), sorted(node["properties"]))
+                for v in node.values():
+                    walk(v)
+            elif isinstance(node, list):
+                for v in node:
+                    walk(v)
+
+        for schema in (analysis.GENERATE_SCHEMA, analysis.TOPUP_SCHEMA, analysis.SCORE_SCHEMA, analysis.PITCH_SCHEMA):
+            walk(schema)
 
 
 if __name__ == "__main__":
