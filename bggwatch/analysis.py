@@ -1,21 +1,26 @@
 """Ludological analysis of the latest snapshot, written to ANALYSIS_SNAPSHOT.md.
 
-Three separate Claude calls, with the ranking done here in code:
+The creative work is done by a Claude Code session (see ANALYSIS_TASK.md); this
+module is the deterministic scaffolding around it. It makes no network requests
+and calls no API. The session alternates with these steps:
 
-  1. read the hot/active games, extract signals, remix them into N variants
-  2. score every variant against a fixed rubric (a fresh call, so the scorer
-     is not grading its own freshly written prose in the same breath)
-  3. write a designer pitch for the top K by weighted score
+  brief   write the generation brief from the latest snapshot
+          -> the session writes .analysis/generated.json
+  check   validate the variants, assign ids, write the scoring brief
+          -> a fresh sub-agent writes .analysis/scores.json
+  rank    compute weighted totals, keep the top K, write the pitch brief
+          -> the session writes .analysis/pitches.json
+  render  write ANALYSIS_SNAPSHOT.md
 
-Needs the `anthropic` package and an ANTHROPIC_API_KEY in the environment.
-Makes no BoardGameGeek requests.
+Constraints, de-duplication, totals and the top-K cut are enforced here, so the
+model cannot quietly bend them.
 """
 
 from __future__ import annotations
 
 import datetime as dt
 import json
-import os
+import shutil
 from pathlib import Path
 
 from .config import Config
@@ -23,6 +28,7 @@ from .report import heat_scores
 from .store import Store
 
 OUTPUT = "ANALYSIS_SNAPSHOT.md"
+WORK = Path(".analysis")
 
 # dimension -> (framework, weight, what a high score means)
 RUBRIC = {
@@ -80,19 +86,18 @@ VARIANT = _obj({"title": _STR, "hook": _STR, "core_twist": _STR, "theme": _STR, 
                 "mechanics": _STRS, "players_min": _INT, "players_max": _INT, "est_weight": _NUM})
 GENERATE_SCHEMA = _obj({"mechanics": _SIGNAL, "themes": _SIGNAL, "differentiators": _SIGNAL,
                         "variants": {"type": "array", "items": VARIANT}})
-TOPUP_SCHEMA = _obj({"variants": {"type": "array", "items": VARIANT}})
 SCORE_SCHEMA = _obj({"scores": {"type": "array", "items": _obj(
     {"id": _INT, **{k: _INT for k in RUBRIC}, "rationale": _STR})}})
 PITCH_SCHEMA = _obj({"pitches": {"type": "array", "items": _obj({"id": _INT, "pitch": _STR})}})
 
-SYSTEM = (
-    "You are a tabletop game designer and ludologist who specialises in trick-taking card games. "
-    "You know the modern trick-taking scene well, from traditional games to the current wave of "
-    "small-box Japanese and Western designs, and you reason about games through Raph Koster's "
+ROLE = (
+    "Approach this as a tabletop game designer and ludologist who specialises in trick-taking card "
+    "games, who knows the modern trick-taking scene well, from traditional games to the current wave of "
+    "small-box Japanese and Western designs, and who reasons about games through Raph Koster's "
     "Theory of Fun (fun is the pleasure of learning and mastering patterns; a game dies when its "
     "pattern is either solved or illegible) and the MDA framework (designers set Mechanics, which "
     "give rise to Dynamics at the table, which players experience as Aesthetics). "
-    "Your reader is a designer deciding what to prototype next, so be concrete and specific: name "
+    "The reader is a designer deciding what to prototype next, so be concrete and specific: name "
     "the actual rule, not the genre."
 )
 
@@ -122,12 +127,6 @@ def generate_prompt(cfg: Config, sources: list[dict], n: int) -> str:
         "core twist as an actual rule, the theme, which source games or signals it remixes, its "
         "mechanics, its player range and an honest estimated weight."
     )
-
-
-def topup_prompt(cfg: Config, existing: list[dict], n: int) -> str:
-    titles = "\n".join(f"- {v['title']}: {v['core_twist']}" for v in existing)
-    return (f"These variants already exist:\n{titles}\n\nWrite {n} more that are clearly different from "
-            "all of them, in the same format. " + constraints(cfg))
 
 
 def score_prompt(variants: list[dict]) -> str:
@@ -162,60 +161,7 @@ def pitch_prompt(cfg: Config, top: list[dict]) -> str:
     )
 
 
-# -- Claude ---------------------------------------------------------------------
-def claude_call(cfg: Config):
-    """Returns call(prompt, schema) -> parsed JSON, backed by the Claude API."""
-    import anthropic  # imported here so the crawler itself stays dependency-free
-
-    client = anthropic.Anthropic()  # credentials come from the environment
-
-    def call(prompt: str, schema: dict) -> dict:
-        try:
-            with client.beta.messages.stream(
-                model=cfg.analysis_model,
-                max_tokens=64000,
-                system=SYSTEM,
-                thinking={"type": "adaptive"},
-                output_config={"effort": cfg.analysis_effort,
-                               "format": {"type": "json_schema", "schema": schema}},
-                # If a safety classifier declines, let the API retry on its default fallback model.
-                betas=["server-side-fallback-2026-07-01"],
-                fallbacks="default",
-                messages=[{"role": "user", "content": prompt}],
-            ) as stream:
-                message = stream.get_final_message()
-        except anthropic.AuthenticationError as e:
-            raise AnalysisError("the Claude API rejected ANTHROPIC_API_KEY") from e
-        except anthropic.RateLimitError as e:
-            raise AnalysisError("Claude API rate limit reached; try again later") from e
-        except anthropic.APIStatusError as e:
-            raise AnalysisError(f"Claude API error {e.status_code}: {e.message}") from e
-        except anthropic.APIConnectionError as e:
-            raise AnalysisError("could not reach the Claude API") from e
-        if message.stop_reason != "end_turn":
-            raise AnalysisError(f"Claude stopped early ({message.stop_reason})")
-        return json.loads(next(b.text for b in message.content if b.type == "text"))
-
-    return call
-
-
 # -- pure steps (unit tested) ---------------------------------------------------
-def valid_variant(v: dict, cfg: Config) -> bool:
-    return (cfg.min_players <= v["players_min"] <= v["players_max"] <= cfg.max_players
-            and cfg.min_weight <= v["est_weight"] <= cfg.max_weight
-            and bool(v["title"].strip()) and bool(v["core_twist"].strip()))
-
-
-def add_variants(pool: list[dict], new: list[dict], cfg: Config, limit: int) -> None:
-    """Append valid, non-duplicate variants up to `limit`, assigning ids."""
-    seen = {v["title"].strip().lower() for v in pool}
-    for v in new:
-        key = v["title"].strip().lower()
-        if len(pool) < limit and key not in seen and valid_variant(v, cfg):
-            seen.add(key)
-            pool.append({**v, "id": len(pool) + 1})
-
-
 def total_score(s: dict) -> float:
     """Weighted 0-100 score; each dimension is clamped to 1-10."""
     return round(10 * sum(w * min(10, max(1, s[k])) for k, (_, w, _) in RUBRIC.items()), 1)
@@ -236,40 +182,6 @@ def rank(variants: list[dict], scores: list[dict]) -> list[dict]:
     return sorted(scored, key=lambda v: (-v["total"], v["id"]))
 
 
-# -- orchestration ---------------------------------------------------------------
-def analyse(cfg: Config, call) -> dict:
-    store = Store(cfg.data_dir)
-    date, sources = select_sources(cfg, store)
-    n = cfg.analysis_variants
-
-    first = call(generate_prompt(cfg, sources, n), GENERATE_SCHEMA)
-    variants: list[dict] = []
-    add_variants(variants, first["variants"], cfg, n)
-    for _ in range(2):  # top up if some were invalid, duplicated or simply missing
-        if len(variants) >= n:
-            break
-        more = call(topup_prompt(cfg, variants, n - len(variants)), TOPUP_SCHEMA)
-        add_variants(variants, more["variants"], cfg, n)
-    if len(variants) < cfg.analysis_keep:
-        raise AnalysisError(f"only {len(variants)} valid variants were generated")
-
-    ranked = rank(variants, call(score_prompt(variants), SCORE_SCHEMA)["scores"])
-    if len(ranked) < cfg.analysis_keep:
-        raise AnalysisError(f"only {len(ranked)} variants were scored")
-    top = ranked[: cfg.analysis_keep]
-    brief = [{k: v[k] for k in ("id", "title", "hook", "core_twist", "theme", "remixes", "mechanics",
-                                "players_min", "players_max", "est_weight", "total")}
-             | {"rationale": v["scores"]["rationale"]} for v in top]
-    pitches = {p["id"]: p["pitch"] for p in call(pitch_prompt(cfg, brief), PITCH_SCHEMA)["pitches"]}
-    missing = [v["title"] for v in top if not pitches.get(v["id"], "").strip()]
-    if missing:
-        raise AnalysisError(f"no pitch returned for: {', '.join(missing)}")
-    for v in top:
-        v["pitch"] = pitches[v["id"]].strip()
-    return {"date": date, "sources": sources, "signals": {k: first[k] for k in ("mechanics", "themes", "differentiators")},
-            "ranked": ranked, "top": top}
-
-
 def _cell(text) -> str:
     return str(text).replace("|", "\\|").replace("\n", " ")
 
@@ -277,7 +189,7 @@ def _cell(text) -> str:
 def render(result: dict, cfg: Config) -> str:
     top, ranked = result["top"], result["ranked"]
     L = [f"# Trick-taking design analysis — {result['date']}", "",
-         f"Generated by {cfg.analysis_model} from the {len(result['sources'])} most active games in the "
+         f"Generated by a scheduled Claude Code session from the {len(result['sources'])} most active games in the "
          f"{result['date']} snapshot. {len(ranked)} variants were generated and scored; the top "
          f"{len(top)} are pitched below. Scores are the model's judgement against a fixed rubric, "
          "useful for sorting ideas, not a forecast.", "",
@@ -317,17 +229,142 @@ def render(result: dict, cfg: Config) -> str:
     return "\n".join(L)
 
 
-def run(cfg: Config, call=None, path: str = OUTPUT) -> int:
-    if call is None:
-        if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
-            print("[bggwatch] analysis skipped: ANTHROPIC_API_KEY is not set", flush=True)
-            return 0
-        call = claude_call(cfg)
+
+# -- validation of what the session wrote -----------------------------------------
+def schema_errors(value, schema: dict, path: str = "$") -> list[str]:
+    """Check a value against the small JSON-schema subset used above."""
+    kind = schema["type"]
+    if kind == "object":
+        if not isinstance(value, dict):
+            return [f"{path}: expected an object"]
+        errs = [f"{path}: missing '{k}'" for k in schema["required"] if k not in value]
+        for k, sub in schema["properties"].items():
+            if k in value:
+                errs += schema_errors(value[k], sub, f"{path}.{k}")
+        return errs
+    if kind == "array":
+        if not isinstance(value, list):
+            return [f"{path}: expected an array"]
+        return [e for i, v in enumerate(value) for e in schema_errors(v, schema["items"], f"{path}[{i}]")]
+    ok = {"string": lambda v: isinstance(v, str),
+          "integer": lambda v: isinstance(v, int) and not isinstance(v, bool),
+          "number": lambda v: isinstance(v, (int, float)) and not isinstance(v, bool)}[kind](value)
+    return [] if ok else [f"{path}: expected {kind}"]
+
+
+def _load(name: str, schema: dict) -> dict:
+    path = WORK / name
+    if not path.exists():
+        raise AnalysisError(f"{path} does not exist yet")
     try:
-        result = analyse(cfg, call)
-    except AnalysisError as e:
-        print(f"[bggwatch] analysis failed: {e}", flush=True)
-        return 1
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        raise AnalysisError(f"{path} is not valid JSON: {e}") from e
+    errs = schema_errors(data, schema)
+    if errs:
+        raise AnalysisError(f"{path} has the wrong shape:\n  " + "\n  ".join(errs[:15]))
+    return data
+
+
+def _save(name: str, obj) -> None:
+    WORK.mkdir(exist_ok=True)
+    text = obj if isinstance(obj, str) else json.dumps(obj, ensure_ascii=False, indent=1)
+    (WORK / name).write_text(text + "\n", encoding="utf-8")
+
+
+def _format(schema: dict) -> str:
+    return ("Write the result as a single JSON document matching this JSON schema exactly "
+            f"(every key required, no extras):\n\n```json\n{json.dumps(schema)}\n```")
+
+
+# -- steps ------------------------------------------------------------------------
+def step_brief(cfg: Config) -> str:
+    date, sources = select_sources(cfg, Store(cfg.data_dir))
+    shutil.rmtree(WORK, ignore_errors=True)
+    _save("sources.json", {"date": date, "sources": sources})
+    _save("brief.md", f"{ROLE}\n\n{generate_prompt(cfg, sources, cfg.analysis_variants)}\n\n"
+                      f"{_format(GENERATE_SCHEMA)}\n\nSave it as `{WORK / 'generated.json'}`.")
+    return f"Snapshot {date}, {len(sources)} source games. Read {WORK / 'brief.md'} and follow it."
+
+
+def reject_reason(v: dict, cfg: Config, seen: set[str]) -> str | None:
+    if v["title"].strip().lower() in seen:
+        return "duplicate title"
+    if not (cfg.min_players <= v["players_min"] <= v["players_max"] <= cfg.max_players):
+        return f"player range {v['players_min']}-{v['players_max']} is outside {cfg.min_players}-{cfg.max_players}"
+    if not (cfg.min_weight <= v["est_weight"] <= cfg.max_weight):
+        return f"weight {v['est_weight']} is outside {cfg.min_weight}-{cfg.max_weight}"
+    if not v["title"].strip() or not v["core_twist"].strip():
+        return "empty title or core twist"
+    return None
+
+
+def step_check(cfg: Config) -> str:
+    gen = _load("generated.json", GENERATE_SCHEMA)
+    variants, seen, rejected = [], set(), []
+    for v in gen["variants"]:
+        why = reject_reason(v, cfg, seen)
+        if why:
+            rejected.append(f"'{v['title']}': {why}")
+        else:
+            seen.add(v["title"].strip().lower())
+            variants.append({**v, "id": len(variants) + 1})
+    need = cfg.analysis_variants - len(variants)
+    if need > 0:
+        raise AnalysisError(
+            f"{len(variants)} valid variants, {need} more needed. Fix or replace these in "
+            f"{WORK / 'generated.json'} and run check again:\n  " + "\n  ".join(rejected or ["(none rejected; the list is short)"]))
+    variants = variants[: cfg.analysis_variants]
+    _save("variants.json", variants)
+    _save("score-brief.md", f"{ROLE}\n\n{score_prompt(variants)}\n\n{_format(SCORE_SCHEMA)}\n\n"
+                            f"Save it as `{WORK / 'scores.json'}`.")
+    return (f"{len(variants)} variants accepted. Have a fresh sub-agent, which has not seen how they were "
+            f"written, read {WORK / 'score-brief.md'} and follow it.")
+
+
+def step_rank(cfg: Config) -> str:
+    variants = json.loads((WORK / "variants.json").read_text(encoding="utf-8"))
+    scores = _load("scores.json", SCORE_SCHEMA)["scores"]
+    missing = sorted({v["id"] for v in variants} - {s["id"] for s in scores})
+    if missing:
+        raise AnalysisError(f"{WORK / 'scores.json'} has no score for ids {missing}")
+    ranked = rank(variants, scores)
+    top = ranked[: cfg.analysis_keep]
+    _save("ranked.json", ranked)
+    brief = [{k: v[k] for k in ("id", "title", "hook", "core_twist", "theme", "remixes", "mechanics",
+                                "players_min", "players_max", "est_weight", "total")}
+             | {"rationale": v["scores"]["rationale"]} for v in top]
+    _save("pitch-brief.md", f"{ROLE}\n\n{pitch_prompt(cfg, brief)}\n\n{_format(PITCH_SCHEMA)}\n\n"
+                            f"Save it as `{WORK / 'pitches.json'}`.")
+    lines = "\n".join(f"  {v['total']:5.1f}  {v['title']}" for v in top)
+    return f"Top {len(top)} of {len(ranked)}:\n{lines}\nRead {WORK / 'pitch-brief.md'} and follow it."
+
+
+def step_render(cfg: Config, path: str = OUTPUT) -> str:
+    src = json.loads((WORK / "sources.json").read_text(encoding="utf-8"))
+    gen = _load("generated.json", GENERATE_SCHEMA)
+    ranked = json.loads((WORK / "ranked.json").read_text(encoding="utf-8"))
+    pitches = {p["id"]: p["pitch"].strip() for p in _load("pitches.json", PITCH_SCHEMA)["pitches"]}
+    top = ranked[: cfg.analysis_keep]
+    for v in top:
+        paragraphs = [p for p in pitches.get(v["id"], "").split("\n\n") if p.strip()]
+        if not 2 <= len(paragraphs) <= 3:
+            raise AnalysisError(f"the pitch for '{v['title']}' (id {v['id']}) has {len(paragraphs)} "
+                                "paragraphs; it needs two or three, separated by blank lines")
+        v["pitch"] = "\n\n".join(paragraphs)
+    result = {"date": src["date"], "sources": src["sources"], "ranked": ranked, "top": top,
+              "signals": {k: gen[k] for k in ("mechanics", "themes", "differentiators")}}
     Path(path).write_text(render(result, cfg), encoding="utf-8")
-    print(f"[bggwatch] analysis written to {path}: {len(result['ranked'])} variants scored", flush=True)
-    return 0
+    return f"Wrote {path}: {len(ranked)} variants scored, top {len(top)} pitched."
+
+
+STEPS = {"brief": step_brief, "check": step_check, "rank": step_rank, "render": step_render}
+
+
+def run(cfg: Config, step: str) -> int:
+    try:
+        print(STEPS[step](cfg), flush=True)
+        return 0
+    except (AnalysisError, FileNotFoundError) as e:
+        print(f"[bggwatch] analysis {step} failed: {e}", flush=True)
+        return 1

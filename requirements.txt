@@ -1,2 +1,0 @@
-# Only needed for `python -m bggwatch analyse`.
-anthropic>=2,<3

@@ -32,9 +32,7 @@ class Config:
     cache_ttl_hours: float = 20.0
     timeout: float = 30.0
 
-    # --- design analysis (Claude API) ----------------------------------------
-    analysis_model: str = "claude-opus-5-5"
-    analysis_effort: str = "high"
+    # --- design analysis ----------------------------------------------------
     analysis_sources: int = 20  # top games by heat fed to the analysis (hot-list games are added)
     analysis_variants: int = 100
     analysis_keep: int = 10
