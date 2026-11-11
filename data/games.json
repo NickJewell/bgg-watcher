@@ -529,10 +529,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "In each opening round of the trick-taking card game Nyet!, players take turns crossing out possible choices for starting player, trump, super trump, the number of cards you discard, and the value of tricks taken on a grid, leaving only one option in each category. Once the starting player is determined, that player chooses a partner, then the teams play out the round based on the conditions they collectively chose.",
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 1107,
   "max_players": 5,
@@ -567,10 +568,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Oh Hell! is a trick taking standard deck playing card game. The object is for each player to bid the number of tricks they think they can take from each hand, then to take exactly that many; no more and no fewer. Points are awarded only for making the bid exactly, and are deducted for missing the bid, either over or under. The hook is that at least one player will fail on each hand, because the total number of tricks bid by the players may not equal the number of tricks available on that hand. Also known as Oh Pshaw and Blackout. Similar but in board game form as: Canyon",
   "designers": [
    "Geoffrey Mott-Smith"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 1116,
   "max_players": 7,
@@ -679,10 +681,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Plotters, Inc., first released as Mit List und Tücke (\"With Cunning and Treachery\"), is a trick-taking game with quite a few twists. The deck consists of cards in four suits, and the deck is adjusted based on the player count so that everyone receives a hand of 14 cards to begin a round. At the start of a trick, the lead player plays any card, setting trump for that trick. Each other player plays any card that they like — except that once three colors of cards have been played, the fourth color cannot be played. Whoever plays the highest trump card wins the trick and collects two of the cards…",
   "designers": [
    "Klaus Palesch"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 113,
   "max_players": 6,
@@ -962,11 +965,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Rook is a trump-based trick-taking game played with a deck of Rook playing cards. It was first sold in 1906 by Parker Brothers. The Rook deck is similar to a standard deck of cards, but has only numbers from 1-14 in four colors (no face cards or card suits (spades, etc.)). The standard game is a 4-player partnership game with the 1's, 2's, 3's, and 4's removed for a deck of 41 cards (with the Rook card). Each hand, players bid for Trump, and then the partnership that won the bid must make the amount of points bid in the hand. Play of each trick is similar to Whist games like Bridge. The card…",
   "designers": [
    "George S. Parker",
    "Grace Parker"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 1260,
   "max_players": 6,
@@ -1451,12 +1455,13 @@
    "Card Game",
    "Farming"
   ],
+  "description": "In UGO!, players try to found a mighty kingdom. Eagerly they expand their empire with more and more countries – but only the areas that are well maintained by farmers shall ensure that a truly flourishing kingdom will be founded. UGO! is a trick-taking game. The starting player plays a card from hand, then in clockwise order the other players play a card of the same color, if possible, while playing a different color otherwise. The one who plays the highest card takes all the others. In a tie, the player who follows suit wins. If none of the players followed suit, then the first one wins. The…",
   "designers": [
    "Ronald Hoekstra",
    "Thomas Jansen",
    "Patrick Zuidhof"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 139326,
   "max_players": 4,
@@ -1658,11 +1663,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The object of HeartSwitch – a card game inspired by Hearts – is to have the lowest score at the end of the game. The sixty-card deck consists of the standard 52-card deck, plus four Magicians and four Witches, two good and two bad, with Witches ranking between Jacks and Tens. As in Hearts, HeartSwitch is a trick-taking game with fairly standard rules. The lead player plays a single card, then each other player must follow suit, if possible – except that a player can always choose to play a Magician. A Magician is a null card that can never win a trick (unless a trick consists only of…",
   "designers": [
    "Joe Andrews",
    "Ken Fisher"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 145478,
   "max_players": 6,
@@ -1729,10 +1735,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "The trick-taking game Wizard uses a sixty-card deck that consists of the traditional 52-card deck (1-13 in four suits) along with four Wizards (high) and four Jesters (low). Players compete over multiple rounds based on the number of players, and whoever ends with the highest score wins. In each round, players are dealt a hand of cards — one card in the first round, two cards in the second, three in the third, etc. — then trump is determined by flipping the top card of the undealt deck; if a suit is revealed, that suit is trump, while if the card turned up is a Jester, it is turned down and…",
   "designers": [
    "Ken Fisher"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 1465,
   "max_players": 6,
@@ -1880,11 +1887,12 @@
    "Nautical",
    "Pirates"
   ],
+  "description": "Skull King is a trick-taking game similar to Oh Hell!, Wizard, Euchre and Spades, with players needing to state how many tricks they think they'll win each round. A unique element of this game is that bidding takes place simultaneously, leading to rounds that are sometimes over, or under-bid. As players must win the exact number of tricks that they bid to earn points, winning too many tricks is just as bad as winning too few and this leads to intense competition where losing a trick can be as exciting as winning one. Skull King uses a 66-card deck that consists of five Escape cards, four…",
   "designers": [
    "Brent Beck",
    "Jeffrey Beck"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 150145,
   "max_players": 8,
@@ -1961,10 +1969,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Diamonds is a trick-taking card game in which players collect Diamonds — not cards bearing that suit, mind you, but rather actual \"Diamond Crystals\" (acrylic crystals) included in the game. What makes the game of Diamonds different from other trick-taking card games is that when you cannot follow suit you get a \"Suit Action\" based on what suit you do play. Suit Actions are also taken by the winner of each trick, as well as at the end of a full Round of play. Suit Actions will enable players to take Diamond Crystals from the Supply, moving them to their Showroom (where they may score 1 point)…",
   "designers": [
    "Mike Fitzgerald"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 152162,
   "max_players": 6,
@@ -1997,10 +2006,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "A long time ago hunters followed the footprints of animals to finally catch them. In Trump, Tricks, Game!, the players take tricks to get bear, wolf, wild boar, and muflon cards. In the first three game turns the number of tricks is predetermined whereas in the fourth and last turn each player tries to get as many tricks as possible. In addition to the basic game there are two optional rules for experienced players! Trump, Tricks, Game! contains 52 cards (animal cards and trump cards) and 1 rules booklet.",
   "designers": [
    "Günter Burkhardt"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 15261,
   "max_players": 4,
@@ -3341,10 +3351,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "You won't play just one trick at a time in Monster Trick, but up to four! This introduces many exciting choices: Serve this here? Those cards there? Do I open a new trick? With so many options you need to plan ahead carefully and find the right time to secure the most points. Can you predict the number of tricks you will win? There are other trick prediction games, but none where you must watch up to 4 tricks at the same time. Make exactly the number of tricks you predict, not one too many, nor one too few. If you lose your concentration for even a minute, your wily opponents will take your…",
   "designers": [
    "Ralf zur Linde"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 172309,
   "max_players": 5,
@@ -3452,10 +3463,11 @@
    "Card Game",
    "Music"
   ],
+  "description": "Take The \"A\" Chord, a.k.a. Aコードで行こう, is a trick-taking card game in which players become jazz musicians and compete in the strength of the chord. Cards come in five suits (colors) labeled A-G, and in a trick, you must play a card of the same suit led — unless you have a card in the same letter as a card previously played, in which case you can play that. Why would you do that? Because initially the highest-valued letter in the game, e.g. C, is determined randomly, with the other cards being ranked lower in C in order: C is higher than D, which is higher than E, etc. with G higher than A. When…",
   "designers": [
    "Saashi"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 174975,
   "max_players": 4,
@@ -3947,10 +3959,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The 17th and 18th centuries were the eras of science. Two of the most impressive personalities of that time were Leonard Euler and Maria Sibylla Merian (who in fact were related). Leonard Euler was a famous mathematician who rendered outstanding services to the number pi. Maria Sibylla Merian was not only a naturalist and explorer but also an artist. Her name stands for the style of detailed portrayal of nature – see her works on the metamorphosis of caterpillars to butterflies. The illustrations in this card game shall breathe life into that style again. The name Pi mal Pflaumen is a play on…",
   "designers": [
    "Matthias Cramer"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 181761,
   "max_players": 5,
@@ -4378,10 +4391,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "9 Lives is a trick-taking game where players compete to earn the most points. The game uses 3-4 suits which show the color of the cards on the rear. Players make bids of if they will win 1-6 tricks, and can bid exactly or within a range. Each number may only be bid up to two times. Points are earned if a player hits their bid and lost if they miss it. The game is \"must follow\" with a fixed trump suit. The winner of a trick also takes one of the cards played to the trick, other than their own, to place in their hand. The game ends after either four rounds or when a player has earned nine…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 189190,
   "max_players": 4,
@@ -4450,10 +4464,11 @@
    "Dice",
    "Pirates"
   ],
+  "description": "In Mino Dice, first released as Skull King: Das Würfelspiel, players try to predict the result of dice battles, and whoever predicts most accurately will come out the winner of the contest. The game includes seven types of dice: minotaurs, griffins, mermaids, and four types of number dice. The game lasts 6-8 hands depending on the number of players, and in each round each player draws a number of dice from the bag equal to the current hand, e.g., five dice for the fifth hand, then places them behind their screen, keeping these dice a secret from all. After getting their dice, each player…",
   "designers": [
    "Manfred Reindl"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 191071,
   "max_players": 6,
@@ -4487,10 +4502,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The trick-taking game Wizard uses a sixty-card deck that consists of the traditional 52-card deck (1-13 in four suits) along with four Wizards (high) and four Jesters (low). Players compete over multiple rounds based on the number of players, and whoever ends with the highest score wins. In each round, players are dealt a hand of cards — one card in the first round, two cards in the second, three in the third, etc. — then trump is determined by flipping the top card of the undealt deck; if a suit is revealed, that suit is trump, while if a Wizard or Jester (or no card in the final round) is…",
   "designers": [
    "Ken Fisher"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 191475,
   "max_players": 6,
@@ -4882,10 +4898,11 @@
    "Animals",
    "Fantasy"
   ],
+  "description": "Enjoy the feast by collecting Fish and Milké (an intoxicating mix of milk and catnip)! Be careful though! Even cats will get incapacitated if they drink too much! (Always drink responsibly!) Cats all over the country are always looking for their next feast. They love Fish and they can’t celebrate without Milké. As long as they have those two, they are all happy! Festival of a Thousand Cats is a Trick-taking game that is unlike normal ones - both small and large numbers matter! There are four suits (Spring, Summer, Fall and Winter) in the game. Each season has different distribution of…",
   "designers": [
    "Fukutarou"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 199086,
   "max_players": 4,
@@ -5065,10 +5082,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Dragonmaster is a trick-taking card game based on an older game called Coup d'État. Each player is given a supply of plastic gems, which represent points. Each player will get to be the dealer for five different hands, with slightly different goals for each hand. After all cards have been dealt out, the dealer decides which hand best suits his or her current cards, and the other players are penalized points (in the form of crystals) for taking certain tricks or cards. For instance, if \"first\" or \"last\" is called, then a player is penalized for taking the first or last tricks. All players will…",
   "designers": [
    "G. W. \"Jerry\" D'Arcey"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 2,
   "max_players": 4,
@@ -5139,10 +5157,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "In the game Pups you take the role of an aspiring dog trainer with dreams of winning big at the dog show. Each round you will gather a new pack of 7 lovable pups. You must groom them for success by bidding on how well you think they can perform at the show. After everyone has placed their bids the action begins as the pups start facing off! If your pups can win the number of showdowns you bid before the round ends you will earn the reward treats. But watch out… if you miss your bid you must gain the penalty poos. The player who can collect the most treats is the winner! Pups is a lighthearted…",
   "designers": [
    "Charlie Bink"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 200512,
   "max_players": 5,
@@ -5180,11 +5199,12 @@
    "Wargame",
    "World War II"
   ],
+  "description": "Pacific Typhoon is a card-wargame for 3-7 players, ages 10 to adult. The game uses the same system that first appeared in the popular 1998 Avalon Hill card game Atlantic Storm. The game setting is the naval and air war in the Pacific theatre during World War II. Pacific Typhoon depicts the history of the air-naval battles of the Pacific War with 40 battle cards, each of which represents an historical naval or air battle such as Pearl Harbor, Midway, Surigao Strait, etc. Players compete by fighting a non-sequential series of twenty of these battles. A battle lasts for one round of play, so…",
   "designers": [
    "John Coussis",
    "Ben Knight"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 20079,
   "max_players": 7,
@@ -5582,10 +5602,11 @@
    "City Building",
    "Territory Building"
   ],
+  "description": "Honshu is a map-building card game set in feudal Japan. Players are lords and ladies of noble houses seeking new lands and opportunities for fame and fortune. One game of Honshu lasts twelve rounds, and each round is divided into two phases. First, map cards are played in a trick, and the player who played the highest valued card gets to pick first from those cards played. Then the players use the map cards picked to expand their personal maps. Each player must expand their personal maps to maximize their scoring possibilities. Manipulating your position in the player order is crucial for…",
   "designers": [
    "Kalle Malmioja"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 207336,
   "max_players": 5,
@@ -5946,12 +5967,13 @@
    "Card Game",
    "Religious"
   ],
+  "description": "In the teachings of the Catholic Church, an indulgence may be granted to relieve sins. In some cases, this might be by doing good works or engaging in meaningful prayer, but in the darkest of times, indulgences were sold to anyone willing to make a significant \"contribution\". As the rising families of the Italian Renaissance conspired and plotted to seize control, the indulgence offered a clear conscience for many a questionable deed committed in the name of power. Indulgence is a trick-taking game for 3-4 players. On their turn, players choose an edict that gives the rule for the hand. The…",
   "designers": [
    "G. W. \"Jerry\" D'Arcey",
    "Rob Daviau",
    "Justin D. Jacobson"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 215308,
   "max_players": 4,
@@ -6381,10 +6403,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "The Fox in the Forest is a trick-taking game for two players. Aside from the normal ranked- and suited-cards used to win tricks, fairy characters such as the Fox and the Witch have special abilities that let you change the trump suit, lead even after you lose a trick, and more. You score points by winning more tricks than your opponent, but don't get greedy! Win too many tricks, and you will fall like the villain in so many fairy tales...",
   "designers": [
    "Joshua Buergel"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 221965,
   "max_players": 2,
@@ -6880,11 +6903,12 @@
    "Political",
    "Renaissance"
   ],
+  "description": "Description from the publisher: These are uncertain times. There has been a power void since the coup. Everyone from the highest aristocrat to the lowliest gang boss strives to gain the support of the guilds — but to get this means bribery, skullduggery, and knowledge of the four most powerful and influential figures in the city. Knowing when to strike requires cunning and prudence. News travels fast, and no guild wants to become infamous...unless of course they can profit from it! In Pot-de-Vin, the goal is to collect sets of different guild symbols by winning rounds and claiming the cards…",
   "designers": [
    "Fel Barros",
    "Warny Marçano"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 232078,
   "max_players": 6,
@@ -6986,11 +7010,12 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Description from the publisher: Knowledge is power, but with power must come control. In Druids, the novices of the Stonehenge Academy must collect experience points in various knowledge domains, but you don't want knowledge from just any domain because if you enter a domain not intended for you, then you lose all knowledge previously gained that round. In more detail, each player is dealt a hand of cards, with the deck containing cards in five colors, numbered 1-12 in each color. Players then play a trick-taking game, and whoever wins a trick must place the cards sorted by domain (color) in…",
   "designers": [
    "Günter Burkhardt",
    "Wolfgang Lehmann"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 232417,
   "max_players": 5,
@@ -7022,10 +7047,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "The King is dead! What happened? Nobody really knows, but he was found face down in a wine barrel this morning. It could have been either foul play or his own thirst that did him in. Regardless, the King is dead without any known heirs, so it's up to the five factions of the realm to decide who will be the new king: Will it be you or your opponent? Do you have what it takes to win over the realm's factions? Claim is played in two distinct phases. In phase one, each player gets a hand of cards that they use to recruit followers. In phase two, they use the followers from phase one to compete…",
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 233961,
   "max_players": 2,
@@ -7060,10 +7086,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Voodoo Prince is not about making as many or as few tricks as possible or about making a precise number of tricks, but rather about taking the necessary tricks as late as possible. If you wait too long, however, then you might end up with no points in the end.",
   "designers": [
    "Reiner Knizia"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 234248,
   "max_players": 5,
@@ -7178,10 +7205,11 @@
    "Card Game",
    "Nautical"
   ],
+  "description": "Hoist your sails and mind those tricky tides! Take command of a merchant ship and manage your hand of navigation cards and the goods in your ship’s cargo hold while charting the best course on the map. Travel from island to island collecting goods and delivering them to earn the most gold. Tricky Tides is a pick-up-and-deliver game that uniquely employs trick taking to determine turn order and the direction players can move their ships. —description from the publisher",
   "designers": [
    "Steven Aramini"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 234776,
   "max_players": 4,
@@ -7701,10 +7729,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Pikoko is a trick-taking game that follows conventional trick-taking rules with two twists: Each round, players receive a hand of eight cards, but they don't see their own cards — only cards held by the other players. Each player plays cards of the player to their left, not their own cards.",
   "designers": [
    "Adam Porter"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 244505,
   "max_players": 5,
@@ -7841,10 +7870,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "From the Amigo rules: The players collect cards by winning tricks, and these cards are sorted in a special way. The players divide cards into piles by color during the course of the game, and only the point value of the topmost card in each pile counts at the end of the round. The goal of the game is to score as many points as possible. A note about game play: The deck includes five suits, but players don't need to follow suit during play. Instead suits are important because you have five scoring opportunities each round. The game lasts as many rounds as there are players. (The English name…",
   "designers": [
    "Reiner Stockhausen"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 24771,
   "max_players": 5,
@@ -7910,10 +7940,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "The King is dead! What happened? Nobody really knows, but he was found face down in a wine barrel this morning. It could have been either foul play or his own thirst that did him in. Regardless, the King is dead without any known heirs, so it's up to the five factions of the realm to decide who will be the new king: Will it be you or your opponent? Do you have what it takes to win over the realm's factions? Claim 2 is played in two distinct phases. In phase one, each player gets a hand of cards that they use to recruit followers. In phase two, they use the followers from phase one to compete…",
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 249763,
   "max_players": 2,
@@ -8097,10 +8128,11 @@
    "Fantasy",
    "Mythology"
   ],
+  "description": "StoryLong time ago in the land of rising sun, spirits and demons known as Yokai were harming human lives. Yokai did not directly attack people, but they were causing supernatural disasters: Yokai caused farmlands to burn, rivers to flood, thunders to roar, and diseases to spread. One day a chieftain of the nearby village visited you, an Onmyoji, a practitioner of Japanese esoteric cosmology. Through your knowledge of astronomy and occultism, you discover the only way to help save the village. It is simple: the more Yokai you manage to capture, the less the menace caused by these demons. After…",
   "designers": [
    "Muneyuki Yokouchi (横内宗幸)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 251433,
   "max_players": 4,
@@ -8596,10 +8628,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Publisher's summary 七つの予言 (Nanatsu no Yogen) (Seven Prophecies) is a betting trick-taking card game. Story You can predict the future, the order whereby the cards are played. You thought that you'd never lose the game with such a skill, but it seems that all the players can predict the future likewise. Will you manage to make your prediction come true and win the future? Overview The players, using the cards dealt to them as their hands, play 7 to 10 units of mini-games, called tricks. Before starting the game, predict how many times you will come 1st, 2nd, and other places. The first player…",
   "designers": [
    "折口 日向 (Hinata Origuchi)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 260568,
   "max_players": 4,
@@ -9041,10 +9074,11 @@
    "Card Game",
    "Science Fiction"
   ],
+  "description": "You've done it! You've cracked the code to unlock time travel! Your breakthrough invention has the potential to revolutionize the world as we know it, and undoubtedly your genius will be celebrated across the globe. However, it appears that some of your scientific colleagues within the laboratory are trying to use your invention to travel back in time and claim the credit for themselves. You must stop them and claim your rightful place in history! Time Chase is a trick-taking game with a twist. You are allowed to travel back in time to previous tricks, known as events, and change their…",
   "designers": [
    "Jonathan Woodard (II)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 276924,
   "max_players": 6,
@@ -9150,10 +9184,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Three-Dragon Ante: Legendary Edition is a re-imagining of the original classic Dungeons & Dragons Three Dragon Ante, a casual standalone card game of chance for two to six players. Each hand, players ante gold to the stakes and compete to play the strongest flight of three cards, dragons, or mortals. The strongest flight wins that gold from the stakes, but playing weaker cards triggers your cards' powers and sets you up to win the next hand. This Legendary Edition includes new Legendary Dragons, Mortals, Gold and Platinum Pieces, and Ability Disks for combining Three-Dragon Ante with the…",
   "designers": [
    "Rob Heinsoo"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 280501,
   "max_players": 6,
@@ -9188,10 +9223,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Zimbabweee Trick, also known as ジンバブエトリック, is a trick-taking game that aims to simulate currency hyperinflation, and uses a deck of cards consisting of one 1, two 2s, three 3s, etc. up to ten 10s. Players must follow the rank of the card played by the start player if possible, and cards are not removed after the trick is over. Rather, the next card a player plays will be set on top of the previously played cards. That is, if a player first plays a 2, then a 9, and then a 5, in this game the player has played a 2 to the first trick, 92 to the second, and 592 to the third. At the end of the…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 282255,
   "max_players": 4,
@@ -9261,10 +9297,11 @@
    "Science Fiction",
    "Space Exploration"
   ],
+  "description": "In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space. With each mission the game becomes more difficult. After each mission the game can be paused and continued later.…",
   "designers": [
    "Thomas Sing"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 284083,
   "max_players": 5,
@@ -9523,8 +9560,9 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "In the two-player, co-operative trick-taking game The Fox in the Forest Duet, players team up, helping each other move through the forest. Collect all the gems before the end of three rounds of play, and you win! To set up the game, place gem tokens on the designated spaces of the game board and the team tracker token in the center of the movement path. At the start of each round, shuffle the deck of thirty cards — which contains three suits, each numbered 1-10 — and deal each player a hand of eleven cards. Reveal one card as the \"decree\" card to determine the trump suit. For each trick, one…",
   "designers": [],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 288169,
   "max_players": 2,
@@ -9734,10 +9772,11 @@
    "Card Game",
    "Novel-based"
   ],
+  "description": "Jekyll vs. Hyde is a trick-taking game for two players based on the famous novella Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson. As Dr. Jekyll, you'll need to resist Mr. Hyde's fierce attacks to protect your mind and keep the secret of your dual nature. As Mr. Hyde, your goal is to dominate Dr. Jekyll to overcome his identity. One player is Dr. Jekyll ; the other is Mr. Hyde. The game plays in three rounds. At the end of each round, Dr. Jekyll's identity will progressively disappear under Mr. Hyde's relentless attacks. Compare the number of tricks that each player has won…",
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 297129,
   "max_players": 2,
@@ -10348,10 +10387,11 @@
    "Deduction",
    "Fantasy"
   ],
+  "description": "Shamans try to restore harmony in a world threatened by Shadows. You'll need to pick a side. The game combines with ingenuity: hidden roles, competitive play and an original card playing mechanic. Each played card allows you to stabilise the spirit world, perform a Ritual, acquire an Artefact ; and together they will bring you closer to the final showdown between Shadows and Shamans. When time comes, the victor will be the one who managed to read through his rivals and stuck to the right side in this never-ending confrontation. —description from the publisher (translated)",
   "designers": [
    "Cédrick Chaboussit"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 313262,
   "max_players": 5,
@@ -10459,11 +10499,12 @@
    "Environmental",
    "Mythology"
   ],
+  "description": "Some say Anansi is a trickster, but he is a spider for sure and sometimes even a man. Let me tell you why he is also known as the \"Keeper of Stories\": One day, Anansi decided to gather all stories and become the wisest of all. After many years, he finally had all the stories in the world, but poor Anansi did not feel any wiser. Eventually he realized that true wisdom is not achieved by keeping knowledge to yourself, so he decided to share his stories and inspire people with them — and believe it or not, that was how this game was made! In the trick-taking card game Anansi, you have to be…",
   "designers": [
    "Cyril Blondel",
    "Jim Dratwa"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 317983,
   "max_players": 5,
@@ -10926,10 +10967,11 @@
    "Card Game",
    "Science Fiction"
   ],
+  "description": "§egment Trix, also called Seven Segment Trix, is a trick-taking game where the card ranks are shown in a \"seven segment\" font, such as that used in digital clocks. The game includes wooden segments that the players can add to cards to adjust their value. The amount of unused segments a player has will determine their bid for the round. For instance, a segment placed horizontally across a \"0\" will create an \"8\". More exotic options are also possible, as three segments placed on a \"7\", played upside down\", can create a \"6\". The trick-taking phase uses a \"must follow\" format, with a fixed trump…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 324344,
   "max_players": 4,
@@ -10962,10 +11004,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "キャットインザボックス (Cat in the Box) is a trick-taking card game from Japan, based upon ideas from quantum mechanics. Players play cards from their hands of different values. But the colour of the card is not determined until the card is played, and the cat is let out of the box. Played over three rounds for three players, and four rounds for four, players begin by making a bid on the number of tricks they will win, based only upon the value of their hand cards. The cats on the cards have no colour at this point. Players will score for tricks they win, and score more for completing their bid. As a…",
   "designers": [
    "Muneyuki Yokouchi (横内宗幸)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 324345,
   "max_players": 4,
@@ -10999,10 +11042,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Schadenfreude is a trick-taking game. The game ends when any player has scored more than 40 points, and the winner is the closest to 40 without going over. The card distribution includes some ranks of negative value, is a \"must follow\" game, and does not include any trump suits. The winner of a trick is the person who played the second highest card of the lead suit. That player collects their card and any cards which did not follow suit into a score pile. However, a player can have at most one card of each rank in their score pile. If they would collect a second, both cards are instead…",
   "designers": [
    "ctr"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 324711,
   "max_players": 5,
@@ -11036,10 +11080,11 @@
    "Card Game",
    "Spies / Secret Agents"
   ],
+  "description": "The Mostly Cooperative Trick-Taking Game You are a group of secret agents and must work together to complete your missions. But beware! An insider is hiding amongst you, sabotaging you at every turn and collecting secret information along the way. In this (mostly) cooperative trick-taking card game, you slip into undercover roles. Who is acting suspiciously? Who can you trust? Complete a mission with each trick and find out who is the insider. A (mostly) cooperative trick-taking card game for groups of three to five players. Each player assumes the role of secret agent tasked with various…",
   "designers": [
    "Tanner Simmons"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 324914,
   "max_players": 5,
@@ -11408,10 +11453,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "This game illustrates Herr Rosenberg's talent for unique card games. The deck is one through nine in six suits, with two of each card (two 1s, two 2s, etc.). After the initial hand of eight is dealt, players select one card value to collect, which is placed face-up in front of each player. A fairly standard trick-taking game takes place with the remaining cards, with players following suit if they can. If you cannot, the card you play can be trump, if you desire. If two cards of the same suit/value appear, the second can be declared as either high or low. When a player wins a trick, the cards…",
   "designers": [
    "Uwe Rosenberg"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 338,
   "max_players": 4,
@@ -12308,10 +12354,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "AVíO is a trick-taking game in which you must choose wisely which cards to play, and even more which one to keep, in order to win. The cards in AVíO, as in other trick-taking games, have a value and a suit. The special feature is that they also contain an objective to be fulfilled (an avio). In each round, players are dealt 9 cards and 8 tricks are played. The card that is not played determines the objective of each player in the round and the points he/she gets if he/she fulfills it. The first player to score 30 points wins the game.",
   "designers": [
    "Ron Gonzalo García"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 351773,
   "max_players": 6,
@@ -12661,10 +12708,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In the trick-taking card game Stick 'Em, first released as Sticheln, players seek to gather points each hand by taking as many cards as possible of all but one color, while trying to avoid cards of one color of their choosing. In more detail, at the beginning of each hand, each player simultaneously selects and reveals one card from their hand, with the color of this card representing their \"pain\" color. At the end of the hand, each card of this color that they've collected (including their initial choice from their hand) is worth negative points equal to the card's face value. Each card of…",
   "designers": [
    "Klaus Palesch"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 354,
   "max_players": 6,
@@ -12909,10 +12957,11 @@
  "358669": {
   "average": 6.795,
   "categories": [],
+  "description": "In 12チップトリック (12 Chip Trick), a trick-taking game for exactly 3 players, the players are attempting to score the most points, but if a player scores 21 or more, their points are halved. The game uses 12 discs, half red and half black, numbered 1 to 12. It is a \"may follow\" game where the players draft the discs played to the trick back to their hands. The winner takes a disc face up, not to be used again. The other players take discs face down, into their hand. The game ends once a player has no discs to play. All players reveal their 4 discs and sum their points. The player with the most…",
   "designers": [
    "root (ルート)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 358669,
   "max_players": 4,
@@ -13226,11 +13275,12 @@
    "Card Game",
    "Economic"
   ],
+  "description": "It's 10 am and the Animalia Stock Exchange opens its doors, attracting many investors in search of the best business opportunities. Jacques and Marie, a couple of rabbits, want to secure a quick profit on Carotte Orange SCA shares. Felipe, the shark, tries to convince Karl, the pig, that Peixe Azul S.A. It's a good deal, but the pig is only interested in Roter Apfel AG, whose shares have already earned him good profits recently. Hank the bull is confident of Green Grass Inc.'s rising profits, but Sofia the bear prefers to be more cautious and make a safe investment in Miele Giallo S.p.A.…",
   "designers": [
    "Robert Coelho",
    "Luis Francisco"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 364277,
   "max_players": 5,
@@ -13368,11 +13418,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Flags of all colors dance in the wind as Navirians converge to Trawl for the long-awaited Banner Festival. Generate the most profits for your trading house by selling goods, befriending the right suppliers, and making bets at the watercraft race. Opportunities abound in the floating market, but only the keenest trader will prevail! Each turn, aim to play the highest, mid, or lowest Merchandise card to unlock different actions. Utilize multi-use cards in dynamic trick-taking bouts to gain an advantage over your rival merchants. There are numerous paths to victory, but reading your opponents…",
   "designers": [
    "J.B. Howell",
    "Michael Mihealsick"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 364994,
   "max_players": 5,
@@ -13669,10 +13720,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "Short Zoot Suit is a trick-taking game that exists in the land of Bollywoods, or Bear Hollywood. The bears are out tonight, looking good, but making sure their suits aren't too short! Players try to balance the number of tricks they win with the number of times they played off-suit, or short-suit. At the start of the hand, players create a personal draw deck out of some of the cards they are dealt. Drawing from this deck can help players manipulate their hands for later play and short-suiting. The game ends when any player is out of cards, allowing for player-defined hand lengths.…",
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 366458,
   "max_players": 4,
@@ -13877,10 +13929,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Tatsu is a trick-taking card game for 2 to 4 players in which you capture spirits to earn points by playing cards from your hand, while sometimes choosing when your opponent plays for you. Carefully choose when to play your strongest cards and when to press your luck with fusion cards to collect even more cards from your opponent. You and your opponent have the same decks, though, and they can fight back just as hard as you, so always think two steps ahead in order to claim the most cards and (most importantly) your opponent's multiplier spirits. Spirits are divided into two distinct clans:…",
   "designers": [
    "Wolfgang Werner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 369084,
   "max_players": 4,
@@ -13949,10 +14002,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "The fifth anniversary of Claim will be celebrated with a special limited Claim Anniversary Edition. In this edition the factions that where released in Claim and Claim 2 are re-illustrated by five different illustrators each with their own style. Next to these factions, the Anniversary Edition contains seven new factions; Automatons, Folk Singers, Griffins, Farmers, Racoons, Royals, Vikings. Also four new scenario cards (S18 - S21) are added to the package. —description from the publisher",
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 370325,
   "max_players": 2,
@@ -14106,11 +14160,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "As a Mayan priest in Prophecy, your role is to interpret the cycles of creation and destruction on the different calendars. Make the most accurate prophecies to become the one and only Grand Priest. Sacrifice cards and try to win the corresponding tricks to prove your worth.",
   "designers": [
    "Christopher Haviland",
    "Robert A. Kamp"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 373435,
   "max_players": 6,
@@ -14143,10 +14198,11 @@
    "Card Game",
    "Number"
   ],
+  "description": "Fives is a trick-taking game for three or four players. The reverse side of the cards shows a magenta 5. The game is a must-follow game, with a fixed trump suit. In general, if you can follow suit you must, but in many cases you can play one of your cards face down as a magenta 5. However, only one magenta 5 may appear in any trick. The winner of the trick takes all cards played to the trick, with their card on top. At the end of the hand, points will be lost by any player whose top cards sum to more than 25, and points will be won for those whose cards sum to 25 or less, with the most points…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 374024,
   "max_players": 4,
@@ -14211,10 +14267,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "A 3-player trick-taking game with a must-follow trump card, but there's a 4th player (a robot: 'Robo' in play). Suits are 1 to 13 in 4 colors. Robo will play cards according to their program, so it depends on their program whether to play small and large number cards when following suit. You can win up to 3 tricks out of 12 tricks, but if you win 4 tricks or more, you lose points.",
   "designers": [
    "Domi (ドミッチ)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 374866,
   "max_players": 3,
@@ -14607,13 +14664,14 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Snow White, The Little Mermaid, Cinderella, and many other fairy tale princesses are celebrating a five-day party. The prince charmings, who have not been invited, will try to infiltrate the ball to propose marriage to the girls. As a princess, you have to avoid marriage proposals and remain single and independent after the celebrations. Rebel Princess takes place over five rounds, representing the five days of a party, and each round has a special rule that makes each game totally different. The general mechanisms are those of trick-taking games, in which each player plays a numbered card…",
   "designers": [
    "Daniel Byrne",
    "José Gerardo Guerrero",
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 381249,
   "max_players": 6,
@@ -14649,11 +14707,12 @@
    "Horror",
    "Novel-based"
   ],
+  "description": "Many years after the confrontation with Van Helsing, Dracula landed in Whitby, England once again. The citizens of Whitby sought help from the vampire hunter, Professor Van Helsing. Will Van Helsing defeat Dracula before he transforms all the inhabitants into vampires? In Dracula vs Van Helsing, each player controls one of the title characters. Van Helsing must remove all of Dracula's life points to win, but if Dracula turns all four inhabitants of the same district into vampires first, Dracula wins. The game lasts at most five rounds. Each round, players play in turn (starting with Dracula),…",
   "designers": [
    "Maxime Rambourg",
    "Théo Rivière"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 381278,
   "max_players": 2,
@@ -14841,10 +14900,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Pies is a quick and tasty trick-taking game in which players play fruit cards over the course of three rounds with the goal of collecting combinations of ingredients to prepare the tastiest pies Each round consists of six tricks (five in a five-player game). One card is played by each player, with the person playing the highest-value card drafting one card from the trick into their display, with others following in order of descending card value, with the last player also receiving a Plum card. Special actions can be triggered at this point, allowing players to steal fruit cards or call the…",
   "designers": [
    "Matthias Cramer"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 383450,
   "max_players": 5,
@@ -14876,10 +14936,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "Lunar is a quick-playing, trick-taking game for two or four players in which players combine the phases of the moon and nocturnal animals to form cards played into tricks, which are combined to determine their value within each trick. Each round consists of twelve tricks played, and at the end of each round, a score is awarded based on the number of tricks and cards acquired. Once one player (or team) reaches 30 points, the game ends, and the side with the most points wins! —description from the publisher",
   "designers": [
    "Masato Uesugi"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 383452,
   "max_players": 4,
@@ -14910,10 +14971,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Tricky Time Crisis is a trick-taking game for 3-5 players with a Superhero and Time theme. It is a can't follow trick-taking game, where each player must play a different suit to the trick. If more than one card of the same suit would be played to a trick, two copies of the same person are in the same timeline and a paradox occurs with the hand ending early. In this game a time-jumping super villain named Dr. Tricky-Time is trying to destroy the timeline and it’s up to a group of heroes named Kid Cuckoo (the rookie), Double Take and Double Time (a pair of twins with the powers to double the…",
   "designers": [
    "Jon Barron"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 383701,
   "max_players": 6,
@@ -14946,10 +15008,11 @@
    "Card Game",
    "Sports"
   ],
+  "description": "In the world of Savage Bowl, anything's game. Late hits, excessive celebrations, cheap shots, crushing tackles, bribing the officials — do anything you can to score in the flashiest way! While surviving all this carnage, your goal in Savage Bowl is to win an exact number of tricks (based on the player count). Play cleverly as the ref can penalize you for being too savage. In the first half of the game, they give yellow card penalties to the highest-value cards in each trick, then the second most valuable player wins the trick. The carded player also has to sit out the next round! In the…",
   "designers": [
    "URiO"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 383791,
   "max_players": 5,
@@ -15485,10 +15548,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "Look, Enemy Anemone is a trick taking game featuring cards with numbers. There's not really a lot of theme here, but you've got to admit the name is pretty fun to say. Choose one suit per player; each suit has ranks 1-10. Shuffle the deck, then deal ten cards to each player. Set the nine anemone cards within reach. The start player plays one card face up in front of themselves. Each other player in clockwise order must play a card face up in front of themselves in a suit that has not yet been played into the trick. If a player cannot play a suit that has not been played, they discard a card…",
   "designers": [
    "Daniel Newman"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 391985,
   "max_players": 6,
@@ -15664,10 +15728,11 @@
    "Card Game",
    "Renaissance"
   ],
+  "description": "Passions flamed and power waned. King Henry pursued Anne Boleyn for almost seven years before they were married. Those loyal to Catherine of Aragon did not accept Anne Boleyn, and considered King Henry’s first wife the rightful Queen. Those loyal to Anne Boleyn saw her as the future, the young wife who would surely give the King a son. The Six of VIII is a trick-taking game played on a timeline. Each Queen has her own suit which is trump during her reign. Players must capture tricks containing crucial courtiers and score the most points. The suits, and the years on the timeline, are…",
   "designers": [
    "Carol LaGrow"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 394691,
   "max_players": 4,
@@ -15840,11 +15905,12 @@
    "Math",
    "Science Fiction"
   ],
+  "description": "In this trick-taking game, winning a Trick isn’t always desired because each card has a ‘Science’ (+) and ‘Madness’ (-) side that could challenge the balance of players’ Score Piles. Trick winners take an opponent’s card into one of their matching Score Piles - 2 suits of which are imbalanced from the start - with the goal to reduce each suit to 0. The lowest total score wins! —description from the publisher",
   "designers": [
    "John Brieger",
    "Chris Handy (I)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 396334,
   "max_players": 4,
@@ -15880,11 +15946,12 @@
   "categories": [
    "Renaissance"
   ],
+  "description": "Shakespeare’s First Folio has players taking the role of printers in the early Seventeenth Century competing to print the first folio of Shakespeare’s plays. Players will utilize a combination of trick-taking and worker placement to collect as many plays as possible. The plays are suited - Histories, Comedies and Tragedies. There are also historical patrons and personages who will help the players out. A game ends immediately when the last Play is taken by a player. The most points wins and will print Shakespeare's First Folio!",
   "designers": [
    "Kate Bertram",
    "Kevin Bertram"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 396341,
   "max_players": 4,
@@ -15992,10 +16059,11 @@
    "Deduction",
    "Murder / Mystery"
   ],
+  "description": "Stich für Stich is a highly suspicious crime card game for all sleuths, confidants, and knife guys! Four shady characters and seven dubious objects play the leading role here. Only one confidant knows who the perpetrator and the murder weapon are; all the other players are in the dark. But every trick is a clue because the murderer and the weapon always come up trumps, so the sleuths track down the culprit trick by trick. At the same time, the confidant who knows what's what tries to mislead their fellow players with nasty tricks. Only those who keep a cool head during the investigation and…",
   "designers": [
    "Markus W. Leon"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 398772,
   "max_players": 4,
@@ -16235,11 +16303,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "CATsle Builders / 猫の城大工~ is a trick-taking game for 3-5 players. Players aim to build a more robust castle by aligning five types of buildings as planned. The structures that will be built will change depending on the ranking of the battles held during each round. Adjust your ranking while predicting your and your opponent's hands, collect cards according to the blueprint, and aim to become the best castle builder! (Additional information: This work is a remake of \"Anou\", which won the Trick Taking Party 2017 Grand Prize) CATsle Builders は3~5人用のトリックテイキングゲームです。…",
   "designers": [
    "Fukutarou",
    "Yozaemon Matumoto (松本与左衛門)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 405460,
   "max_players": 5,
@@ -16346,10 +16415,11 @@
    "Card Game",
    "Novel-based"
   ],
+  "description": "The Crew: Family Adventure crossed the gameplay of The Crew: The Quest for Planet Nine with the setting of The Swiss Family Robinson. Players find themselves stranded on a deserted island and have to find their way around together. Eating, sleeping, making decisions — how will the adventure end?",
   "designers": [
    "Thomas Sing"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 406299,
   "max_players": 5,
@@ -16420,10 +16490,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Sweet Takes is a trick-taking game in which each suit played into a trick will have a winner. The deck contains multiple colors of cards numbered 1-10, and you use one more color than the number of players. Each player receives a hand of nine cards and three face-down cards that they cannot look at. The lead player in a trick plays a card, then the next player must play this color, if possible, throwing off a different color if they can't. The third player must play the first color, if possible, or the second color if they can't, throwing off a different color if they can't do either, etc.…",
   "designers": [
    "Hisashi Hayashi"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 407581,
   "max_players": 5,
@@ -16947,10 +17018,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "You've joined a hot air balloon festival in which the goal is to go higher than your opponents. Dump as many sandbags as you can — and try to gain rockets as well! — to send yourself higher and higher to win. Sandbag is a trick-taking game of avoiding tricks, manipulating trump, and reconfiguring your hand of cards. In each of the three rounds, you configure your basket with two face-up cards; the most common color among all players' cards is the trump suit. Each trick, players either play from their hand, play a sandbag (to sluff, that is avoid winning the trick), or play one of their…",
   "designers": [
    "Ted Alspach"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 412381,
   "max_players": 6,
@@ -17117,10 +17189,11 @@
    "Card Game",
    "Music"
   ],
+  "description": "In the card game Xylotar, you’ve found the long-lost xylotar schematics for the instrument originally designed by Bobby McColdsnap and Keifer Basset. This unique musical device was based on both xylophone and synthesizer technology in the mid-80s and was created as an alternative to the keytars of the era. Without knowing exactly how it should work, play until you discover the sweetest sounds. The player who scores the most points has found the perfect balance of 80s synthesizer rock and modern carimba-style melodies. Only then can you mass produce the xylotar, succeeding in your goal of…",
   "designers": [
    "Christopher Wray"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 414302,
   "max_players": 5,
@@ -17265,10 +17338,11 @@
    "Card Game",
    "Print & Play"
   ],
+  "description": "It was a beautiful day in Hawthorn Heath. People were dancing, reading, playing. Suddenly the weather changed. No one was ready. Except for you, a clever merchant. Sell umbrellas when it rains, ice cream when it’s hot, tea and coffee when it’s cold, kites when it's windy, and lanterns when it's foggy. But customers are savvy, so only the merchant with the last lowest price will make the sale. Park Life: People is a trick taking game with set collecting and tableau building about careful timing, profiting from opportunity, and adapting to other player's strategies. Park Life has 5…",
   "designers": [
    "Dylan Coyle"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 414944,
   "max_players": 4,
@@ -17303,11 +17377,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "It takes two to tango, but only one dancer will stand tall in this trick-taking game for two players! In Tango, players play cards (both from their hand and from their face-up display), in order to perform the best possible dance steps. Plan ahead as best you can, but remember your opponent knows some of the steps you will take! Will you be named lord or lady of the dance? —description from the publisher",
   "designers": [
    "David Harding (II)",
    "Matt Sims"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 415472,
   "max_players": 2,
@@ -17373,10 +17448,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Onstage is a \"must follow\" trick-taking game in which you play as a theater company competing for the best performers to join your troupe. By winning tricks, you claim performers onstage. The trump suit is determined by the most valuable performers currently onstage and will change throughout the game as you recruit and manipulate the line of performers. The deck consists of 36 cards, numbered 1-9 for each of the four suits. Each suit has three performers, one each valued at 1, 2, and 3 points, which represent the featured, supporting, and lead actors respectively. The values 1, 4, and 7 of…",
   "designers": [
    "Michael Orion"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 417224,
   "max_players": 5,
@@ -17449,13 +17525,14 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Snow White, The Little Mermaid, Cinderella, and many other legendary princesses are celebrating a five-day party. The prince charmings of the land, who have not been invited, have infiltrated the ball to propose marriage. As an independent princess, you have to avoid marriage proposals and remain single. Avoid the most proposals and become the Rebel Princess! Rebel Princess takes place over five rounds, representing the five days of a party, and each round has a special rule that makes each game totally different. The general mechanisms are those of trick-taking games, in which each player…",
   "designers": [
    "Daniel Byrne",
    "José Gerardo Guerrero",
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 418556,
   "max_players": 6,
@@ -17560,10 +17637,11 @@
    "Card Game",
    "Nautical"
   ],
+  "description": "In Fishing, you try to catch as many tricks as possible over eight rounds, with each card you catch being worth 1 point. You then use your caught cards for the next round — and if you didn't catch enough tricks to fill your hand, you'll draw fresh cards from the ocean stack, which will introduce new cards for you fishers to fight over. In more detail, at the start of each round, you have 8-13 cards in hand, depending on the player count and the round. In the first round, the cards go from 1-10 in four colors. Standard trick-taking rules apply, with players needing to follow the color led and…",
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 419195,
   "max_players": 5,
@@ -17597,10 +17675,11 @@
    "Card Game",
    "Novel-based"
   ],
+  "description": "The Phantom of the Opera is a tense two-player trick-taking duel inspired by Gaston Leroux’s classic tale. One player is the Phantom, striving to compose a perfect musical score, while the other is Christine, trying to disrupt his melody and break free. Over two rounds of ten tricks each, players follow suit when possible, use trump and “super trump” (superior to trump) suits to capture or evade tricks. The “Number on the Seal” adds tension by triggering card exchanges and high-stakes scoring. To succeed, the Phantom must win and lose specific tricks as shown on the music sheet, while…",
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 419416,
   "max_players": 2,
@@ -17666,13 +17745,14 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Snow White, The Little Mermaid, Cinderella, and many other legendary princesses are celebrating a five-day party. The prince charmings, who have not been invited, will try to infiltrate the ball to propose marriage to the girls. As a princess, you have to avoid marriage proposals and remain single and independent after the celebrations. Rebel Princess takes place over five rounds, representing the five days of a party, and each round has a special rule that makes each game totally different. The general mechanisms are those of trick-taking games, in which each player plays a numbered card…",
   "designers": [
    "Daniel Byrne",
    "José Gerardo Guerrero",
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 420017,
   "max_players": 6,
@@ -17844,10 +17924,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "You can't win just by taking tricks! The ‘7’ super card is covered in gold foil. A very simple trick-taking game with special win conditions such as ‘Taking the 7’ or ‘Make 13 by playing another suit’. In this game you must-follow the lead suit. Tricks are won face down (not worth any points), or face up (worth 1 point) if the trick is won by a special win (including a 7 or adds up to 13 if suit wasn't followed). The winner is the one who achieves two points first wins face down! There are two conditions for special wins: taking a seven, and having a card in a different suit that adds up to…",
   "designers": [
    "宮野 華也 (Kaya Miyano)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 420766,
   "max_players": 5,
@@ -17878,10 +17959,11 @@
    "Card Game",
    "Deduction"
   ],
+  "description": "As you enter the Cathedral, you're suddenly gripped by the magnitude of the challenge ahead. Compose with color and light to leave your competitors in the shadow! In this trick taking game, hold your cards in your hand without looking at them. While you know the suits, only your opponents know the values of your cards. Look at your opponents' hands to deduce the value of your cards and bet the number of tricks you think you will win. —description from the publisher",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 420862,
   "max_players": 5,
@@ -17914,10 +17996,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "There is no master today. That's right, why don't you all try using forbidden books? No problem, as long as you clean it up by the time you get back. Wow, beautiful magic is coming out of this book. Is this supposed to… Too bad, I have to use the forbidden book to close the forbidden book! Shut the Books is a trick-taking game where you bid with cards. Aim to win the trick with a card of the same color or number as the card you played. The number of tricks performed also changes depending on the number of cards played.",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 420891,
   "max_players": 4,
@@ -17981,11 +18064,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The horse you are in charge of runs based on the result of the tricks. The hand you decide at the start of the game will be carried over throughout the game, so you will gradually learn about the characteristics of the horse. This is a unique game where you can enjoy the thrills of trick-taking and horse racing predictions at the same time.",
   "designers": [
    "Susumu Kawasaki",
    "場咲工(Basaki Takumi)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 420932,
   "max_players": 4,
@@ -18310,10 +18394,11 @@
    "Deduction",
    "Party Game"
   ],
+  "description": "Zero to Hero is a tile-based trick-taking game for 3-5 players. The twists in the game are that you can either win or lose points for winning a trick. You can also win or lose points if you are second in a trick. Who wins or comes second is not always the player who plays the highest value tile; it's actually determined by summing the values of each played suit, then seeing who played the highest tile of the strongest suit. To add some fun to the mix, you can win a trick with a 2 if you are the only player to play a tile of that suit. Finally, if the game is going really badly for you and you…",
   "designers": [
    "Martin Wallace"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 423307,
   "max_players": 5,
@@ -18381,10 +18466,11 @@
    "Card Game",
    "Pirates"
   ],
+  "description": "Ahoy, mateys! Time to grab your pirate hats and set sail! Ready to claim the bounty of a lifetime? Skull Queen is a trick-taking game in which you determine before the game starts whether you will win or lose tricks for every suit. The player who chooses wisely and outplays their opponents will be victorious. You’re each the captain of a pirate ship, and your lookout has just spotted a ship full of bounty on the horizon. You need to line up your pirates so they are ready to board when you attack. Start by placing each Pirate on any one of the 5 spaces on your Plank. Once you’ve all played all…",
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 423432,
   "max_players": 6,
@@ -18421,10 +18507,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Once upon a time, there was a magical book of fairy tales that had three chapters. You will now live through that book in 3 Chapters, a trick-taking game with three game phases: • Chapter 1: Start with eight cards in hand, choose one, then pass the remaining cards clockwise. Continue doing this until all cards are drafted. • Chapter 2: Play one card each. The highest card wins the trick and receives two points. Additionally, compare the skills on your cards with one another as this can earn you additional points. • Chapter 3: Finally, evaluate the skills within your selected hand cards. They…",
   "designers": [
    "Joe Hout"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 423517,
   "max_players": 6,
@@ -18498,10 +18585,11 @@
    "Animals",
    "Card Game"
   ],
+  "description": "Trickadee is a clever trick-taking game where sometimes you win by coming in last. Play birds to the feeder and collect them into flocks. Cleverly play the right birds to come in first, third, or last place to gain abilities that allow you to make better flocks. —description from the designer",
   "designers": [
    "Rob Newton"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 423816,
   "max_players": 5,
@@ -19261,10 +19349,11 @@
    "Card Game",
    "Humor"
   ],
+  "description": "It's time to dive into the delicious world of Hot Pot Holic, the trick-taking game as tasty as tricky! The pot is bubbling - can you scoop up your favorite ingredients before the other players do? Enjoy this drooling game with friends and family, but beware of overeating! Hot Pot Holic is a trick-taking game. Each round players can either take cards from the table to their plate or \"swallow\" their cards to the stomach to score points — the number of cards they can take or swallow depends on their turn order of that round. Managing your turn order is tricky but crucial to victory!",
   "designers": [
    "David Cheng (II)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 427904,
   "max_players": 4,
@@ -19413,10 +19502,11 @@
    "Music",
    "Sports"
   ],
+  "description": "A 5 card game compendium with 4 decks of custom cards comes with rules for several games: Chai Tea Jazz: Modern version of Coiffeur-Jass with all the fixings. Hodge Podge Dodgeball: Team Avoidance game as you play a must-not-follow trick-taking Bug House Millionaire: Climbing/shedding game about passing your partner cards in real-time Short Zoot Suit: Trick-taking game about short-suiting. Through the Zoo: Meta game about standard deck games —description from the designer",
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 428538,
   "max_players": 6,
@@ -19561,10 +19651,11 @@
    "Fantasy",
    "Novel-based"
   ],
+  "description": "The Fellowship of the Ring: Trick-Taking Game is a co-operative card game that plays out over eighteen chapters that lead players through the events of the novel The Fellowship of the Ring. The chapters can be played in any order, but ideally you play them in sequence. In each chapter, each player takes a different character role — Frodo, Gandalf, Sam, Pippin, Farmer Maggot, etc. — and each character has a condition that must be met in order to pass the chapter and advance in the story. Frodo needs to capture ring cards, for example, while Pippin wants to take as few tricks as possible. As…",
   "designers": [
    "Bryan Bornmueller"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 429293,
   "max_players": 4,
@@ -19707,11 +19798,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "It's the classic card game you've always loved...since right now. Partner with a friend, or deal yourself in with a hand of cards in four blazing colors, plus one that's wildfire. Win the most tricks and take the most flame tokens to win. Fuego is played over a series of rounds in which you play tricks. Clever card play and well-timed strikes will win you a trick and let you take flame tokens from opponents. Extinguish your opponent by taking all of their flame tokens or have the most flame tokens at the end of the round to win. The first player or team to win two rounds wins the game! High…",
   "designers": [
    "Jason Hager",
    "Darren Reckner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 429508,
   "max_players": 4,
@@ -20002,10 +20094,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In Quattro Trick-Taking, players lay their cards into shared tricks as in a normal trick-taking game, but each player has a different bidding method for scoring, so you're not necessarily fighting over the same cards throughout the round. A four-player game lasts four rounds, and in each round you'll use a different method for bidding. You can take colored chips to indicate the color of the winning card that you'll play in a trick, or you can indicate the sum of the cards that you'll collect over the entire hand. You can indicate which colors and/or ranks (even or odd) you will not use to win…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 430921,
   "max_players": 4,
@@ -20218,10 +20311,11 @@
    "Card Game",
    "Medieval"
   ],
+  "description": "Tornei is trick-taking games, under the theme of joste. There are 14 cards in hand for seven tricks per deal, and players bid at each trick, using two cards per trick. Translated Introduction from the rulebook: In medieval Europe, the medieval jousting tournament was initially a training exercise and mock battle, but it evolved into a popular form of entertainment. Players take on the role of a powerful noble, leading a knightly order, and competing for honor through their order's victories. However, they also secretly bet on the outcomes of each match. This game is designed for fans of…",
   "designers": [
    "Totsuca Chuo"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 432052,
   "max_players": 4,
@@ -20522,10 +20616,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Dino Trix: Tarot Adventures is a collection of three tarot games: Hold My Beer, Oopsie and Thread the Needle. All three trick-takers utilize a tarot deck and share similar card play and special powers. However, with scoring differences and different player counts, each game provides a distinct experience. Hold My Beer is a 3-player only game with bidding and special powers. Oopsie is a twist on Hold My Beer but is a fixed partnership game with slight differences in special powers and scoring. Thread the Needle is a 4-5 player game that shares the same basic card play and similar special…",
   "designers": [
    "Daniel Kenel"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 433797,
   "max_players": 5,
@@ -20903,10 +20998,11 @@
    "Card Game",
    "Racing"
   ],
+  "description": "Canyon is a trick-taking game in which players try to predict exactly how many tricks they will take. The number of cards in a hand increases and then decreases in size. A correct prediction gives your marker movement points around a scoring track depicted on a river in a canyon, whose main feature of interest is a section of \"rapids\" near the finish line where your marker will be \"caught in the current\" and sent back a few spaces if you go too many hands without a correct prediction. Re-implements: Bid & Bluff Expanded by: Grand Canyon",
   "designers": [
    "Frederick A. Herschler"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 436,
   "max_players": 6,
@@ -20941,10 +21037,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Bid Coin is a trick-taking game where players try to win a number of tricks over several rounds in ways that sum to combinations a 1, 2, 3, 5, and 7. When a player wins a trick, if it exceeds their current bid, they must use one of their current bid cards to increase their bid. If at the end of a hand, they have won a number of tricks equal to exactly their bid, they discard the bid cards used that round. The first player to discard all of their bid cards wins. There are also 0 bids and if no player is able to discard all of their bid cards after a few rounds, then the player who has the…",
   "designers": [
    "しぶ (Shibu)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 436178,
   "max_players": 4,
@@ -21123,11 +21220,12 @@
    "Card Game",
    "Children's Game"
   ],
+  "description": "The cutie pie corgi pups just want to snuggle. They cluster and clamber, making adorable doggie pyramids. Sadly, it’s not always so easy to climb and some pups will be left below the pile. But at the end of the day, for a little corgi pup, that may not be such a bad thing. After all, no one wants to fall off the top of a big corgi pileup! Corgi Pileup is a trick-taking game in which only the last trick counts. During each trick, you must “climb” by playing cards greater than or equal to the highest card played so far, or else play your lowest card. Each round, you score your final card and…",
   "designers": [
    "Steve Ellis (II)",
    "Paul Salomon"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 436935,
   "max_players": 7,
@@ -21444,10 +21542,11 @@
    "Prehistoric",
    "Puzzle"
   ],
+  "description": "Sauros is a dinosaur themed trick-taking, puzzle game where players win tiles to then place on their player mats to align suits and symbols for dynamic scoring. The twist is the trump suit changes with each trick! Featuring five asymmetric player mats and unique scoring conditions, each mat representing one of the five dinosaurs present in Sauros. The game is played in a series of rounds. At the end of each round, the player mats are rotated. Once each player has played each mat, the points from all rounds are tallied and the player with the highest score wins. —description from the publisher",
   "designers": [
    "Cole Smith"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 438733,
   "max_players": 5,
@@ -21591,10 +21690,11 @@
    "Nautical",
    "Pirates"
   ],
+  "description": "Assemble your crew, captain your ship, and take on the high seas in this legacy co-op trick-taker! In Sail Legacy, you and your best matey will go on an adventure across thirty unique missions. Upgrade your ship, outfit your characters, and tune the deck itself to avoid a watery grave! Sail Legacy evolves from the core Sail game mechanisms as you cooperatively use \"must-follow\" trick-taking to take on the unforgiving ocean — and the mythical beasts that call it home. Based on the combination of symbols in the trick, you'll steer the ship, charge ahead, or fire the cannons. Throughout the…",
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 438975,
   "max_players": 2,
@@ -22026,10 +22126,11 @@
    "Children's Game",
    "Religious"
   ],
+  "description": "This game adds a very interesting twist to the standard trick-taking genre. There are five suits and players must follow suit, if they can. However, the winner of the trick is the highest card played, regardless of suit. The winner gets all the cards from the trick, minus the card he won it with. That card is given to the player that played the lowest card. After all tricks have been played, the scoring begins. Players score the face-value of the cards in the suits that they only collected one or two of, and one point per card for suits with more than two. The player with the most points…",
   "designers": [
    "Reinhard Staupe"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 44,
   "max_players": 6,
@@ -22531,11 +22632,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "3 Tricky Pigs is a thematic trick-taking game for 3-5 players. Players take on the role of the 3 little pigs, where the laziest pig will win each trick if there is no wolf around. However, if a wolf is in the trick, the highest card will win. Players earn points by making correct bids on how many tricks they will win each round. The player with the most points at the end of 4 rounds is the winner. —description from the publisher",
   "designers": [
    "Andrew Stiles",
    "Steven Ungaro"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 441614,
   "max_players": 5,
@@ -22814,12 +22916,13 @@
    "Card Game",
    "Movies / TV / Radio theme"
   ],
+  "description": "Movie Tricks is a unique trick-taking game: Play cards to determine turn order. In turn order, grab cards from the market. All played cards form the market for the next round. At the end of the game, score points in different categories, like Best Movie, CGI, Props, Roles, and Soundtrack. If you do not win, you may at least brag about the coolest title! —description from the designer",
   "designers": [
    "Vegard Eliassen Stillerud",
    "Eilif Svensson",
    "Åsmund Svensson"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 442512,
   "max_players": 5,
@@ -22888,10 +22991,11 @@
    "Comic Book / Strip",
    "Deduction"
   ],
+  "description": "In The Adventures of Tintin: The Trick-Taking Game, players must uncover the hidden plot cards of their opponents by searching for clues in locations scattered across the world. Each location card has a different rule for winning tricks, so the player who wins the trick in a given round can ask a question about the plot card belonging to the owner of the location card — provided they meet the requirements of the character cards played that round. As the game progresses, players eliminate false leads in their notebooks until someone reaches a conclusion and correctly deduces another player's…",
   "designers": [
    "Gaetano Foschini"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 442639,
   "max_players": 4,
@@ -23031,10 +23135,11 @@
    "Medieval",
    "Zombies"
   ],
+  "description": "In Rebel Princess, the princesses fought off unwarranted marriage proposals from pesky princes. Twenty-eight days later, the princes returned...as zombies! The zombie horde is growing. It began with the princes, but it has spread to the local villagers, the adorable woodland creatures, and even our noble knights! The rebel princesses are the last of us. If they fail, the kingdom will fall forever into darkness — a true and horrific Zombieland! Zombie Princess is the sequel to Rebel Princess. Just as Rebel Princess was a thoughtful modern spin on the classic trick-taking card game Hearts,…",
   "designers": [
    "Ted Alspach"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 443074,
   "max_players": 6,
@@ -23576,10 +23681,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In Lunar Trick / ルナトリック, you need to win exactly one, three, or five tricks in a round to score points — and to collect tricks, you need to manage the phases of the moon. To start a round with three players, deal ten cards to each player and set the remaining card aside. Cards are 1-15 (rising moon), 16-30 (falling moon), and the lunar eclipse card. Each player reveals a numbered card at the same time to determine the trump and three suits. For example, if rising moon had more cards played, then it's trump. If the cards are, e.g., 5, 12, and 24, then the three suits are 6-11, 13-23, and…",
   "designers": [
    "Iori Tsukinami (月並いおり)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 445123,
   "max_players": 4,
@@ -23746,11 +23852,12 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Off With Their Heads! is a clever reveal-and-write game where players serve as loyal Card Soldiers tasked with keeping the mercurial Red Queen pleased. Influenced by a wide range of classic card games including poker, hearts, and euchre, players secretly choose and reveal cards from their hands to compete for position in each bout. The ranking of the revealed cards determines whether you place highest, lowest, or somewhere in between, and that result dictates where you record the card’s value on your personal score sheet. Each section of your sheet rewards a different strategy. Claim the…",
   "designers": [
    "J.B. Howell",
    "Michael Mihealsick"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 445476,
   "max_players": 4,
@@ -23947,10 +24054,11 @@
    "Card Game",
    "Mythology"
   ],
+  "description": "Odyssey sends players on a perilous journey across the Mediterranean as soldiers trying to return home after the Trojan War. Guided (and often hindered) by the whims of the gods, players must earn offerings and navigate divine favor carefully. Too much pride or neglecting rituals risks invoking the gods’ wrath, delaying the voyage back to Ithaca. Odyssey is a trick-taking game where players can play not only from their hand but also from a shared field of cards. Winning exactly the right number of tricks allows players to advance their ship along the board, with progress tied to the offerings…",
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 445510,
   "max_players": 4,
@@ -24280,10 +24388,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Being like everyone else is boring! In this trick-taking game, embracing your unique identity is the path to victory. Each player secretly declares how many tricks they aim to win, even negative numbers are valid, by using two cards from their hand. Then comes the battle of bold plays, bluffing, and unpredictable results as players try to match their declared outcome. Identity is a trick-taking game with a unique bidding system and a custom Must Not Follow rule. Each trick, players must play face-up cards that differ in both number and suit from cards already on the table — if they can.…",
   "designers": [
    "笠置啓太 (Keita Kasagi)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 445613,
   "max_players": 5,
@@ -25105,10 +25214,11 @@
    "Card Game",
    "Novel-based"
   ],
+  "description": "The demon Mephisto offers Faust worldly honor, wealth, and pleasure. Seeing this as a chance to pursue his ideals and satisfy his boundless curiosity, Faust accepts the deal. Faust vs Mephisto is a two-player trick-taking game where Faust must resist Mephisto's temptations and explore four domains for two rounds. If Faust takes all or none of the cards in any suit, Mephisto claims that domain. If Mephisto claims two or more domains, he wins the game. Otherwise, victory belongs to Faust. Whose ending will you choose—Faust's redemption or Mephisto's triumph? —description from the publisher",
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 446269,
   "max_players": 2,
@@ -25209,10 +25319,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The fiery feline spirits, released from their sealed book, are up to mischief again today. They do as they please, meddling with others' plans just for fun. Freed from the pages of ancient books, the mischievous fire-cat spirits known as Quashars roam the world in search of chaos and fun. Driven by impulse and mischief, they chase their whims while sabotaging the plans of others. Every round is a new prank, a new diversion, and a new challenge. You are one of them... can you cause the most playful mayhem? Quashars is a trick-taking game with a unique condition-based bidding system. The bid is…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 446442,
   "max_players": 4,
@@ -25279,10 +25390,11 @@
    "Card Game",
    "Horror"
   ],
+  "description": "A tranquil summer camp deep in the woods turns into a blood-soaked nightmare. Shadows stretch long under the moonlight, and somewhere out there, a killer is stalking the cabins with a crimson blade. You and your companion must gather your courage and supplies to escape this slasher’s hunt. Your only chance is to work together, outsmart the darkness, and survive the night. The Slasher is a cooperative trick-taking game for two players that blends deduction, tension, and cardplay. Players face off against the game’s system by playing tricks under restrictive and evolving conditions, attempting…",
   "designers": [
    "タカハシ カツナリ (Katsunari Takahashi"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 446466,
   "max_players": 2,
@@ -25317,11 +25429,12 @@
    "Card Game",
    "Political"
   ],
+  "description": "Climb the social ladder — or kick it over. The trick-taking game Tax the Rich features a deck depicting characters of various social ranks from the Poor to the President. Each round begins with a simple bidding phase to determine both the trump color and the number of tricks required to score bonus points. The winner of the bid must then acquire the required number of tricks, together with their ally. The game is played as a trick-taking game in which the highest social ranks are the strongest cards. However, if at any time all remaining cards in your hand have a flag symbol, you may trigger…",
   "designers": [
    "Kristian Amundsen Østby",
    "Kjetil Svendsen"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 446492,
   "max_players": 6,
@@ -25858,11 +25971,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Welcome to the playground! In Tricky Kids, you and your classmates are trading toys and snacks in a chaotic kid-economy where value is totally made up. It’s a trick-taking game with a twist: you write the numbers on your cards. At the start of each round, you assign values that total 21 across your hand then use those cards to try to win tricks and collect points. Each round consists of 7 tricks, but the goal is to win tricks strategically, not just frequently. Each trick earns you a point token, and the leftmost available token is always the one you claim (so timing matters!). The tokens…",
   "designers": [
    "Danielle Reynolds",
    "Steven Ungaro"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 447378,
   "max_players": 6,
@@ -26003,10 +26117,11 @@
    "Card Game",
    "Sports"
   ],
+  "description": "The coolest skaters have confidence and swagger, pushing their skills to the limit to land the newest, raddest trick. Sick Tricks is a must-follow trick-taking game with four suits (numbered 1-12), with one being the trump suit. Instead of bidding on how many tricks you'll win, you bid on how many different \"tricks\" you'll land, tricks with conditions like \"Win with an even number\", \"Lose with an 8 or higher\", or \"Win 4 tricks in a row\". When a round starts, players place cubes to predict the number of trick cards they think they'll complete. Skaters will score big for completing tricks, but…",
   "designers": [
    "Masato Uesugi"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 447703,
   "max_players": 4,
@@ -26297,11 +26412,12 @@
    "Deduction",
    "Humor"
   ],
+  "description": "A trick-taking game where teams change every round and new rules are added as you go! Moustache blends strategy, surprises, and twists in a joyfully competitive atmosphere. Moustache is a twist-filled trick-taking game for 3 to 6 players. In each round, teams are randomly reshuffled, and a new rule shakes things up: reversed color hierarchies, wild jokers, card effects… nothing stays the same for long! Thanks to an evolving rules system and Team cards, every game is unique and demands constant adaptation. It brings the immediate fun of trick-taking, spiced up with a touch of controlled chaos.…",
   "designers": [
    "Alexandre Aguilar",
    "Jules Messaud"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 448428,
   "max_players": 6,
@@ -26378,10 +26494,11 @@
    "Math",
    "Number"
   ],
+  "description": "In Fearless, you walk through a gloomy forest and try to stay on the safe path. If you still wander astray, you try to turn back again as close as possible. The closer you are to the safe path, the less fear you will suffer. Not walking at all is no alternative as you'll remain behind on your own in the scary ruin. If you are the most fearless after several rounds, you will win the game! Fearless is a simple trick-taking game with four suits and without trump. The card with the highest value in the led suit always wins the trick. The unusual part of the game is the card values as they are not…",
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 448496,
   "max_players": 5,
@@ -26657,11 +26774,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The monsters are terrorizing the fairground. You dive into a crazy bumper-car ride and try not to lose your nerve. Who will be the first to get scared? In this trick-taking game, you don’t want to win too many tricks, because each trick carries the risk that your character gets scared. The braver you play, the more points you can earn. —description from the publisher",
   "designers": [
    "Inka Brand",
    "Markus Brand"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 449297,
   "max_players": 6,
@@ -27061,10 +27179,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In Tricky Twist, losing tricks can often be more important than winning them. If you manage to retrieve the card you played, it comes back to you face up as a “false trick.” To multiply your victory points (★), you must not only balance the number of tricks and false tricks you have but also optimize the cards you’ve transformed into false tricks. For example, you might try to align all your false tricks into a perfect sequence of values. Simply devilish… —description from the publisher",
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 450053,
   "max_players": 4,
@@ -27137,11 +27256,12 @@
    "Card Game",
    "Sports"
   ],
+  "description": "Howdy, partners! In the sun-baked dust of Dusty Gulch, where shadows stretch long and strange, disagreements find resolution not with a six-shooter, but in the Rowdy Ring. Here, common sense yields to the thrill of a wrestling match, proving that in this corner of the Wild West, might makes right — one suplex at a time. Rowdy Partners is a team trick-taking game played over a series of rounds, with each round being composed of eight tricks. Work with your partner to beat the other players by draining their health through calculated strikes and sneaky counters. Swap wrestlers mid-match,…",
   "designers": [
    "Jason Hager",
    "Darren Reckner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 450337,
   "max_players": 4,
@@ -27769,10 +27889,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "In Shards of Creation, harness the primal forces of Brandon Sanderson's Cosmere! This innovative trick-taking game is designed for players of all skill levels. Every Shard is an aspect of divinity: Autonomy, Cultivation, Devotion, Dominion, Honor, Odium, Preservation, and Ruin. Each is an entirely unique suit, with different values and abilities. Will you win by focusing on one Shard’s influence, or by forging a coalition of Shards? Shuffle up a different combination each time you play, making every game a new experience!",
   "designers": [
    "Hayden Dillard"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 451772,
   "max_players": 4,
@@ -27876,11 +27997,12 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In Shadow Cards, players secretly predict how many points they want to score in that round. Before each trick-taking round, two cards from their hand are chosen, whose value also determines the points to be scored. The question always arises: Do I set aside the high numbers to score a lot of points at the end, or do I keep them to make it easier to win tricks during the game? Those who combine instinct and strategy can prevail and win after three rounds. —description from the publisher",
   "designers": [
    "Christopher Haviland",
    "Robert A. Kamp"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 451923,
   "max_players": 5,
@@ -28245,10 +28367,11 @@
    "Card Game",
    "Spies / Secret Agents"
   ],
+  "description": "Within the secret underworld of espionage, every agent lives on the knife’s edge. Will today be the day when your identity is exposed by the spotlight, or can you remain safely hidden in the shadows? Chasing Shadows is a trick avoidance game where players draft which suit they must follow with from a dwindling pool of cards. Be sure to limit the next player's options, and you might force them to win the trick. Taking cards and scoring points is bad, but players can cleverly plan to take specific cards that will make their previous points disappear. The player with the lowest score after three…",
   "designers": [
    "David Spalinski"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 453051,
   "max_players": 5,
@@ -28596,10 +28719,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "\"Plot with the Square Queen, the King Let, the enchanter Roger Rob-It and the dragons Bert, Nerd and Bianca, to succeed and have control over the kingdom!\" Chouineurs is a trick-taking game played in 4 rounds of 7 tricks in which there are colors, trump cards and supertrump cards! But more important, cards are two-sided, with one color and value on the upper side and others on the bottom side of the cards, and they may rotate! At the start of each round, you must choose the orientation of your hand of cards and bet on the number of tricks you think you can win during the round. If you win…",
   "designers": [
    "Frédéric Vuagnat"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 453781,
   "max_players": 5,
@@ -29217,10 +29341,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Potemkin Villages is a fully cooperative trick-taking game set during Catherine the Great’s journey to Crimea. Each player takes on a different character, winning tricks to unleash unique abilities. Together, you’ll dismantle, move, and rebuild villages along the Dnepr River, creating an illusion of prosperity. Cooperation is key: the Governor can amplify the Builder’s strength, while the Painter shifts trumps to aid allies. If Catherine still beholds beauty, after there are no more cards in play, you succeed; if she sees through the ruse, you all lose. 2025 54-Card Game Design Contest: 2nd…",
   "designers": [
    "Petr Čáslava"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 454829,
   "max_players": 4,
@@ -29605,10 +29730,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Fairy Tales come to life in this deluxe version of the beloved trick-taking game. Use special abilities to change the trump suit, lead even after losing a trick, and more. Aim for the majority of tricks each hand, but don’t get greedy! If you win too many, you will fall like the villain in so many fairy tales. This deluxe edition includes three all-new modules: special cards, goal cards, and poison cards! Features new illustrations, foil stamping, and acrylic tokens. —description from the publisher",
   "designers": [
    "Joshua Buergel"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 455906,
   "max_players": 2,
@@ -30093,10 +30219,11 @@
    "Card Game",
    "Science Fiction"
   ],
+  "description": "They thought we were crazy, but they’re the fools, I tell you. With the temporal transistors finally operational, we have the power to travel time - to past, present, future, and beyond. Oh, but the fuel must be managed carefully! One too many time jumps and we’ll be unable to make that fateful, final leap home. Who will master the timeline, and who may be lost in time forever? Trick to the Future is a trick-taking game in which you use cards from your hand to time travel. You begin each round with a number of fuel rods on your player board, which may be used to change the values of your…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 456965,
   "max_players": 5,
@@ -30943,11 +31070,12 @@
    "Card Game",
    "City Building"
   ],
+  "description": "Minikin City is a strategic game where every card you play has a double meaning. Colors and values give you rewards each round, while icons and effects give you points at the end, but only if you fill the card with Minikins! Reward cards at the center determine the best color for each round. The cards played in that round determine the players' ranking. Choose to play a card with a high value in the best color to get the most powerful reward, or play a card with an effect you like... or both! Many effects on the cards and rewards at the center give you Minikins that you can place on your…",
   "designers": [
    "Simone Luciani",
    "Matthieu Verdier"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 458770,
   "max_players": 5,
@@ -31182,10 +31310,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In a world where the eternal serpent consumes itself in an endless cycle, players embody fragments of that fate: striving to outlast one another in a loop of creation and destruction. Each card played represents a step closer to renewal or demise, as the ouroboros winds tighter with every trick. The only way to endure is to master the rhythm of the cycle before it devours you entirely. Ouroboros Trick is a trick-taking game for 3–5 players in which survival, not points, determines the winner. Each round, players play one card in turn; the highest card of the lead suit or trump wins the trick.…",
   "designers": [
    "Yoshiteru Shinohara"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 458859,
   "max_players": 5,
@@ -31523,10 +31652,11 @@
    "Card Game",
    "Territory Building"
   ],
+  "description": "Deep within the whispering woods, a bustling community is coming to life. In Fox Grove, you are trying to build the most prosperous little animal village in the forest. Over the course of 4 rounds, you must skillfully manage your hand of cards and your resources to outshine your rivals. At its heart, Fox Grove is a unique blend of mechanics. Each round begins with a trick-taking phase where playing the right cards is key to gather essential resources. However, veteran card players should stay on their toes: there is a twist in the trick-taking rules that will force you to rethink your…",
   "designers": [
    "Frank Thyben"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 459195,
   "max_players": 4,
@@ -32051,10 +32181,11 @@
    "Medieval",
    "Novel-based"
   ],
+  "description": "Don Quixote sets out in pursuit of noble ideals, charging ahead with passion and conviction. Yet not every victory brings glory, and blind ambition can easily lead to folly. In this game, winning a trick is often a risk rather than a reward. Try to avoid taking tricks whenever you can. If you cannot, take exactly what is required — no more, no less. And it is wiser to claim a trick that holds points. Careful judgment, not reckless triumph, is the key to success. —description from the publisher",
   "designers": [
    "Yeon-Min Jung"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 460671,
   "max_players": 5,
@@ -32324,10 +32455,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Daytime Minutes is a might-follow trick-taking game. Up to two different suits can be played into a trick, and the winner of each suit collects all cards of that suit. Players want to collect minutes on cards to try to get as close as possible to the plan limit without going over. If someone goes over, they incur overage charges and lose a point! But the player who captured the fewest minutes also loses a point. Each third trick is an evening call, and all cards played into the trick are discarded.",
   "designers": [
    "Cardner Babakitis"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 461564,
   "max_players": 5,
@@ -33107,12 +33239,13 @@
    "Animals",
    "Card Game"
   ],
+  "description": "Do you dare venture into the Tricky Forest? In the shade of the trees, the gangs of field mice, tree frogs, lizards, and finches are planning their next raids. New alliances are formed in each trick-taking round, and every decision can change the course of the game. Four cleverly illustrated animal teams with numerical values ​​from one to ten and special abilities ensure surprising twists and turns. Joining the winning team at the right moment earns you silver coins. Fast-paced rounds keep the excitement high and make the game an entertaining experience for trick-taking game fans, families,…",
   "designers": [
    "Florian Biege",
    "Jan Cronauer",
    "Marc-Uwe Kling"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 463911,
   "max_players": 6,
@@ -33461,12 +33594,13 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "From the publisher: The Red Dragon Inn: Gambling I'm In! is a game about the games that the heroes play when they gamble at the Red Dragon Inn. Now, players of The Red Dragon Inn, The Red Dragon Inn 2, The Red Dragon Inn 3, and The Red Dragon Inn 4 can play out an actual round of gambling when they play the \"Gambling? I'm In!\" card! Even better, the gambling games also can be played on their own as standalone games, or as part of your RPG, or LARP. The game will come with a 93 card Rogues and Warriors Deck, a bunch of 6 sided dice, coin tokens, debt and loan tokens and rules for at least 7…",
   "designers": [
    "Cliff Bohm",
    "Jeff Morrow",
    "Sam Waller"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 46530,
   "max_players": 10,
@@ -34283,10 +34417,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "All Mine is a mining claim (trick-taking) game in which players predict their hauls of each of the four treasures (gold, gems, mushrooms, and dragon eggs). However, instead of predicting the number of hauls they'll take, they must state the treasures they think they'll receive the most and least of. Since all cards display their treasure type on the back, players have more information than usual. During each claim (hand), you must play the same treasure type if possible, even with the special trump cards. This requirement makes it difficult to predict which hauls you will bring in. In the…",
   "designers": [
    "Arve D. Fühler"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 467955,
   "max_players": 4,
@@ -34319,10 +34454,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Can’t Win is a trick-taking game where you must guess exactly how many times you’ll win, embellished with a twist at the start of each round: You also have to choose a constraint for yourself that limits which cards you are able to win tricks with. The constraint you choose can work for you—or against you—in matching the number of tricks you actually win to the number you bid you would win. At the end of every round, you’ll record the points you earn for your wins and matching bids. Your final score is calculated at the end of the game by multiplying your total wins with the points you score…",
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 467997,
   "max_players": 4,
@@ -34753,10 +34889,11 @@
    "Dice",
    "Mafia"
   ],
+  "description": "ROLL THE DIE, PLACE THE DIE, ONE MUST DIE!",
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 468750,
   "max_players": 2,
@@ -34788,10 +34925,11 @@
    "Card Game",
    "Nautical"
   ],
+  "description": "“This is like Fishing, but completely different.” - Ordinary seaman Ronald after the first game As in Fishing, your caught cards score points, then you use them to try to catch even more — but blowfish, two trump colors, and new buoys create a fresh game experience. In Fishing 2, you try to catch as many tricks as possible in 8 rounds because each card you catch is worth 1 point. You use your caught cards as bait for the next round — but if you did not catch enough tricks to do so, you first fill your hand with fresh cards from the ocean stack. You win Fishing 2 by scoring the most points.…",
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 468799,
   "max_players": 5,
@@ -34824,10 +34962,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "In a hellish contest of risk and restraint, players try to survive thirteen tense tricks where ambition can turn into disaster. Winning is not always a blessing: a clever victory may bring rewards, but an ill-timed one can become a painful penalty. Each round asks players how far they dare to push their luck before greed ruins everything. Oshaka Trick is a trick-taking game in which players face a difficult choice over how greedy they should be in each trick. Winning tricks is not automatically beneficial, and poor judgment can lead to significant negative points. Across 13 tricks, players…",
   "designers": [
    "笠置啓太 (Keita Kasagi)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 468836,
   "max_players": 4,
@@ -35525,10 +35664,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "“And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.” (Apocalypse 6:7-8) Apocalypse is a trick-taking game where the goal is to score the fewest points. Each round, you play cards and influence the Apocalypse tokens at the center of the table. Watch them carefully: if they are all flipped, the…",
   "designers": [
    "Yoriyasu Harano"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 470482,
   "max_players": 6,
@@ -35561,10 +35701,11 @@
    "Fantasy",
    "Fighting"
   ],
+  "description": "For generations, fighters have wandered through the doors of The Adventure Store searching for equipment to give them an edge in battle, from shimmering potions to “lightly cursed” armour on the sales rack. The shopkeeper has watched countless contestants rise and fall in the battle arena and, being the generous businessman he is, has decided to turn the whole affair into a spectator event. After all, if you’re going to bludgeon each other senseless, someone should profit from ticket sales. Each round, you and your rivals enter the arena to face a Trial, a high-stakes trick-taking battle…",
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 470760,
   "max_players": 4,
@@ -37920,10 +38061,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "You step into the role of the Matchmakers, spirits of the mountain, where brave and wandering animals are looking for their peers to venture together. Gather the same type of adventurers at your campsite to make a successful team and earn their praise. However, the instant two perfect companions meet, a MATCHMAKING occurs. They immediately leave the camp behind to begin their ascent. The team of Matchmakers which has gathered the strongest party of adventurers will claim victory! Matchmakers is a thrilling team-based, must-follow trick-taking game where players try to collect the best set of…",
   "designers": [
    "Baudet Sylvain"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 474696,
   "max_players": 4,
@@ -41705,10 +41847,11 @@
    "Fantasy",
    "Novel-based"
   ],
+  "description": "The Return of the King Trick-Taking Game is a cooperative card game for 1 to 4 players that takes you through the conclusion of J.R.R. Tolkien’s classic story over the course of 20 chapters. This game is a continuation of The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game and The Lord of the Rings: The Two Towers – Trick-Taking Game but is playable on its own. (Chapters 1 through 36 can be found in the previous games.) Based on the epic conclusion to J.R.R. Tolkien’s legendary tale, The Return of the King Trick-Taking Game brings players to the climactic final chapters of…",
   "designers": [
    "Bryan Bornmueller"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 482565,
   "max_players": 4,
@@ -42229,10 +42372,11 @@
    "Card Game",
    "Deduction"
   ],
+  "description": "In ripis Rubiconis passus militis bellum civile fert et movet cursum eventorum e quibus imperator surget. Quomodo dominabis proelia quae in agro, in senatu, et per vias Romae accident? On the banks of the Rubicon a legionnaire’s footstep brings Civil War and sets upon a course of events from which an emperor will emerge. How will you master the battles that are to come on the field, in the senate and through the streets of Rome? Triumvirate is a fast-paced game for two that requires subtle hand management and card play to win consistently. The mechanisms in the core rules make for a very…",
   "designers": [
    "Travis Worthington"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 53168,
   "max_players": 2,
@@ -42265,10 +42409,11 @@
    "Card Game",
    "Fantasy"
   ],
+  "description": "Box blurb translated from Japanese: An irregular trick taking game where various individual abilities of persons forming history are tangled together. Who will use their powers to adequately handle the events of the lands? Who will leave their name behind in The Chronicle? This is the 2009 release from Kanai Factory. Recommended suggestions for beginners from the designer Seiji Kanai: Play with 3 or 4 players. 5 or 6 players make the game more difficult to control. Until you are familiar with all the cards effects, remove the following History cards from the game: \"Dark age\" (have evil…",
   "designers": [
    "Seiji Kanai"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 54307,
   "max_players": 6,
@@ -42550,10 +42695,11 @@
    "Card Game",
    "Novel-based"
   ],
+  "description": "In this trick-taking game based on the short story by Robert Louis Stevenson of the same name, the goal is to gain the most points over a series of hands (usually the goal is set to 200 pts). Cards are numbered 1-37 and are found in three colors, red (comprising largely the highest numbers), blue (mostly in the middle) and yellow (mostly the lowest numbers) with colors being analogous to the suit in a standard deck. There is one neutral card, the 19, that sets the \"price of the bottle.\" The entire deck is dealt to the three or four players in the game and then, similarly to hearts, cards are…",
   "designers": [
    "Günter Cornett"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 619,
   "max_players": 4,
@@ -43376,10 +43522,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Hearts is a trick taking, standard deck playing card game, without trumps, which has been played popularly for generations and has many variations. The object is to avoid capturing hearts at one (1) point apiece and (in the most commonly played version today) the queen of spades, at thirteen (13) points, the card on which the whole game pivots. But to make it interesting, it is also possible to \"shoot the moon,\" taking all the hearts and the queen, a coup that gives 26 points to each of your opponents instead!",
   "designers": [
    "(Uncredited)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 6887,
   "max_players": 7,
@@ -43414,10 +43561,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Euchre is a trick taking card game. Although for two to seven players, Euchre is best with four playing as partners. This is a relatively simple bidding and trick-taking game, and one of the best non-threatening partnership games. Conventional Euchre uses a deck of 24 standard playing cards consisting of A, K, Q, J, 10, and 9 of each of the four suits. A standard deck 52-card deck can be used, omitting the cards from 2 to 8. Players are dealt a five-card hand and the object is to win three of the five tricks. A card is turned up to determine trump, which can be either accepted or refused by…",
   "designers": [
    "(Uncredited)"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 6901,
   "max_players": 7,
@@ -43980,10 +44128,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "Stich-Meister is a trick-taking game in which the players alter the rules before each round of play. The game consists of two decks of cards: One deck of 60 cards with four suits of cards numbered 1 to 15, and one deck of 60 rule cards. Each player has three rule cards, and at the start of a round, each player plays one of these cards. The rule cards played determine the rules for that round. There are three types of rule cards: Trump cards, which determine the trump suit; Scoring cards, which determine how many points a trick is worth; Basic rule cards, which affect the way cards may be…",
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 81250,
   "max_players": 5,
@@ -44015,10 +44164,11 @@
   "categories": [
    "Card Game"
   ],
+  "description": "The gameplay for Sluff Off! follows the standard trick-taking formula: The cards are numbered 1-15 in five different suits, and blue is always trump. If someone leads a color, you must follow suit if you can; otherwise, you can throw off a card or trump the trick. It's an exact-bidding game, but you predict your tricks by taking colored chips. For each trick that you win, you toss a chip back. If you take a trick in a color for which you didn't have a chip, then you must take a black chip (worth -3 points). If you have any colored chips left at the end of the round, they're worth -2 points.…",
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-10",
   "id": 8129,
   "max_players": 5,
