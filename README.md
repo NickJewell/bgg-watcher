@@ -1,4 +1,4 @@
-# bgg-trick-watch
+# bgg-watcher
 
 A small, polite BoardGameGeek watcher for one niche: **trick-taking card games,
 playable at 2–4 players, weight 1.5–2.0**. Once a day it takes a snapshot of a

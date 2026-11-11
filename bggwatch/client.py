@@ -27,7 +27,7 @@ from .config import Config
 
 BASE_URL = "https://boardgamegeek.com"
 # Note: BGG's CDN rejects User-Agents containing words like "crawler".
-USER_AGENT = f"bgg-trick-watch/{__version__}"
+USER_AGENT = f"bgg-watcher/{__version__}"
 RETRY_STATUSES = {202, 429, 500, 502, 503, 504}
 
 
