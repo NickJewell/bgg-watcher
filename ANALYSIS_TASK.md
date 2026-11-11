@@ -18,8 +18,9 @@ you wrote does not pass.
    those and run it again until it passes.
 3. Scoring must be independent of the writing. Start a fresh sub-agent, tell it
    only to read `.analysis/score-brief.md` and follow it, and let it write
-   `.analysis/scores.json`. Do not score the variants yourself and do not edit
-   the scores afterwards.
+   `.analysis/scores.json`. Tell it to judge each pitch on its merits, not to
+   derive scores from a formula or keyword rules. Do not score the variants
+   yourself and do not edit the scores afterwards.
 4. `python -m bggwatch analyse rank`, then read `.analysis/pitch-brief.md` and
    write `.analysis/pitches.json`.
 5. `python -m bggwatch analyse render`, then read `ANALYSIS_SNAPSHOT.md` through
