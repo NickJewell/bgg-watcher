@@ -8,31 +8,31 @@ Scope: trick-taking, playable at 2–4 players, weight 1.5–2.0. Plays = logged
 
 | Game | Year | Players | Weight | Plays | Δ | Plays/100 owners | Wishlist | Hot # | Heat |
 |---|---|---|---|---|---|---|---|---|---|
-| [Schadenfreude](https://boardgamegeek.com/boardgame/324711) | 2020 | 3–5 | 1.74 | 492 | – | 16.9 | 2357 | 2 | 97.4 |
-| [Apocalypse](https://boardgamegeek.com/boardgame/470482) \* | 2026 | 3–6 | 2.00 | 115 | – | 43.4 | 192 |  | 83.5 |
-| [Potemkin Villages](https://boardgamegeek.com/boardgame/454829) \* | 2025 | 2–4 | 2.50 | 83 | – | 41.1 | 148 |  | 81.4 |
-| [Minikin City](https://boardgamegeek.com/boardgame/458770) | 2026 | 2–5 | 1.73 | 226 | – | 19.7 | 437 |  | 80.6 |
-| [Moustache](https://boardgamegeek.com/boardgame/448428) | 2025 | 3–6 | 1.60 | 88 | – | 7.4 | 326 |  | 74.2 |
-| [Trick to the Future](https://boardgamegeek.com/boardgame/456965) \* | 2026 | 2–5 | 1.33 | 41 | – | 6.8 | 466 |  | 73.6 |
-| [Can't Win](https://boardgamegeek.com/boardgame/467997) | 2026 | 3–4 | 2.00 | 42 | – | 7.7 | 235 |  | 71.4 |
-| [Zombie Princess](https://boardgamegeek.com/boardgame/443074) | 2026 | 3–6 | 2.00 | 50 | – | 4.1 | 475 |  | 70.1 |
-| [The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game](https://boardgamegeek.com/boardgame/429293) | 2024 | 1–4 | 1.91 | 961 | – | 3.2 | 4308 |  | 69.9 |
-| [Fishing 2](https://boardgamegeek.com/boardgame/468799) \* | 2026 | 3–5 | 2.00 | 35 | – | 6.2 | 206 |  | 67.0 |
-| [Tax the Rich](https://boardgamegeek.com/boardgame/446492) | 2025 | 3–6 | 1.85 | 33 | – | 3.0 | 748 |  | 66.1 |
-| [Trick Stakes](https://boardgamegeek.com/boardgame/420932) \* | 2024 | 3–4 | 1.50 | 27 | – | 11.2 | 180 |  | 66.1 |
-| [Oshaka Trick](https://boardgamegeek.com/boardgame/468836) \* | 2026 | 3–4 | 2.00 | 28 | – | 9.5 | 156 |  | 64.9 |
-| [Mythical Dice](https://boardgamegeek.com/boardgame/191071) | 2016 | 3–6 | 1.58 | 71 | – | 2.2 | 551 |  | 63.0 |
-| [The Six of VIII](https://boardgamegeek.com/boardgame/394691) | 2024 | 3–4 | 2.00 | 31 | – | 3.4 | 357 |  | 62.3 |
-| [Matchmakers](https://boardgamegeek.com/boardgame/474696) \* | 2026 | 2–4 | 2.00 | 22 | – | 10.6 | 155 |  | 62.3 |
-| [Cry Baby](https://boardgamegeek.com/boardgame/453781) | 2026 | 3–5 | 2.00 | 32 | – | 11.6 | 71 |  | 62.1 |
-| [Dracula vs Van Helsing](https://boardgamegeek.com/boardgame/381278) | 2023 | 2–2 | 1.74 | 67 | – | 1.1 | 1455 |  | 60.2 |
-| [Off With Their Heads!](https://boardgamegeek.com/boardgame/445476) \* | 2026 | 2–4 | 2.00 | 27 | – | 3.2 | 369 |  | 59.0 |
-| [Shards of Creation](https://boardgamegeek.com/boardgame/451772) \* | 2026 | 2–4 | 1.67 | 25 | – | 3.4 | 376 |  | 58.8 |
-| [Seven Prophecies](https://boardgamegeek.com/boardgame/260568) | 2017 | 2–4 | 1.50 | 22 | – | 3.7 | 318 |  | 58.7 |
-| [Rebel Princess](https://boardgamegeek.com/boardgame/381249) | 2023 | 3–6 | 1.86 | 68 | – | 0.9 | 1463 |  | 57.0 |
-| [Yokai Septet](https://boardgamegeek.com/boardgame/251433) | 2018 | 2–4 | 1.85 | 34 | – | 1.0 | 1120 |  | 57.0 |
-| [Skull King](https://boardgamegeek.com/boardgame/150145) | 2013 | 2–8 | 1.73 | 293 | – | 0.8 | 2718 |  | 56.3 |
-| [The Slasher](https://boardgamegeek.com/boardgame/446466) | 2025 | 2–2 | 1.50 | 15 | – | 4.6 | 196 |  | 55.6 |
+| [Schadenfreude](https://boardgamegeek.com/boardgame/324711) | 2020 | 3–5 | 1.74 | 496 | – | 17.1 | 2357 | 2 | 97.4 |
+| [Apocalypse](https://boardgamegeek.com/boardgame/470482) \* | 2026 | 3–6 | 2.00 | 115 | – | 43.4 | 192 |  | 83.4 |
+| [Potemkin Villages](https://boardgamegeek.com/boardgame/454829) \* | 2025 | 2–4 | 2.50 | 83 | – | 41.1 | 148 |  | 81.2 |
+| [Minikin City](https://boardgamegeek.com/boardgame/458770) | 2026 | 2–5 | 1.73 | 231 | – | 20.1 | 437 |  | 80.5 |
+| [Moustache](https://boardgamegeek.com/boardgame/448428) | 2025 | 3–6 | 1.60 | 88 | – | 7.4 | 326 |  | 74.1 |
+| [Trick to the Future](https://boardgamegeek.com/boardgame/456965) \* | 2026 | 2–5 | 1.33 | 41 | – | 6.8 | 466 |  | 72.5 |
+| [Can't Win](https://boardgamegeek.com/boardgame/467997) | 2026 | 3–4 | 2.00 | 42 | – | 7.7 | 235 |  | 70.3 |
+| [Zombie Princess](https://boardgamegeek.com/boardgame/443074) | 2026 | 3–6 | 2.00 | 54 | – | 4.4 | 475 |  | 70.1 |
+| [The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game](https://boardgamegeek.com/boardgame/429293) | 2024 | 1–4 | 1.91 | 971 | – | 3.2 | 4308 |  | 69.9 |
+| [Fishing 2](https://boardgamegeek.com/boardgame/468799) \* | 2026 | 3–5 | 2.00 | 36 | – | 6.4 | 206 |  | 65.9 |
+| [Trick Stakes](https://boardgamegeek.com/boardgame/420932) \* | 2024 | 3–4 | 1.50 | 27 | – | 11.2 | 180 |  | 65.7 |
+| [Tax the Rich](https://boardgamegeek.com/boardgame/446492) | 2025 | 3–6 | 1.85 | 33 | – | 3.0 | 748 |  | 64.9 |
+| [Oshaka Trick](https://boardgamegeek.com/boardgame/468836) \* | 2026 | 3–4 | 2.00 | 28 | – | 9.5 | 156 |  | 64.5 |
+| [Mythical Dice](https://boardgamegeek.com/boardgame/191071) | 2016 | 3–6 | 1.58 | 71 | – | 2.2 | 551 |  | 62.9 |
+| [Matchmakers](https://boardgamegeek.com/boardgame/474696) \* | 2026 | 2–4 | 2.00 | 22 | – | 10.6 | 155 |  | 62.6 |
+| [The Six of VIII](https://boardgamegeek.com/boardgame/394691) | 2024 | 3–4 | 2.00 | 31 | – | 3.4 | 357 |  | 62.0 |
+| [Cry Baby](https://boardgamegeek.com/boardgame/453781) | 2026 | 3–5 | 2.00 | 33 | – | 12.0 | 71 |  | 61.7 |
+| [Dracula vs Van Helsing](https://boardgamegeek.com/boardgame/381278) | 2023 | 2–2 | 1.74 | 69 | – | 1.1 | 1455 |  | 61.4 |
+| [Shards of Creation](https://boardgamegeek.com/boardgame/451772) \* | 2026 | 2–4 | 1.67 | 25 | – | 3.4 | 376 |  | 59.2 |
+| [Seven Prophecies](https://boardgamegeek.com/boardgame/260568) | 2017 | 2–4 | 1.50 | 22 | – | 3.7 | 318 |  | 59.0 |
+| [Off With Their Heads!](https://boardgamegeek.com/boardgame/445476) \* | 2026 | 2–4 | 2.00 | 27 | – | 3.2 | 369 |  | 58.6 |
+| [Skull King](https://boardgamegeek.com/boardgame/150145) | 2013 | 2–8 | 1.73 | 294 | – | 0.8 | 2718 |  | 56.0 |
+| [Rebel Princess](https://boardgamegeek.com/boardgame/381249) | 2023 | 3–6 | 1.86 | 68 | – | 0.9 | 1463 |  | 56.0 |
+| [Yokai Septet](https://boardgamegeek.com/boardgame/251433) | 2018 | 2–4 | 1.85 | 34 | – | 1.0 | 1120 |  | 55.9 |
+| [Daytime Minutes](https://boardgamegeek.com/boardgame/461564) \* | 2026 | 3–5 | 2.00 | 20 | – | 8.7 | 87 |  | 55.9 |
 
 ## Sleepers
 
@@ -42,8 +42,8 @@ Under 2,000 owners, played often by the people who have it.
 |---|---|---|---|---|---|---|
 | [Apocalypse](https://boardgamegeek.com/boardgame/470482) \* | 2026 | 3–6 | 2.00 | 115 | 265 | 43.4 |
 | [Potemkin Villages](https://boardgamegeek.com/boardgame/454829) \* | 2025 | 2–4 | 2.50 | 83 | 202 | 41.1 |
-| [Minikin City](https://boardgamegeek.com/boardgame/458770) | 2026 | 2–5 | 1.73 | 226 | 1148 | 19.7 |
-| [Cry Baby](https://boardgamegeek.com/boardgame/453781) | 2026 | 3–5 | 2.00 | 32 | 276 | 11.6 |
+| [Minikin City](https://boardgamegeek.com/boardgame/458770) | 2026 | 2–5 | 1.73 | 231 | 1148 | 20.1 |
+| [Cry Baby](https://boardgamegeek.com/boardgame/453781) | 2026 | 3–5 | 2.00 | 33 | 276 | 12.0 |
 | [Trick Stakes](https://boardgamegeek.com/boardgame/420932) \* | 2024 | 3–4 | 1.50 | 27 | 240 | 11.2 |
 | [Matchmakers](https://boardgamegeek.com/boardgame/474696) \* | 2026 | 2–4 | 2.00 | 22 | 207 | 10.6 |
 | [Oshaka Trick](https://boardgamegeek.com/boardgame/468836) \* | 2026 | 3–4 | 2.00 | 28 | 294 | 9.5 |
@@ -53,7 +53,7 @@ Under 2,000 owners, played often by the people who have it.
 | [Moustache](https://boardgamegeek.com/boardgame/448428) | 2025 | 3–6 | 1.60 | 88 | 1191 | 7.4 |
 | [Don Quixote](https://boardgamegeek.com/boardgame/460671) \* | 2026 | 3–5 | n/a | 9 | 131 | 6.9 |
 | [Trick to the Future](https://boardgamegeek.com/boardgame/456965) \* | 2026 | 2–5 | 1.33 | 41 | 600 | 6.8 |
-| [Fishing 2](https://boardgamegeek.com/boardgame/468799) \* | 2026 | 3–5 | 2.00 | 35 | 561 | 6.2 |
+| [Fishing 2](https://boardgamegeek.com/boardgame/468799) \* | 2026 | 3–5 | 2.00 | 36 | 561 | 6.4 |
 | [The Four Deuces](https://boardgamegeek.com/boardgame/468750) \* | 2026 | 2–2 | 1.50 | 6 | 116 | 5.2 |
 
 ## Anticipated
