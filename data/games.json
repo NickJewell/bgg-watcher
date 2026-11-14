@@ -524,7 +524,7 @@
   "year": 2011
  },
  "1107": {
-  "average": 6.774,
+  "average": 6.773,
   "categories": [
    "Animals",
    "Card Game"
@@ -533,7 +533,7 @@
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 1107,
   "max_players": 5,
@@ -547,20 +547,20 @@
   "name": "Nyet!",
   "numcomments": 678,
   "numweights": 106,
-  "owned": 5095,
+  "owned": 5094,
   "playing_time": 60,
   "publishers": [
    "Goldsieber Spiele",
    "IELLO",
    "2 Pionki"
   ],
-  "rank": 2202,
+  "rank": 2207,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 3045,
   "wanting": 169,
   "weight": 1.906,
-  "wishing": 712,
+  "wishing": 711,
   "year": 1997
  },
  "1116": {
@@ -572,7 +572,7 @@
   "designers": [
    "Geoffrey Mott-Smith"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 1116,
   "max_players": 7,
@@ -594,7 +594,7 @@
   "rank": 2827,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 1748,
+  "usersrated": 1750,
   "wanting": 12,
   "weight": 1.732,
   "wishing": 103,
@@ -685,7 +685,7 @@
   "designers": [
    "Klaus Palesch"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 113,
   "max_players": 6,
@@ -704,7 +704,7 @@
    "BoardM Factory",
    "Playte"
   ],
-  "rank": 6691,
+  "rank": 6694,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 409,
@@ -970,7 +970,7 @@
    "George S. Parker",
    "Grace Parker"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 1260,
   "max_players": 6,
@@ -985,7 +985,7 @@
   "name": "Rook",
   "numcomments": 1164,
   "numweights": 194,
-  "owned": 10803,
+  "owned": 10804,
   "playing_time": 45,
   "publishers": [
    "Editrice Giochi",
@@ -1461,7 +1461,7 @@
    "Thomas Jansen",
    "Patrick Zuidhof"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 139326,
   "max_players": 4,
@@ -1473,14 +1473,14 @@
   "name": "UGO!",
   "numcomments": 171,
   "numweights": 44,
-  "owned": 1159,
+  "owned": 1160,
   "playing_time": 40,
   "publishers": [
    "IELLO",
    "KOSMOS",
    "PLAYthisONE"
   ],
-  "rank": 5448,
+  "rank": 5450,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 797,
@@ -1668,7 +1668,7 @@
    "Joe Andrews",
    "Ken Fisher"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 145478,
   "max_players": 6,
@@ -1679,7 +1679,7 @@
   "name": "HeartSwitch",
   "numcomments": 105,
   "numweights": 13,
-  "owned": 1199,
+  "owned": 1200,
   "playing_time": 45,
   "publishers": [
    "AMIGO",
@@ -1739,7 +1739,7 @@
   "designers": [
    "Ken Fisher"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 1465,
   "max_players": 6,
@@ -1751,9 +1751,9 @@
   ],
   "min_players": 3,
   "name": "Wizard",
-  "numcomments": 2673,
+  "numcomments": 2674,
   "numweights": 654,
-  "owned": 26648,
+  "owned": 26657,
   "playing_time": 45,
   "publishers": [
    "K. Fisher Enterprises Ltd.",
@@ -1763,10 +1763,10 @@
   "rank": 855,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 14060,
+  "usersrated": 14061,
   "wanting": 61,
   "weight": 1.697,
-  "wishing": 792,
+  "wishing": 793,
   "year": 1984
  },
  "14699": {
@@ -1892,7 +1892,7 @@
    "Brent Beck",
    "Jeffrey Beck"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 150145,
   "max_players": 8,
@@ -1905,8 +1905,8 @@
   "min_players": 2,
   "name": "Skull King",
   "numcomments": 2509,
-  "numweights": 365,
-  "owned": 35729,
+  "numweights": 366,
+  "owned": 35746,
   "playing_time": 30,
   "publishers": [
    "Grandpa Beck's Games",
@@ -1916,10 +1916,10 @@
   "rank": 285,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 16694,
+  "usersrated": 16700,
   "wanting": 212,
   "weight": 1.732,
-  "wishing": 2720,
+  "wishing": 2717,
   "year": 2013
  },
  "151421": {
@@ -1973,7 +1973,7 @@
   "designers": [
    "Mike Fitzgerald"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 152162,
   "max_players": 6,
@@ -2010,7 +2010,7 @@
   "designers": [
    "Günter Burkhardt"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 15261,
   "max_players": 4,
@@ -2027,7 +2027,7 @@
    "Phalanx Games B.V.",
    "数寄ゲームズ (Suki Games)"
   ],
-  "rank": 7416,
+  "rank": 7419,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 473,
@@ -3355,7 +3355,7 @@
   "designers": [
    "Ralf zur Linde"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 172309,
   "max_players": 5,
@@ -3372,13 +3372,13 @@
    "Grok Games",
    "Ravensburger AG"
   ],
-  "rank": 6441,
+  "rank": 6445,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 473,
   "wanting": 89,
   "weight": 1.905,
-  "wishing": 330,
+  "wishing": 331,
   "year": 2015
  },
  "174": {
@@ -3467,7 +3467,7 @@
   "designers": [
    "Saashi"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 174975,
   "max_players": 4,
@@ -3483,7 +3483,7 @@
   "publishers": [
    "Saashi & Saashi"
   ],
-  "rank": 10706,
+  "rank": 10709,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 285,
@@ -3963,7 +3963,7 @@
   "designers": [
    "Matthias Cramer"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 181761,
   "max_players": 5,
@@ -3985,7 +3985,7 @@
    "Crash Games",
    "Lucrum Games"
   ],
-  "rank": 3932,
+  "rank": 3933,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 1528,
@@ -4386,7 +4386,7 @@
   "year": 0
  },
  "189190": {
-  "average": 7.046,
+  "average": 7.047,
   "categories": [
    "Animals",
    "Card Game"
@@ -4395,7 +4395,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 189190,
   "max_players": 4,
@@ -4405,7 +4405,7 @@
   ],
   "min_players": 3,
   "name": "9 Lives",
-  "numcomments": 339,
+  "numcomments": 340,
   "numweights": 24,
   "owned": 2948,
   "playing_time": 30,
@@ -4414,10 +4414,10 @@
    "BoardGameTables.com",
    "JELLY JELLY GAMES"
   ],
-  "rank": 3119,
+  "rank": 3116,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 1191,
+  "usersrated": 1192,
   "wanting": 68,
   "weight": 1.5,
   "wishing": 338,
@@ -4468,7 +4468,7 @@
   "designers": [
    "Manfred Reindl"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 191071,
   "max_players": 6,
@@ -4481,17 +4481,17 @@
   "name": "Mythical Dice",
   "numcomments": 291,
   "numweights": 31,
-  "owned": 3282,
+  "owned": 3284,
   "playing_time": 30,
   "publishers": [
    "Playte",
    "Schmidt Spiele",
    "Devir"
   ],
-  "rank": 2851,
+  "rank": 2848,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 1736,
+  "usersrated": 1737,
   "wanting": 82,
   "weight": 1.581,
   "wishing": 550,
@@ -4506,7 +4506,7 @@
   "designers": [
    "Ken Fisher"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 191475,
   "max_players": 6,
@@ -4519,7 +4519,7 @@
   "name": "Wizard: Jubiläumsedition",
   "numcomments": 113,
   "numweights": 21,
-  "owned": 2428,
+  "owned": 2430,
   "playing_time": 45,
   "publishers": [
    "AMIGO",
@@ -4902,7 +4902,7 @@
   "designers": [
    "Fukutarou"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 199086,
   "max_players": 4,
@@ -4923,7 +4923,7 @@
    "Tasty Minstrel Games",
    "The Wood Games"
   ],
-  "rank": 10019,
+  "rank": 10021,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 237,
@@ -5086,7 +5086,7 @@
   "designers": [
    "G. W. \"Jerry\" D'Arcey"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 2,
   "max_players": 4,
@@ -5103,13 +5103,13 @@
    "E. S. Lowe Company Inc.",
    "Milton Bradley"
   ],
-  "rank": 5720,
+  "rank": 5721,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 626,
   "wanting": 76,
   "weight": 1.964,
-  "wishing": 237,
+  "wishing": 238,
   "year": 1981
  },
  "20050": {
@@ -5161,7 +5161,7 @@
   "designers": [
    "Charlie Bink"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 200512,
   "max_players": 5,
@@ -5204,7 +5204,7 @@
    "John Coussis",
    "Ben Knight"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 20079,
   "max_players": 7,
@@ -5606,7 +5606,7 @@
   "designers": [
    "Kalle Malmioja"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 207336,
   "max_players": 5,
@@ -5626,7 +5626,7 @@
   "name": "Honshū",
   "numcomments": 1000,
   "numweights": 107,
-  "owned": 8727,
+  "owned": 8726,
   "playing_time": 30,
   "publishers": [
    "Lautapelit.fi",
@@ -5962,7 +5962,7 @@
   "year": 2006
  },
  "215308": {
-  "average": 6.763,
+  "average": 6.765,
   "categories": [
    "Card Game",
    "Religious"
@@ -5973,7 +5973,7 @@
    "Rob Daviau",
    "Justin D. Jacobson"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 215308,
   "max_players": 4,
@@ -5989,10 +5989,10 @@
   "publishers": [
    "Restoration Games"
   ],
-  "rank": 4305,
+  "rank": 4298,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 948,
+  "usersrated": 949,
   "wanting": 71,
   "weight": 1.923,
   "wishing": 448,
@@ -6407,7 +6407,7 @@
   "designers": [
    "Joshua Buergel"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 221965,
   "max_players": 2,
@@ -6421,8 +6421,8 @@
   "min_players": 2,
   "name": "The Fox in the Forest",
   "numcomments": 3342,
-  "numweights": 345,
-  "owned": 39965,
+  "numweights": 346,
+  "owned": 39968,
   "playing_time": 30,
   "publishers": [
    "Foxtrot Games",
@@ -6432,10 +6432,10 @@
   "rank": 702,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 18731,
+  "usersrated": 18735,
   "wanting": 275,
-  "weight": 1.617,
-  "wishing": 3978,
+  "weight": 1.619,
+  "wishing": 3983,
   "year": 2017
  },
  "222783": {
@@ -6897,7 +6897,7 @@
   "year": 1999
  },
  "232078": {
-  "average": 6.187,
+  "average": 6.182,
   "categories": [
    "Card Game",
    "Political",
@@ -6908,7 +6908,7 @@
    "Fel Barros",
    "Warny Marçano"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 232078,
   "max_players": 6,
@@ -6928,10 +6928,10 @@
    "Hobby World",
    "Mandala Jogos"
   ],
-  "rank": 9383,
+  "rank": 9384,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 480,
+  "usersrated": 481,
   "wanting": 8,
   "weight": 1.889,
   "wishing": 71,
@@ -7015,7 +7015,7 @@
    "Günter Burkhardt",
    "Wolfgang Lehmann"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 232417,
   "max_players": 5,
@@ -7027,12 +7027,12 @@
   "name": "Druids",
   "numcomments": 102,
   "numweights": 7,
-  "owned": 1373,
+  "owned": 1374,
   "playing_time": 45,
   "publishers": [
    "AMIGO"
   ],
-  "rank": 7374,
+  "rank": 7371,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 509,
@@ -7051,7 +7051,7 @@
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 233961,
   "max_players": 2,
@@ -7064,8 +7064,8 @@
   "min_players": 2,
   "name": "Claim",
   "numcomments": 991,
-  "numweights": 139,
-  "owned": 13120,
+  "numweights": 140,
+  "owned": 13122,
   "playing_time": 25,
   "publishers": [
    "White Goblin Games",
@@ -7075,9 +7075,9 @@
   "rank": 1448,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 5935,
+  "usersrated": 5938,
   "wanting": 116,
-  "weight": 1.647,
+  "weight": 1.65,
   "wishing": 1217,
   "year": 2017
  },
@@ -7090,7 +7090,7 @@
   "designers": [
    "Reiner Knizia"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 234248,
   "max_players": 5,
@@ -7103,7 +7103,7 @@
   "name": "Voodoo Prince",
   "numcomments": 310,
   "numweights": 28,
-  "owned": 1899,
+  "owned": 1900,
   "playing_time": 20,
   "publishers": [
    "OPEN'N PLAY",
@@ -7209,7 +7209,7 @@
   "designers": [
    "Steven Aramini"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 234776,
   "max_players": 4,
@@ -7733,7 +7733,7 @@
   "designers": [
    "Adam Porter"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 244505,
   "max_players": 5,
@@ -7874,7 +7874,7 @@
   "designers": [
    "Reiner Stockhausen"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 24771,
   "max_players": 5,
@@ -7891,7 +7891,7 @@
    "999 Games",
    "AMIGO"
   ],
-  "rank": 9180,
+  "rank": 9181,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 530,
@@ -7935,7 +7935,7 @@
   "year": 2018
  },
  "249763": {
-  "average": 6.925,
+  "average": 6.924,
   "categories": [
    "Card Game",
    "Fantasy"
@@ -7944,7 +7944,7 @@
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 249763,
   "max_players": 2,
@@ -7956,7 +7956,7 @@
   "name": "Claim 2",
   "numcomments": 399,
   "numweights": 49,
-  "owned": 7056,
+  "owned": 7057,
   "playing_time": 25,
   "publishers": [
    "White Goblin Games",
@@ -7966,7 +7966,7 @@
   "rank": 2383,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 2282,
+  "usersrated": 2283,
   "wanting": 56,
   "weight": 1.592,
   "wishing": 324,
@@ -8132,7 +8132,7 @@
   "designers": [
    "Muneyuki Yokouchi (横内宗幸)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 251433,
   "max_players": 4,
@@ -8155,9 +8155,9 @@
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 1710,
-  "wanting": 121,
+  "wanting": 122,
   "weight": 1.846,
-  "wishing": 1126,
+  "wishing": 1127,
   "year": 2018
  },
  "251560": {
@@ -8623,7 +8623,7 @@
   "year": 2018
  },
  "260568": {
-  "average": 7.319,
+  "average": 7.318,
   "categories": [
    "Card Game",
    "Fantasy"
@@ -8632,7 +8632,7 @@
   "designers": [
    "折口 日向 (Hinata Origuchi)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 260568,
   "max_players": 4,
@@ -8642,22 +8642,22 @@
   ],
   "min_players": 2,
   "name": "Seven Prophecies",
-  "numcomments": 67,
+  "numcomments": 68,
   "numweights": 8,
-  "owned": 596,
+  "owned": 598,
   "playing_time": 35,
   "publishers": [
    "Bluete Spiele",
    "Capstone Games",
    "New Mill Industries"
   ],
-  "rank": 7088,
+  "rank": 7080,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 241,
+  "usersrated": 242,
   "wanting": 45,
   "weight": 1.5,
-  "wishing": 317,
+  "wishing": 316,
   "year": 2017
  },
  "260704": {
@@ -9078,7 +9078,7 @@
   "designers": [
    "Jonathan Woodard (II)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 276924,
   "max_players": 6,
@@ -9095,7 +9095,7 @@
    "Renegade Game Studios",
    "Origames"
   ],
-  "rank": 9024,
+  "rank": 9028,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 421,
@@ -9188,7 +9188,7 @@
   "designers": [
    "Rob Heinsoo"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 280501,
   "max_players": 6,
@@ -9209,7 +9209,7 @@
    "WizKids (I)",
    "Hobby Japan"
   ],
-  "rank": 5293,
+  "rank": 5296,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 560,
@@ -9227,7 +9227,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 282255,
   "max_players": 4,
@@ -9245,7 +9245,7 @@
    "倦怠期 (Kentaiki)",
    "New Mill Industries"
   ],
-  "rank": 6372,
+  "rank": 6373,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 353,
@@ -9301,7 +9301,7 @@
   "designers": [
    "Thomas Sing"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 284083,
   "max_players": 5,
@@ -9314,9 +9314,9 @@
   ],
   "min_players": 2,
   "name": "The Crew: The Quest for Planet Nine",
-  "numcomments": 6585,
+  "numcomments": 6586,
   "numweights": 1021,
-  "owned": 95927,
+  "owned": 95937,
   "playing_time": 20,
   "publishers": [
    "KOSMOS",
@@ -9326,10 +9326,10 @@
   "rank": 97,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 49787,
+  "usersrated": 49792,
   "wanting": 314,
   "weight": 1.97,
-  "wishing": 6341,
+  "wishing": 6344,
   "year": 2019
  },
  "284192": {
@@ -9554,7 +9554,7 @@
   "year": 2019
  },
  "288169": {
-  "average": 6.955,
+  "average": 6.954,
   "categories": [
    "Animals",
    "Card Game",
@@ -9562,7 +9562,7 @@
   ],
   "description": "In the two-player, co-operative trick-taking game The Fox in the Forest Duet, players team up, helping each other move through the forest. Collect all the gems before the end of three rounds of play, and you win! To set up the game, place gem tokens on the designated spaces of the game board and the team tracker token in the center of the movement path. At the start of each round, shuffle the deck of thirty cards — which contains three suits, each numbered 1-10 — and deal each player a hand of eleven cards. Reveal one card as the \"decree\" card to determine the trump suit. For each trick, one…",
   "designers": [],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 288169,
   "max_players": 2,
@@ -9579,7 +9579,7 @@
   "name": "The Fox in the Forest Duet",
   "numcomments": 902,
   "numweights": 93,
-  "owned": 11102,
+  "owned": 11106,
   "playing_time": 30,
   "publishers": [
    "Foxtrot Games",
@@ -9589,10 +9589,10 @@
   "rank": 1523,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 4554,
+  "usersrated": 4556,
   "wanting": 127,
   "weight": 1.774,
-  "wishing": 1556,
+  "wishing": 1557,
   "year": 2020
  },
  "294219": {
@@ -9767,7 +9767,7 @@
   "year": 2007
  },
  "297129": {
-  "average": 7.16,
+  "average": 7.159,
   "categories": [
    "Card Game",
    "Novel-based"
@@ -9776,7 +9776,7 @@
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 297129,
   "max_players": 2,
@@ -9788,9 +9788,9 @@
   ],
   "min_players": 2,
   "name": "Jekyll vs. Hyde",
-  "numcomments": 850,
+  "numcomments": 849,
   "numweights": 143,
-  "owned": 10208,
+  "owned": 10210,
   "playing_time": 30,
   "publishers": [
    "Mandoo Games",
@@ -9800,7 +9800,7 @@
   "rank": 1017,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 5747,
+  "usersrated": 5750,
   "wanting": 164,
   "weight": 1.853,
   "wishing": 1512,
@@ -10391,7 +10391,7 @@
   "designers": [
    "Cédrick Chaboussit"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 313262,
   "max_players": 5,
@@ -10405,7 +10405,7 @@
   ],
   "min_players": 3,
   "name": "Shamans",
-  "numcomments": 483,
+  "numcomments": 484,
   "numweights": 48,
   "owned": 5115,
   "playing_time": 60,
@@ -10414,7 +10414,7 @@
    "Arrakis Games",
    "Banana Games"
   ],
-  "rank": 2476,
+  "rank": 2477,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 2437,
@@ -10504,7 +10504,7 @@
    "Cyril Blondel",
    "Jim Dratwa"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 317983,
   "max_players": 5,
@@ -10523,7 +10523,7 @@
    "Blackrock Games",
    "HeidelBÄR Games"
   ],
-  "rank": 5303,
+  "rank": 5305,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 700,
@@ -10971,7 +10971,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 324344,
   "max_players": 4,
@@ -10989,7 +10989,7 @@
    "双子のライオン堂 (Twins Lion Do)",
    "倦怠期 (Kentaiki)"
   ],
-  "rank": 6325,
+  "rank": 6326,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 336,
@@ -11008,7 +11008,7 @@
   "designers": [
    "Muneyuki Yokouchi (横内宗幸)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 324345,
   "max_players": 4,
@@ -11028,7 +11028,7 @@
    "Ayatsurare Ningyoukan",
    "Fun Games Shop"
   ],
-  "rank": 3214,
+  "rank": 3215,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 1228,
@@ -11038,7 +11038,7 @@
   "year": 2020
  },
  "324711": {
-  "average": 7.639,
+  "average": 7.641,
   "categories": [
    "Card Game"
   ],
@@ -11046,7 +11046,7 @@
   "designers": [
    "ctr"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 324711,
   "max_players": 5,
@@ -11056,22 +11056,22 @@
   ],
   "min_players": 3,
   "name": "Schadenfreude",
-  "numcomments": 447,
+  "numcomments": 457,
   "numweights": 43,
-  "owned": 3138,
+  "owned": 3209,
   "playing_time": 20,
   "publishers": [
    "Gémklub",
    "Office Dog",
    "Rebel Sp. z o.o."
   ],
-  "rank": 1472,
+  "rank": 1457,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 1926,
-  "wanting": 348,
+  "usersrated": 1948,
+  "wanting": 353,
   "weight": 1.744,
-  "wishing": 2448,
+  "wishing": 2451,
   "year": 2020
  },
  "324914": {
@@ -11084,7 +11084,7 @@
   "designers": [
    "Tanner Simmons"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 324914,
   "max_players": 5,
@@ -11104,7 +11104,7 @@
   "name": "Inside Job",
   "numcomments": 457,
   "numweights": 55,
-  "owned": 5018,
+  "owned": 5020,
   "playing_time": 30,
   "publishers": [
    "KOSMOS",
@@ -11114,10 +11114,10 @@
   "rank": 2143,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 2438,
+  "usersrated": 2440,
   "wanting": 106,
   "weight": 1.691,
-  "wishing": 864,
+  "wishing": 865,
   "year": 2022
  },
  "3293": {
@@ -11457,7 +11457,7 @@
   "designers": [
    "Uwe Rosenberg"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 338,
   "max_players": 4,
@@ -12358,7 +12358,7 @@
   "designers": [
    "Ron Gonzalo García"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 351773,
   "max_players": 6,
@@ -12375,13 +12375,13 @@
    "Megacorpin Games",
    "Zacatrus"
   ],
-  "rank": 10630,
+  "rank": 10632,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 126,
   "wanting": 10,
   "weight": 2.25,
-  "wishing": 71,
+  "wishing": 72,
   "year": 2025
  },
  "351855": {
@@ -12704,7 +12704,7 @@
   "year": 2022
  },
  "354": {
-  "average": 7.046,
+  "average": 7.045,
   "categories": [
    "Card Game"
   ],
@@ -12712,7 +12712,7 @@
   "designers": [
    "Klaus Palesch"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 354,
   "max_players": 6,
@@ -12725,20 +12725,20 @@
   "name": "Stick 'Em",
   "numcomments": 1290,
   "numweights": 265,
-  "owned": 6118,
+  "owned": 6119,
   "playing_time": 60,
   "publishers": [
    "AMIGO",
    "Nürnberger-Spielkarten-Verlag",
    "Capstone Games"
   ],
-  "rank": 1405,
+  "rank": 1406,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 4136,
+  "usersrated": 4138,
   "wanting": 195,
   "weight": 1.898,
-  "wishing": 847,
+  "wishing": 848,
   "year": 1993
  },
  "354328": {
@@ -12961,7 +12961,7 @@
   "designers": [
    "root (ルート)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 358669,
   "max_players": 4,
@@ -12980,7 +12980,7 @@
    "Blackrock Games",
    "Lavka Games"
   ],
-  "rank": 2973,
+  "rank": 2972,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 1826,
@@ -13280,7 +13280,7 @@
    "Robert Coelho",
    "Luis Francisco"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 364277,
   "max_players": 5,
@@ -13292,13 +13292,13 @@
   "name": "Stonks",
   "numcomments": 70,
   "numweights": 13,
-  "owned": 505,
+  "owned": 504,
   "playing_time": 45,
   "publishers": [
    "Grok Games",
    "Mandala Jogos"
   ],
-  "rank": 8502,
+  "rank": 8503,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 286,
@@ -13423,7 +13423,7 @@
    "J.B. Howell",
    "Michael Mihealsick"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 364994,
   "max_players": 5,
@@ -13437,19 +13437,19 @@
   "name": "Tidal Blades: Banner Festival",
   "numcomments": 193,
   "numweights": 22,
-  "owned": 2359,
+  "owned": 2365,
   "playing_time": 45,
   "publishers": [
    "Druid City Games",
    "Lucky Duck Games"
   ],
-  "rank": 4065,
+  "rank": 4060,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 880,
+  "usersrated": 881,
   "wanting": 26,
   "weight": 1.909,
-  "wishing": 276,
+  "wishing": 275,
   "year": 2022
  },
  "365122": {
@@ -13724,7 +13724,7 @@
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 366458,
   "max_players": 4,
@@ -13749,7 +13749,7 @@
   "usersrated": 172,
   "wanting": 57,
   "weight": 2.0,
-  "wishing": 184,
+  "wishing": 182,
   "year": 2023
  },
  "366707": {
@@ -13933,7 +13933,7 @@
   "designers": [
    "Wolfgang Werner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 369084,
   "max_players": 4,
@@ -13951,7 +13951,7 @@
    "(Unknown)",
    "4GAMES"
   ],
-  "rank": 5552,
+  "rank": 5553,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 476,
@@ -14006,7 +14006,7 @@
   "designers": [
    "Scott Almes"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 370325,
   "max_players": 2,
@@ -14016,7 +14016,7 @@
   ],
   "min_players": 2,
   "name": "Claim Anniversary Edition",
-  "numcomments": 57,
+  "numcomments": 56,
   "numweights": 6,
   "owned": 1184,
   "playing_time": 35,
@@ -14025,13 +14025,13 @@
    "Game Factory",
    "PaperGames (III)"
   ],
-  "rank": 6335,
+  "rank": 6336,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 296,
   "wanting": 48,
   "weight": 1.833,
-  "wishing": 241,
+  "wishing": 240,
   "year": 2023
  },
  "37072": {
@@ -14165,7 +14165,7 @@
    "Christopher Haviland",
    "Robert A. Kamp"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 373435,
   "max_players": 6,
@@ -14193,7 +14193,7 @@
   "year": 2022
  },
  "374024": {
-  "average": 7.317,
+  "average": 7.316,
   "categories": [
    "Card Game",
    "Number"
@@ -14202,7 +14202,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 374024,
   "max_players": 4,
@@ -14213,17 +14213,17 @@
   "name": "Fives",
   "numcomments": 129,
   "numweights": 7,
-  "owned": 789,
+  "owned": 790,
   "playing_time": 40,
   "publishers": [
    "CMYK",
    "倦怠期 (Kentaiki)"
   ],
-  "rank": 5270,
+  "rank": 5277,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 408,
-  "wanting": 88,
+  "wanting": 87,
   "weight": 1.857,
   "wishing": 314,
   "year": 2022
@@ -14271,7 +14271,7 @@
   "designers": [
    "Domi (ドミッチ)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 374866,
   "max_players": 3,
@@ -14282,20 +14282,20 @@
   "name": "Robotrick",
   "numcomments": 219,
   "numweights": 28,
-  "owned": 1757,
+  "owned": 1759,
   "playing_time": 30,
   "publishers": [
    "The Game Gallery Works",
    "Explor8",
    "Korokorodou"
   ],
-  "rank": 2751,
+  "rank": 2753,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 972,
   "wanting": 123,
   "weight": 1.929,
-  "wishing": 461,
+  "wishing": 458,
   "year": 2020
  },
  "375280": {
@@ -14660,7 +14660,7 @@
   "year": 2022
  },
  "381249": {
-  "average": 7.403,
+  "average": 7.402,
   "categories": [
    "Card Game"
   ],
@@ -14671,7 +14671,7 @@
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 381249,
   "max_players": 6,
@@ -14684,7 +14684,7 @@
   "name": "Rebel Princess",
   "numcomments": 622,
   "numweights": 87,
-  "owned": 7683,
+  "owned": 7693,
   "playing_time": 40,
   "publishers": [
    "Zombi Paella",
@@ -14694,10 +14694,10 @@
   "rank": 1012,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 4043,
+  "usersrated": 4045,
   "wanting": 123,
   "weight": 1.862,
-  "wishing": 1466,
+  "wishing": 1464,
   "year": 2023
  },
  "381278": {
@@ -14712,7 +14712,7 @@
    "Maxime Rambourg",
    "Théo Rivière"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 381278,
   "max_players": 2,
@@ -14727,7 +14727,7 @@
   "name": "Dracula vs Van Helsing",
   "numcomments": 489,
   "numweights": 95,
-  "owned": 6303,
+  "owned": 6309,
   "playing_time": 45,
   "publishers": [
    "Mandoo Games",
@@ -14737,10 +14737,10 @@
   "rank": 1129,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 3483,
-  "wanting": 169,
+  "usersrated": 3486,
+  "wanting": 168,
   "weight": 1.737,
-  "wishing": 1458,
+  "wishing": 1455,
   "year": 2023
  },
  "382210": {
@@ -14904,7 +14904,7 @@
   "designers": [
    "Matthias Cramer"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 383450,
   "max_players": 5,
@@ -14916,12 +14916,12 @@
   "name": "Pies",
   "numcomments": 142,
   "numweights": 7,
-  "owned": 1812,
+  "owned": 1813,
   "playing_time": 20,
   "publishers": [
    "Allplay"
   ],
-  "rank": 8239,
+  "rank": 8240,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 469,
@@ -14940,7 +14940,7 @@
   "designers": [
    "Masato Uesugi"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 383452,
   "max_players": 4,
@@ -14952,22 +14952,22 @@
   "name": "Lunar",
   "numcomments": 175,
   "numweights": 16,
-  "owned": 1892,
+  "owned": 1894,
   "playing_time": 20,
   "publishers": [
    "Allplay"
   ],
-  "rank": 5248,
+  "rank": 5251,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 609,
+  "usersrated": 608,
   "wanting": 26,
   "weight": 1.938,
   "wishing": 207,
   "year": 2024
  },
  "383701": {
-  "average": 7.176,
+  "average": 7.177,
   "categories": [
    "Card Game"
   ],
@@ -14975,7 +14975,7 @@
   "designers": [
    "Jon Barron"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 383701,
   "max_players": 6,
@@ -14987,16 +14987,16 @@
   "name": "Tricky Time Crisis",
   "numcomments": 115,
   "numweights": 8,
-  "owned": 948,
+  "owned": 950,
   "playing_time": 45,
   "publishers": [
    "Baron Jon Games",
    "Musoka Studio"
   ],
-  "rank": 5180,
+  "rank": 5183,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 472,
+  "usersrated": 471,
   "wanting": 61,
   "weight": 1.875,
   "wishing": 261,
@@ -15012,7 +15012,7 @@
   "designers": [
    "URiO"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 383791,
   "max_players": 5,
@@ -15030,13 +15030,13 @@
    "Allplay",
    "Grail Games"
   ],
-  "rank": 7216,
+  "rank": 7218,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 199,
   "wanting": 79,
   "weight": 1.667,
-  "wishing": 311,
+  "wishing": 309,
   "year": 2023
  },
  "384119": {
@@ -15552,7 +15552,7 @@
   "designers": [
    "Daniel Newman"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 391985,
   "max_players": 6,
@@ -15563,7 +15563,7 @@
   "name": "Enemy Anemone",
   "numcomments": 102,
   "numweights": 8,
-  "owned": 632,
+  "owned": 633,
   "playing_time": 40,
   "publishers": [
    "New Mill Industries",
@@ -15732,7 +15732,7 @@
   "designers": [
    "Carol LaGrow"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 394691,
   "max_players": 4,
@@ -15744,16 +15744,16 @@
   "name": "The Six of VIII",
   "numcomments": 118,
   "numweights": 6,
-  "owned": 923,
+  "owned": 929,
   "playing_time": 60,
   "publishers": [
    "New Mill Industries",
    "25th Century Games"
   ],
-  "rank": 6282,
+  "rank": 6265,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 317,
+  "usersrated": 319,
   "wanting": 80,
   "weight": 2.0,
   "wishing": 361,
@@ -15910,7 +15910,7 @@
    "John Brieger",
    "Chris Handy (I)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 396334,
   "max_players": 4,
@@ -15932,7 +15932,7 @@
    "Perplext",
    "Matagot"
   ],
-  "rank": 15495,
+  "rank": 15499,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 110,
@@ -15951,7 +15951,7 @@
    "Kate Bertram",
    "Kevin Bertram"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 396341,
   "max_players": 4,
@@ -16063,7 +16063,7 @@
   "designers": [
    "Markus W. Leon"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 398772,
   "max_players": 4,
@@ -16080,7 +16080,7 @@
   "publishers": [
    "Zoch Verlag"
   ],
-  "rank": 14605,
+  "rank": 14611,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 186,
@@ -16308,7 +16308,7 @@
    "Fukutarou",
    "Yozaemon Matumoto (松本与左衛門)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 405460,
   "max_players": 5,
@@ -16321,7 +16321,7 @@
   "name": "CATsle Builders",
   "numcomments": 81,
   "numweights": 7,
-  "owned": 541,
+  "owned": 542,
   "playing_time": 40,
   "publishers": [
    "梟老堂 (Fukuroudou)",
@@ -16419,7 +16419,7 @@
   "designers": [
    "Thomas Sing"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 406299,
   "max_players": 5,
@@ -16434,14 +16434,14 @@
   "name": "The Crew: Family Adventure",
   "numcomments": 104,
   "numweights": 5,
-  "owned": 1606,
+  "owned": 1607,
   "playing_time": 20,
   "publishers": [
    "KOSMOS",
    "Black Sea Games",
    "Galakta"
   ],
-  "rank": 12635,
+  "rank": 12637,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 372,
@@ -16486,7 +16486,7 @@
   "year": 2023
  },
  "407581": {
-  "average": 6.705,
+  "average": 6.708,
   "categories": [
    "Card Game"
   ],
@@ -16494,7 +16494,7 @@
   "designers": [
    "Hisashi Hayashi"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 407581,
   "max_players": 5,
@@ -16506,16 +16506,16 @@
   "name": "Sweet Takes",
   "numcomments": 45,
   "numweights": 4,
-  "owned": 631,
+  "owned": 632,
   "playing_time": 15,
   "publishers": [
    "OKAZU Brand",
    "Hasbro"
   ],
-  "rank": 9377,
+  "rank": 9352,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 227,
+  "usersrated": 228,
   "wanting": 8,
   "weight": 1.5,
   "wishing": 70,
@@ -17022,7 +17022,7 @@
   "designers": [
    "Ted Alspach"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 412381,
   "max_players": 6,
@@ -17040,7 +17040,7 @@
    "4GAMES",
    "IFROM Games"
   ],
-  "rank": 11730,
+  "rank": 11731,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 291,
@@ -17193,7 +17193,7 @@
   "designers": [
    "Christopher Wray"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 414302,
   "max_players": 5,
@@ -17205,7 +17205,7 @@
   "name": "Xylotar",
   "numcomments": 182,
   "numweights": 18,
-  "owned": 1568,
+  "owned": 1570,
   "playing_time": 30,
   "publishers": [
    "Bézier Games",
@@ -17216,7 +17216,7 @@
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 766,
-  "wanting": 46,
+  "wanting": 45,
   "weight": 1.833,
   "wishing": 242,
   "year": 2024
@@ -17342,7 +17342,7 @@
   "designers": [
    "Dylan Coyle"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 414944,
   "max_players": 4,
@@ -17363,7 +17363,7 @@
   "publishers": [
    "Charming Games Collective"
   ],
-  "rank": 12648,
+  "rank": 12651,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 165,
@@ -17373,7 +17373,7 @@
   "year": 2024
  },
  "415472": {
-  "average": 7.111,
+  "average": 7.114,
   "categories": [
    "Card Game"
   ],
@@ -17382,7 +17382,7 @@
    "David Harding (II)",
    "Matt Sims"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 415472,
   "max_players": 2,
@@ -17400,10 +17400,10 @@
    "JELLY JELLY GAMES",
    "Maldito Games"
   ],
-  "rank": 7871,
+  "rank": 7874,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 240,
+  "usersrated": 241,
   "wanting": 19,
   "weight": 1.5,
   "wishing": 167,
@@ -17452,7 +17452,7 @@
   "designers": [
    "Michael Orion"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 417224,
   "max_players": 5,
@@ -17471,7 +17471,7 @@
    "Rolling Wizards Studio",
    "Arcane Wonders"
   ],
-  "rank": 8778,
+  "rank": 8782,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 269,
@@ -17532,7 +17532,7 @@
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 418556,
   "max_players": 6,
@@ -17545,7 +17545,7 @@
   "name": "Rebel Princess: Deluxe Edition",
   "numcomments": 381,
   "numweights": 33,
-  "owned": 5322,
+  "owned": 5330,
   "playing_time": 45,
   "publishers": [
    "Bézier Games",
@@ -17555,10 +17555,10 @@
   "rank": 0,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 1876,
+  "usersrated": 1877,
   "wanting": 107,
   "weight": 1.818,
-  "wishing": 635,
+  "wishing": 636,
   "year": 2024
  },
  "418773": {
@@ -17641,7 +17641,7 @@
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 419195,
   "max_players": 5,
@@ -17651,7 +17651,7 @@
   ],
   "min_players": 3,
   "name": "Fishing",
-  "numcomments": 679,
+  "numcomments": 680,
   "numweights": 67,
   "owned": 7983,
   "playing_time": 60,
@@ -17660,11 +17660,11 @@
    "2Tomatoes Games",
    "999 Games"
   ],
-  "rank": 1214,
+  "rank": 1215,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 3941,
-  "wanting": 178,
+  "usersrated": 3943,
+  "wanting": 179,
   "weight": 1.866,
   "wishing": 1201,
   "year": 2024
@@ -17679,7 +17679,7 @@
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 419416,
   "max_players": 2,
@@ -17690,14 +17690,14 @@
   "name": "The Phantom of the Opera",
   "numcomments": 54,
   "numweights": 5,
-  "owned": 582,
+  "owned": 583,
   "playing_time": 15,
   "publishers": [
    "Korea Boardgames",
    "Schemers",
    "25th Century Games"
   ],
-  "rank": 10704,
+  "rank": 10707,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 156,
@@ -17752,7 +17752,7 @@
    "Kevin Peláez",
    "Tirso Virgós"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 420017,
   "max_players": 6,
@@ -17765,17 +17765,17 @@
   "name": "Rebel Princess: 2nd Edition",
   "numcomments": 99,
   "numweights": 11,
-  "owned": 1155,
+  "owned": 1156,
   "playing_time": 45,
   "publishers": [
    "Bézier Games",
    "Bohemian Games",
    "Gam'inBIZ"
   ],
-  "rank": 4494,
+  "rank": 4493,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 517,
+  "usersrated": 519,
   "wanting": 43,
   "weight": 1.818,
   "wishing": 264,
@@ -17928,7 +17928,7 @@
   "designers": [
    "宮野 華也 (Kaya Miyano)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 420766,
   "max_players": 5,
@@ -17944,7 +17944,7 @@
   "publishers": [
    "Mob+ (Mob Plus)"
   ],
-  "rank": 9820,
+  "rank": 9826,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 225,
@@ -17954,7 +17954,7 @@
   "year": 2024
  },
  "420862": {
-  "average": 7.04,
+  "average": 7.039,
   "categories": [
    "Card Game",
    "Deduction"
@@ -17963,7 +17963,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 420862,
   "max_players": 5,
@@ -17975,7 +17975,7 @@
   "name": "LUZ",
   "numcomments": 188,
   "numweights": 25,
-  "owned": 1954,
+  "owned": 1956,
   "playing_time": 30,
   "publishers": [
    "IELLO",
@@ -17986,7 +17986,7 @@
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 1084,
-  "wanting": 62,
+  "wanting": 63,
   "weight": 1.72,
   "wishing": 422,
   "year": 2024
@@ -18000,7 +18000,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 420891,
   "max_players": 4,
@@ -18012,16 +18012,16 @@
   "name": "Shut The Books",
   "numcomments": 32,
   "numweights": 1,
-  "owned": 76,
+  "owned": 75,
   "playing_time": 40,
   "publishers": [
    "倦怠期 (Kentaiki)"
   ],
-  "rank": 10554,
+  "rank": 10561,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 104,
-  "wanting": 52,
+  "wanting": 53,
   "weight": 2.0,
   "wishing": 156,
   "year": 2024
@@ -18060,7 +18060,7 @@
   "year": 2023
  },
  "420932": {
-  "average": 7.074,
+  "average": 7.087,
   "categories": [
    "Card Game"
   ],
@@ -18069,7 +18069,7 @@
    "Susumu Kawasaki",
    "場咲工(Basaki Takumi)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 420932,
   "max_players": 4,
@@ -18081,19 +18081,19 @@
   "name": "Trick Stakes",
   "numcomments": 40,
   "numweights": 2,
-  "owned": 246,
+  "owned": 247,
   "playing_time": 30,
   "publishers": [
    "Kawasaki Factory",
    "Musoka Studio"
   ],
-  "rank": 15074,
+  "rank": 14970,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 66,
+  "usersrated": 68,
   "wanting": 47,
   "weight": 1.5,
-  "wishing": 183,
+  "wishing": 184,
   "year": 2024
  },
  "421064": {
@@ -18398,7 +18398,7 @@
   "designers": [
    "Martin Wallace"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 423307,
   "max_players": 5,
@@ -18412,12 +18412,12 @@
   "name": "Zero to Hero",
   "numcomments": 60,
   "numweights": 6,
-  "owned": 423,
+  "owned": 424,
   "playing_time": 45,
   "publishers": [
    "Wallace Designs"
   ],
-  "rank": 9013,
+  "rank": 9017,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 309,
@@ -18470,7 +18470,7 @@
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 423432,
   "max_players": 6,
@@ -18492,17 +18492,17 @@
    "Playte",
    "Popcorn Games"
   ],
-  "rank": 3986,
+  "rank": 3982,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 678,
+  "usersrated": 679,
   "wanting": 86,
   "weight": 1.688,
-  "wishing": 299,
+  "wishing": 298,
   "year": 2024
  },
  "423517": {
-  "average": 7.022,
+  "average": 7.021,
   "categories": [
    "Card Game",
    "Fantasy"
@@ -18511,7 +18511,7 @@
   "designers": [
    "Joe Hout"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 423517,
   "max_players": 6,
@@ -18524,7 +18524,7 @@
   "name": "3 Chapters",
   "numcomments": 439,
   "numweights": 78,
-  "owned": 5747,
+  "owned": 5750,
   "playing_time": 30,
   "publishers": [
    "AMIGO",
@@ -18534,10 +18534,10 @@
   "rank": 1883,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 2825,
+  "usersrated": 2828,
   "wanting": 84,
   "weight": 1.667,
-  "wishing": 819,
+  "wishing": 818,
   "year": 2024
  },
  "423675": {
@@ -18589,7 +18589,7 @@
   "designers": [
    "Rob Newton"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 423816,
   "max_players": 5,
@@ -18606,7 +18606,7 @@
   "publishers": [
    "Coin Flip Games"
   ],
-  "rank": 12419,
+  "rank": 12421,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 107,
@@ -19353,7 +19353,7 @@
   "designers": [
    "David Cheng (II)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 427904,
   "max_players": 4,
@@ -19377,7 +19377,7 @@
   "usersrated": 115,
   "wanting": 16,
   "weight": 2.0,
-  "wishing": 108,
+  "wishing": 107,
   "year": 2024
  },
  "428409": {
@@ -19506,7 +19506,7 @@
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 428538,
   "max_players": 6,
@@ -19655,7 +19655,7 @@
   "designers": [
    "Bryan Bornmueller"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 429293,
   "max_players": 4,
@@ -19667,9 +19667,9 @@
   ],
   "min_players": 1,
   "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
-  "numcomments": 1687,
+  "numcomments": 1688,
   "numweights": 227,
-  "owned": 30323,
+  "owned": 30340,
   "playing_time": 20,
   "publishers": [
    "Office Dog",
@@ -19679,10 +19679,10 @@
   "rank": 125,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 12065,
-  "wanting": 403,
+  "usersrated": 12081,
+  "wanting": 402,
   "weight": 1.921,
-  "wishing": 4314,
+  "wishing": 4318,
   "year": 2025
  },
  "429329": {
@@ -19803,7 +19803,7 @@
    "Jason Hager",
    "Darren Reckner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 429508,
   "max_players": 4,
@@ -19821,7 +19821,7 @@
   "publishers": [
    "Keymaster Games"
   ],
-  "rank": 9506,
+  "rank": 9507,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 242,
@@ -20098,7 +20098,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 430921,
   "max_players": 4,
@@ -20116,7 +20116,7 @@
   "publishers": [
    "Amatsubu Games"
   ],
-  "rank": 8546,
+  "rank": 8550,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 157,
@@ -20315,7 +20315,7 @@
   "designers": [
    "Totsuca Chuo"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 432052,
   "max_players": 4,
@@ -20331,7 +20331,7 @@
   "publishers": [
    "A.I.Lab.遊"
   ],
-  "rank": 11873,
+  "rank": 11874,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 82,
@@ -20620,7 +20620,7 @@
   "designers": [
    "Daniel Kenel"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 433797,
   "max_players": 5,
@@ -20638,13 +20638,13 @@
   "publishers": [
    "Little Dog Games"
   ],
-  "rank": 11988,
+  "rank": 11992,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 75,
   "wanting": 31,
   "weight": 2.0,
-  "wishing": 109,
+  "wishing": 108,
   "year": 2025
  },
  "433924": {
@@ -21002,7 +21002,7 @@
   "designers": [
    "Frederick A. Herschler"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 436,
   "max_players": 6,
@@ -21041,7 +21041,7 @@
   "designers": [
    "しぶ (Shibu)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 436178,
   "max_players": 4,
@@ -21058,13 +21058,13 @@
    "Korokorodou",
    "卸売センターサンエイ (Oroshiuri Sentaa San'ei)"
   ],
-  "rank": 5678,
+  "rank": 5680,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 310,
   "wanting": 78,
   "weight": 1.714,
-  "wishing": 247,
+  "wishing": 244,
   "year": 2024
  },
  "436195": {
@@ -21225,7 +21225,7 @@
    "Steve Ellis (II)",
    "Paul Salomon"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 436935,
   "max_players": 7,
@@ -21242,7 +21242,7 @@
   "publishers": [
    "GameHead"
   ],
-  "rank": 23758,
+  "rank": 23768,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 115,
@@ -21546,7 +21546,7 @@
   "designers": [
    "Cole Smith"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 438733,
   "max_players": 5,
@@ -21564,13 +21564,13 @@
   "publishers": [
    "Tangerine Games"
   ],
-  "rank": 8800,
+  "rank": 8801,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 203,
   "wanting": 24,
   "weight": 2.0,
-  "wishing": 133,
+  "wishing": 134,
   "year": 2026
  },
  "438800": {
@@ -21694,7 +21694,7 @@
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 438975,
   "max_players": 2,
@@ -21721,7 +21721,7 @@
   "usersrated": 21,
   "wanting": 117,
   "weight": 0.0,
-  "wishing": 1183,
+  "wishing": 1184,
   "year": 2027
  },
  "439129": {
@@ -22130,7 +22130,7 @@
   "designers": [
    "Reinhard Staupe"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 44,
   "max_players": 6,
@@ -22154,7 +22154,7 @@
   "usersrated": 1800,
   "wanting": 205,
   "weight": 1.623,
-  "wishing": 633,
+  "wishing": 632,
   "year": 1997
  },
  "440105": {
@@ -22637,7 +22637,7 @@
    "Andrew Stiles",
    "Steven Ungaro"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 441614,
   "max_players": 5,
@@ -22654,13 +22654,13 @@
   "publishers": [
    "Baron Jon Games"
   ],
-  "rank": 8145,
+  "rank": 8146,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 174,
-  "wanting": 25,
+  "wanting": 26,
   "weight": 1.667,
-  "wishing": 116,
+  "wishing": 114,
   "year": 2025
  },
  "441616": {
@@ -22922,7 +22922,7 @@
    "Eilif Svensson",
    "Åsmund Svensson"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 442512,
   "max_players": 5,
@@ -22941,7 +22941,7 @@
   "publishers": [
    "Chilifox Games"
   ],
-  "rank": 7472,
+  "rank": 7474,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 285,
@@ -22995,7 +22995,7 @@
   "designers": [
    "Gaetano Foschini"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 442639,
   "max_players": 4,
@@ -23139,7 +23139,7 @@
   "designers": [
    "Ted Alspach"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 443074,
   "max_players": 6,
@@ -23153,14 +23153,14 @@
   "name": "Zombie Princess",
   "numcomments": 128,
   "numweights": 9,
-  "owned": 1245,
+  "owned": 1247,
   "playing_time": 60,
   "publishers": [
    "Bézier Games",
    "Wonderbow Games",
    "Zombi Paella"
   ],
-  "rank": 7842,
+  "rank": 7843,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 312,
@@ -23685,7 +23685,7 @@
   "designers": [
    "Iori Tsukinami (月並いおり)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 445123,
   "max_players": 4,
@@ -23701,7 +23701,7 @@
   "publishers": [
    "SYNKA Games"
   ],
-  "rank": 9497,
+  "rank": 9498,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 155,
@@ -23847,7 +23847,7 @@
   "year": 2025
  },
  "445476": {
-  "average": 7.673,
+  "average": 7.672,
   "categories": [
    "Card Game",
    "Fantasy"
@@ -23857,7 +23857,7 @@
    "J.B. Howell",
    "Michael Mihealsick"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 445476,
   "max_players": 4,
@@ -23867,21 +23867,21 @@
   ],
   "min_players": 2,
   "name": "Off With Their Heads!",
-  "numcomments": 82,
+  "numcomments": 83,
   "numweights": 2,
-  "owned": 860,
+  "owned": 861,
   "playing_time": 30,
   "publishers": [
    "Druid City Games",
    "Present Is Future Games (PIF GAMES)"
   ],
-  "rank": 5831,
+  "rank": 5803,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 302,
+  "usersrated": 304,
   "wanting": 55,
   "weight": 2.0,
-  "wishing": 369,
+  "wishing": 370,
   "year": 2026
  },
  "445497": {
@@ -24058,7 +24058,7 @@
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 445510,
   "max_players": 4,
@@ -24069,12 +24069,12 @@
   "name": "Odyssey",
   "numcomments": 31,
   "numweights": 4,
-  "owned": 186,
+  "owned": 188,
   "playing_time": 30,
   "publishers": [
    "Schemers"
   ],
-  "rank": 14453,
+  "rank": 14457,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 71,
@@ -24392,7 +24392,7 @@
   "designers": [
    "笠置啓太 (Keita Kasagi)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 445613,
   "max_players": 5,
@@ -24405,18 +24405,18 @@
   "name": "Identity",
   "numcomments": 38,
   "numweights": 5,
-  "owned": 210,
+  "owned": 209,
   "playing_time": 15,
   "publishers": [
    "Bamboo Games"
   ],
-  "rank": 11709,
+  "rank": 11706,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 108,
   "wanting": 22,
   "weight": 1.8,
-  "wishing": 110,
+  "wishing": 109,
   "year": 2025
  },
  "445614": {
@@ -25218,7 +25218,7 @@
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 446269,
   "max_players": 2,
@@ -25237,7 +25237,7 @@
    "25th Century Games",
    "Nice Game Publishing"
   ],
-  "rank": 9000,
+  "rank": 9006,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 149,
@@ -25323,7 +25323,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 446442,
   "max_players": 4,
@@ -25340,7 +25340,7 @@
    "倦怠期 (Kentaiki)",
    "Korokorodou"
   ],
-  "rank": 10238,
+  "rank": 10243,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 114,
@@ -25394,7 +25394,7 @@
   "designers": [
    "タカハシ カツナリ (Katsunari Takahashi"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 446466,
   "max_players": 2,
@@ -25407,7 +25407,7 @@
   "name": "The Slasher",
   "numcomments": 40,
   "numweights": 6,
-  "owned": 329,
+  "owned": 331,
   "playing_time": 30,
   "publishers": [
    "JELLY JELLY GAMES",
@@ -25418,13 +25418,13 @@
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 131,
-  "wanting": 36,
+  "wanting": 35,
   "weight": 1.5,
-  "wishing": 200,
+  "wishing": 199,
   "year": 2025
  },
  "446492": {
-  "average": 6.769,
+  "average": 6.77,
   "categories": [
    "Card Game",
    "Political"
@@ -25434,7 +25434,7 @@
    "Kristian Amundsen Østby",
    "Kjetil Svendsen"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 446492,
   "max_players": 6,
@@ -25445,21 +25445,21 @@
   ],
   "min_players": 3,
   "name": "Tax the Rich",
-  "numcomments": 182,
-  "numweights": 20,
-  "owned": 1093,
+  "numcomments": 183,
+  "numweights": 22,
+  "owned": 1097,
   "playing_time": 30,
   "publishers": [
    "Alion – by Dr Ø",
    "Devir",
    "Ghenos Games"
   ],
-  "rank": 5327,
+  "rank": 5302,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 664,
+  "usersrated": 667,
   "wanting": 90,
-  "weight": 1.85,
+  "weight": 1.864,
   "wishing": 750,
   "year": 2025
  },
@@ -25967,7 +25967,7 @@
   "year": 2026
  },
  "447378": {
-  "average": 6.493,
+  "average": 6.496,
   "categories": [
    "Card Game"
   ],
@@ -25976,7 +25976,7 @@
    "Danielle Reynolds",
    "Steven Ungaro"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 447378,
   "max_players": 6,
@@ -25985,17 +25985,17 @@
   ],
   "min_players": 2,
   "name": "Tricky Kids",
-  "numcomments": 46,
+  "numcomments": 47,
   "numweights": 3,
   "owned": 283,
   "playing_time": 30,
   "publishers": [
    "Pandasaurus Games"
   ],
-  "rank": 12773,
+  "rank": 12710,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 171,
+  "usersrated": 172,
   "wanting": 26,
   "weight": 1.667,
   "wishing": 122,
@@ -26121,7 +26121,7 @@
   "designers": [
    "Masato Uesugi"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 447703,
   "max_players": 4,
@@ -26417,7 +26417,7 @@
    "Alexandre Aguilar",
    "Jules Messaud"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 448428,
   "max_players": 6,
@@ -26430,22 +26430,22 @@
   ],
   "min_players": 3,
   "name": "Moustache",
-  "numcomments": 77,
+  "numcomments": 78,
   "numweights": 10,
-  "owned": 1203,
+  "owned": 1213,
   "playing_time": 20,
   "publishers": [
    "Lumberjacks Studio",
    "999 Games",
    "Hachette Boardgames UK"
   ],
-  "rank": 5152,
+  "rank": 5141,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 540,
-  "wanting": 36,
+  "usersrated": 542,
+  "wanting": 37,
   "weight": 1.6,
-  "wishing": 331,
+  "wishing": 332,
   "year": 2025
  },
  "448436": {
@@ -26498,7 +26498,7 @@
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 448496,
   "max_players": 5,
@@ -26509,20 +26509,20 @@
   "name": "Fearless",
   "numcomments": 130,
   "numweights": 13,
-  "owned": 1034,
+  "owned": 1035,
   "playing_time": 45,
   "publishers": [
    "2F-Spiele",
    "Ludofun",
    "Rio Grande Games"
   ],
-  "rank": 5584,
+  "rank": 5586,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 550,
   "wanting": 36,
   "weight": 1.769,
-  "wishing": 294,
+  "wishing": 295,
   "year": 2025
  },
  "448556": {
@@ -26779,7 +26779,7 @@
    "Inka Brand",
    "Markus Brand"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 449297,
   "max_players": 6,
@@ -26798,7 +26798,7 @@
    "Hobby Japan",
    "Pegasus Spiele"
   ],
-  "rank": 10124,
+  "rank": 10125,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 288,
@@ -27175,7 +27175,7 @@
   "year": 2025
  },
  "450053": {
-  "average": 6.8,
+  "average": 6.793,
   "categories": [
    "Card Game"
   ],
@@ -27183,7 +27183,7 @@
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 450053,
   "max_players": 4,
@@ -27197,17 +27197,17 @@
   "name": "Tricky Twist",
   "numcomments": 36,
   "numweights": 2,
-  "owned": 342,
+  "owned": 343,
   "playing_time": 30,
   "publishers": [
    "Gémklub",
    "Gotcha Gotcha Games",
    "Sit Down!"
   ],
-  "rank": 12682,
+  "rank": 12683,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 109,
+  "usersrated": 110,
   "wanting": 17,
   "weight": 1.5,
   "wishing": 104,
@@ -27261,7 +27261,7 @@
    "Jason Hager",
    "Darren Reckner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 450337,
   "max_players": 4,
@@ -27274,18 +27274,18 @@
   "name": "Rowdy Partners",
   "numcomments": 81,
   "numweights": 4,
-  "owned": 580,
+  "owned": 581,
   "playing_time": 60,
   "publishers": [
    "Capstone Games"
   ],
-  "rank": 7311,
+  "rank": 7313,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 319,
   "wanting": 47,
   "weight": 1.75,
-  "wishing": 268,
+  "wishing": 267,
   "year": 2025
  },
  "450785": {
@@ -27884,7 +27884,7 @@
   "year": 2025
  },
  "451772": {
-  "average": 7.196,
+  "average": 7.191,
   "categories": [
    "Card Game",
    "Fantasy"
@@ -27893,7 +27893,7 @@
   "designers": [
    "Hayden Dillard"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 451772,
   "max_players": 4,
@@ -27906,19 +27906,19 @@
   "name": "Shards of Creation",
   "numcomments": 43,
   "numweights": 3,
-  "owned": 733,
+  "owned": 735,
   "playing_time": 30,
   "publishers": [
    "Brotherwise Games",
    "Devir"
   ],
-  "rank": 8785,
+  "rank": 8687,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 218,
+  "usersrated": 222,
   "wanting": 31,
   "weight": 1.667,
-  "wishing": 374,
+  "wishing": 375,
   "year": 2026
  },
  "451820": {
@@ -28002,7 +28002,7 @@
    "Christopher Haviland",
    "Robert A. Kamp"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 451923,
   "max_players": 5,
@@ -28019,7 +28019,7 @@
   "publishers": [
    "AMIGO"
   ],
-  "rank": 11131,
+  "rank": 11134,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 130,
@@ -28371,7 +28371,7 @@
   "designers": [
    "David Spalinski"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 453051,
   "max_players": 5,
@@ -28387,13 +28387,13 @@
   "publishers": [
    "(Self-Published)"
   ],
-  "rank": 8912,
+  "rank": 8913,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 146,
   "wanting": 18,
   "weight": 1.75,
-  "wishing": 113,
+  "wishing": 114,
   "year": 2025
  },
  "453099": {
@@ -28715,7 +28715,7 @@
   "year": 2025
  },
  "453781": {
-  "average": 6.899,
+  "average": 6.902,
   "categories": [
    "Card Game"
   ],
@@ -28723,7 +28723,7 @@
   "designers": [
    "Frédéric Vuagnat"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 453781,
   "max_players": 5,
@@ -28743,13 +28743,13 @@
    "Rocket Lemon Games",
    "Tesla Games"
   ],
-  "rank": 7884,
+  "rank": 7851,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 292,
+  "usersrated": 293,
   "wanting": 9,
   "weight": 2.0,
-  "wishing": 71,
+  "wishing": 70,
   "year": 2026
  },
  "453784": {
@@ -29345,7 +29345,7 @@
   "designers": [
    "Petr Čáslava"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 454829,
   "max_players": 4,
@@ -29358,7 +29358,7 @@
   "name": "Potemkin Villages",
   "numcomments": 59,
   "numweights": 4,
-  "owned": 211,
+  "owned": 214,
   "playing_time": 30,
   "publishers": [
    "(Web published)",
@@ -29371,7 +29371,7 @@
   "usersrated": 120,
   "wanting": 23,
   "weight": 2.5,
-  "wishing": 147,
+  "wishing": 146,
   "year": 2025
  },
  "454842": {
@@ -29734,7 +29734,7 @@
   "designers": [
    "Joshua Buergel"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 455906,
   "max_players": 2,
@@ -29749,19 +29749,19 @@
   "name": "The Fox in the Forest Deluxe",
   "numcomments": 38,
   "numweights": 5,
-  "owned": 530,
+  "owned": 531,
   "playing_time": 30,
   "publishers": [
    "Renegade Game Studios",
    "White Goblin Games"
   ],
-  "rank": 8939,
+  "rank": 8943,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 127,
   "wanting": 14,
   "weight": 1.6,
-  "wishing": 150,
+  "wishing": 151,
   "year": 2026
  },
  "456017": {
@@ -30214,7 +30214,7 @@
   "year": 2025
  },
  "456965": {
-  "average": 7.368,
+  "average": 7.36,
   "categories": [
    "Card Game",
    "Science Fiction"
@@ -30223,7 +30223,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 456965,
   "max_players": 5,
@@ -30235,18 +30235,18 @@
   "name": "Trick to the Future",
   "numcomments": 58,
   "numweights": 3,
-  "owned": 613,
+  "owned": 618,
   "playing_time": 40,
   "publishers": [
    "GameHead"
   ],
-  "rank": 8241,
+  "rank": 8236,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 180,
-  "wanting": 106,
+  "usersrated": 181,
+  "wanting": 107,
   "weight": 1.333,
-  "wishing": 465,
+  "wishing": 464,
   "year": 2026
  },
  "457010": {
@@ -31065,7 +31065,7 @@
   "year": 2025
  },
  "458770": {
-  "average": 7.225,
+  "average": 7.223,
   "categories": [
    "Card Game",
    "City Building"
@@ -31075,7 +31075,7 @@
    "Simone Luciani",
    "Matthieu Verdier"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 458770,
   "max_players": 5,
@@ -31085,21 +31085,21 @@
   "min_players": 2,
   "name": "Minikin City",
   "numcomments": 95,
-  "numweights": 15,
-  "owned": 1174,
+  "numweights": 16,
+  "owned": 1191,
   "playing_time": 30,
   "publishers": [
    "Cranio Creations",
    "999 Games",
    "asmodee"
   ],
-  "rank": 5028,
+  "rank": 5010,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 488,
-  "wanting": 53,
-  "weight": 1.733,
-  "wishing": 442,
+  "usersrated": 494,
+  "wanting": 55,
+  "weight": 1.75,
+  "wishing": 443,
   "year": 2026
  },
  "458852": {
@@ -31314,7 +31314,7 @@
   "designers": [
    "Yoshiteru Shinohara"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 458859,
   "max_players": 5,
@@ -31330,7 +31330,7 @@
   "publishers": [
    "篠原遊戯重工 (Shinohara Yugi Juko)"
   ],
-  "rank": 12793,
+  "rank": 12795,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 78,
@@ -31646,7 +31646,7 @@
   "year": 2026
  },
  "459195": {
-  "average": 6.657,
+  "average": 6.662,
   "categories": [
    "Animals",
    "Card Game",
@@ -31656,7 +31656,7 @@
   "designers": [
    "Frank Thyben"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 459195,
   "max_players": 4,
@@ -31670,15 +31670,15 @@
   "name": "Fox Grove",
   "numcomments": 15,
   "numweights": 1,
-  "owned": 173,
+  "owned": 174,
   "playing_time": 45,
   "publishers": [
    "Queen Games"
   ],
-  "rank": 17500,
+  "rank": 17330,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 66,
+  "usersrated": 67,
   "wanting": 11,
   "weight": 2.0,
   "wishing": 74,
@@ -32175,7 +32175,7 @@
   "year": 2025
  },
  "460671": {
-  "average": 7.189,
+  "average": 7.187,
   "categories": [
    "Card Game",
    "Medieval",
@@ -32185,7 +32185,7 @@
   "designers": [
    "Yeon-Min Jung"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 460671,
   "max_players": 5,
@@ -32196,15 +32196,15 @@
   "name": "Don Quixote",
   "numcomments": 21,
   "numweights": 0,
-  "owned": 132,
+  "owned": 133,
   "playing_time": 30,
   "publishers": [
    "Mandoo Games"
   ],
-  "rank": 17523,
+  "rank": 17342,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 45,
+  "usersrated": 46,
   "wanting": 34,
   "weight": 0.0,
   "wishing": 160,
@@ -32451,7 +32451,7 @@
   "year": 2025
  },
  "461564": {
-  "average": 7.342,
+  "average": 7.321,
   "categories": [
    "Card Game"
   ],
@@ -32459,7 +32459,7 @@
   "designers": [
    "Cardner Babakitis"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 461564,
   "max_players": 5,
@@ -32471,20 +32471,20 @@
   ],
   "min_players": 3,
   "name": "Daytime Minutes",
-  "numcomments": 30,
+  "numcomments": 32,
   "numweights": 1,
-  "owned": 231,
+  "owned": 232,
   "playing_time": 45,
   "publishers": [
    "Odd Candy"
   ],
-  "rank": 12784,
+  "rank": 12698,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 78,
+  "usersrated": 80,
   "wanting": 22,
   "weight": 2.0,
-  "wishing": 86,
+  "wishing": 85,
   "year": 2026
  },
  "461575": {
@@ -33234,7 +33234,7 @@
   "year": 2026
  },
  "463911": {
-  "average": 7.116,
+  "average": 7.115,
   "categories": [
    "Animals",
    "Card Game"
@@ -33245,7 +33245,7 @@
    "Jan Cronauer",
    "Marc-Uwe Kling"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 463911,
   "max_players": 6,
@@ -33257,15 +33257,15 @@
   "name": "Tricky Teams",
   "numcomments": 20,
   "numweights": 2,
-  "owned": 365,
+  "owned": 366,
   "playing_time": 30,
   "publishers": [
    "KOSMOS"
   ],
-  "rank": 13764,
+  "rank": 13768,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 94,
+  "usersrated": 95,
   "wanting": 5,
   "weight": 2.0,
   "wishing": 57,
@@ -33600,7 +33600,7 @@
    "Jeff Morrow",
    "Sam Waller"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 46530,
   "max_players": 10,
@@ -33619,7 +33619,7 @@
   "publishers": [
    "SlugFest Games"
   ],
-  "rank": 14375,
+  "rank": 14379,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 286,
@@ -34413,7 +34413,7 @@
   "year": 2026
  },
  "467955": {
-  "average": 6.776,
+  "average": 6.788,
   "categories": [
    "Card Game"
   ],
@@ -34421,7 +34421,7 @@
   "designers": [
    "Arve D. Fühler"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 467955,
   "max_players": 4,
@@ -34440,17 +34440,17 @@
   "publishers": [
    "Capstone Games"
   ],
-  "rank": 17151,
+  "rank": 16959,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 57,
-  "wanting": 27,
+  "usersrated": 58,
+  "wanting": 26,
   "weight": 2.0,
   "wishing": 106,
   "year": 2026
  },
  "467997": {
-  "average": 7.637,
+  "average": 7.62,
   "categories": [
    "Card Game"
   ],
@@ -34458,7 +34458,7 @@
   "designers": [
    "新澤 大樹 (Taiki Shinzawa)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 467997,
   "max_players": 4,
@@ -34468,20 +34468,20 @@
   ],
   "min_players": 3,
   "name": "Can't Win",
-  "numcomments": 54,
+  "numcomments": 55,
   "numweights": 5,
-  "owned": 557,
+  "owned": 558,
   "playing_time": 45,
   "publishers": [
    "Engames"
   ],
-  "rank": 7032,
+  "rank": 7059,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 210,
   "wanting": 34,
   "weight": 2.0,
-  "wishing": 233,
+  "wishing": 232,
   "year": 2026
  },
  "468057": {
@@ -34884,7 +34884,7 @@
   "year": 2026
  },
  "468750": {
-  "average": 7.945,
+  "average": 7.92,
   "categories": [
    "Dice",
    "Mafia"
@@ -34893,7 +34893,7 @@
   "designers": [
    "Geonil"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 468750,
   "max_players": 2,
@@ -34909,17 +34909,17 @@
   "publishers": [
    "Schemers"
   ],
-  "rank": 15843,
+  "rank": 15747,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 37,
+  "usersrated": 38,
   "wanting": 29,
   "weight": 1.5,
   "wishing": 109,
   "year": 2026
  },
  "468799": {
-  "average": 7.372,
+  "average": 7.382,
   "categories": [
    "Animals",
    "Card Game",
@@ -34929,7 +34929,7 @@
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 468799,
   "max_players": 5,
@@ -34939,26 +34939,26 @@
   ],
   "min_players": 3,
   "name": "Fishing 2",
-  "numcomments": 40,
+  "numcomments": 41,
   "numweights": 4,
-  "owned": 573,
+  "owned": 578,
   "playing_time": 60,
   "publishers": [
    "2F-Spiele",
    "Rio Grande Games",
    "Matagot"
   ],
-  "rank": 10394,
+  "rank": 10257,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 121,
+  "usersrated": 123,
   "wanting": 34,
   "weight": 2.0,
   "wishing": 207,
   "year": 2026
  },
  "468836": {
-  "average": 7.477,
+  "average": 7.481,
   "categories": [
    "Card Game"
   ],
@@ -34966,7 +34966,7 @@
   "designers": [
    "笠置啓太 (Keita Kasagi)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 468836,
   "max_players": 4,
@@ -34977,13 +34977,13 @@
   "name": "Oshaka Trick",
   "numcomments": 44,
   "numweights": 2,
-  "owned": 296,
+  "owned": 298,
   "playing_time": 25,
   "publishers": [
    "Bamboo Games",
    "Explor8"
   ],
-  "rank": 9801,
+  "rank": 9790,
   "status": "unconfirmed",
   "type": "boardgame",
   "usersrated": 121,
@@ -35660,7 +35660,7 @@
   "year": 2026
  },
  "470482": {
-  "average": 7.727,
+  "average": 7.74,
   "categories": [
    "Card Game"
   ],
@@ -35668,7 +35668,7 @@
   "designers": [
    "Yoriyasu Harano"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 470482,
   "max_players": 6,
@@ -35677,21 +35677,21 @@
   ],
   "min_players": 3,
   "name": "Apocalypse",
-  "numcomments": 38,
+  "numcomments": 39,
   "numweights": 2,
-  "owned": 276,
+  "owned": 284,
   "playing_time": 30,
   "publishers": [
    "Grail Games",
    "Locomuse studio"
   ],
-  "rank": 10443,
+  "rank": 10190,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 99,
+  "usersrated": 104,
   "wanting": 22,
   "weight": 2.0,
-  "wishing": 203,
+  "wishing": 204,
   "year": 2026
  },
  "470760": {
@@ -35705,7 +35705,7 @@
   "designers": [
    "Taylor Reiner"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 470760,
   "max_players": 4,
@@ -38054,7 +38054,7 @@
   "year": 2026
  },
  "474696": {
-  "average": 7.853,
+  "average": 7.838,
   "categories": [
    "Adventure",
    "Animals",
@@ -38065,7 +38065,7 @@
   "designers": [
    "Baudet Sylvain"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 474696,
   "max_players": 4,
@@ -38077,20 +38077,20 @@
   ],
   "min_players": 2,
   "name": "Matchmakers",
-  "numcomments": 40,
+  "numcomments": 41,
   "numweights": 1,
-  "owned": 219,
+  "owned": 222,
   "playing_time": 30,
   "publishers": [
    "AllPines Society"
   ],
-  "rank": 19027,
+  "rank": 18197,
   "status": "unconfirmed",
   "type": "boardgame",
-  "usersrated": 36,
+  "usersrated": 39,
   "wanting": 22,
   "weight": 2.0,
-  "wishing": 155,
+  "wishing": 154,
   "year": 2026
  },
  "474817": {
@@ -41851,7 +41851,7 @@
   "designers": [
    "Bryan Bornmueller"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 482565,
   "max_players": 4,
@@ -41878,7 +41878,7 @@
   "usersrated": 7,
   "wanting": 49,
   "weight": 0.0,
-  "wishing": 578,
+  "wishing": 580,
   "year": 2027
  },
  "482616": {
@@ -42376,7 +42376,7 @@
   "designers": [
    "Travis Worthington"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 53168,
   "max_players": 2,
@@ -42413,7 +42413,7 @@
   "designers": [
    "Seiji Kanai"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 54307,
   "max_players": 6,
@@ -42434,7 +42434,7 @@
    "F2Z Digital Media Inc.",
    "Filosofia Éditions"
   ],
-  "rank": 2750,
+  "rank": 2751,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 2048,
@@ -42690,7 +42690,7 @@
   "year": 1426
  },
  "619": {
-  "average": 6.752,
+  "average": 6.751,
   "categories": [
    "Card Game",
    "Novel-based"
@@ -42699,7 +42699,7 @@
   "designers": [
    "Günter Cornett"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 619,
   "max_players": 4,
@@ -42712,7 +42712,7 @@
   "name": "The Bottle Imp",
   "numcomments": 1397,
   "numweights": 280,
-  "owned": 6372,
+  "owned": 6374,
   "playing_time": 30,
   "publishers": [
    "Bambus Spieleverlag",
@@ -42722,7 +42722,7 @@
   "rank": 1924,
   "status": "confirmed",
   "type": "boardgame",
-  "usersrated": 4237,
+  "usersrated": 4238,
   "wanting": 146,
   "weight": 1.868,
   "wishing": 659,
@@ -43526,7 +43526,7 @@
   "designers": [
    "(Uncredited)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 6887,
   "max_players": 7,
@@ -43547,7 +43547,7 @@
    "(Unknown)",
    "Briarpatch"
   ],
-  "rank": 2263,
+  "rank": 2264,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 5137,
@@ -43565,7 +43565,7 @@
   "designers": [
    "(Uncredited)"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 6901,
   "max_players": 7,
@@ -44132,7 +44132,7 @@
   "designers": [
    "Friedemann Friese"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 81250,
   "max_players": 5,
@@ -44150,7 +44150,7 @@
    "AMIGO",
    "Mandoo Games"
   ],
-  "rank": 5850,
+  "rank": 5853,
   "status": "confirmed",
   "type": "boardgame",
   "usersrated": 543,
@@ -44168,7 +44168,7 @@
   "designers": [
    "Stefan Dorra"
   ],
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-10",
   "id": 8129,
   "max_players": 5,
