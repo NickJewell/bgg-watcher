@@ -308,6 +308,7 @@ class AnalysisTests(unittest.TestCase):
         with self.assertRaises(analysis.AnalysisError):
             analysis.step_render(self.cfg, str(out))
         self.assertEqual(out.read_text(), "old")  # a failed run never clobbers the last good file
+        self.assertFalse((Path(self.tmp) / analysis.ARCHIVE).exists())
 
         self.write("pitches.json", {"pitches": [{"id": i, "pitch": f"Pitch {i}.\n\nSecond paragraph."} for i in (10, 9, 8)]})
         analysis.step_render(self.cfg, str(out))
@@ -317,6 +318,9 @@ class AnalysisTests(unittest.TestCase):
         self.assertNotIn("### 4.", md)
         self.assertIn("Pitch 10.\n\nSecond paragraph.", md)
         self.assertIn("## All 10 variants", md)
+        dated = list((Path(self.tmp) / analysis.ARCHIVE).glob("*.md"))
+        self.assertEqual([d.name for d in dated], [Store(self.tmp).snapshot_dates()[-1] + ".md"])
+        self.assertEqual(dated[0].read_text(), md)  # the dated copy is kept when the next run overwrites A.md
 
     def test_steps_fail_cleanly_out_of_order(self):
         self.assertEqual(analysis.run(self.cfg, "rank"), 1)

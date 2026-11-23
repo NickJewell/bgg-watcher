@@ -1,4 +1,5 @@
-"""Ludological analysis of the latest snapshot, written to ANALYSIS_SNAPSHOT.md.
+"""Ludological analysis of the latest snapshot, written to ANALYSIS_SNAPSHOT.md
+with a dated copy in analyses/.
 
 The creative work is done by a Claude Code session (see ANALYSIS_TASK.md); this
 module is the deterministic scaffolding around it. It makes no network requests
@@ -10,7 +11,7 @@ and calls no API. The session alternates with these steps:
           -> a fresh sub-agent writes .analysis/scores.json
   rank    compute weighted totals, keep the top K, write the pitch brief
           -> the session writes .analysis/pitches.json
-  render  write ANALYSIS_SNAPSHOT.md
+  render  write ANALYSIS_SNAPSHOT.md and analyses/DATE.md
 
 Constraints, de-duplication, totals and the top-K cut are enforced here, so the
 model cannot quietly bend them.
@@ -28,6 +29,7 @@ from .report import heat_scores
 from .store import Store
 
 OUTPUT = "ANALYSIS_SNAPSHOT.md"
+ARCHIVE = "analyses"  # one dated copy per snapshot, kept beside OUTPUT
 WORK = Path(".analysis")
 
 # dimension -> (framework, weight, what a high score means)
@@ -354,8 +356,13 @@ def step_render(cfg: Config, path: str = OUTPUT) -> str:
         v["pitch"] = "\n\n".join(paragraphs)
     result = {"date": src["date"], "sources": src["sources"], "ranked": ranked, "top": top,
               "signals": {k: gen[k] for k in ("mechanics", "themes", "differentiators")}}
-    Path(path).write_text(render(result, cfg), encoding="utf-8")
-    return f"Wrote {path}: {len(ranked)} variants scored, top {len(top)} pitched."
+    text = render(result, cfg)
+    Path(path).write_text(text, encoding="utf-8")
+    dated = Path(path).parent / ARCHIVE / f"{src['date']}.md"
+    dated.parent.mkdir(exist_ok=True)
+    dated.write_text(text, encoding="utf-8")
+    return (f"Wrote {path} and {dated}: {len(ranked)} variants scored, top {len(top)} pitched. "
+            "Commit both files.")
 
 
 STEPS = {"brief": step_brief, "check": step_check, "rank": step_rank, "render": step_render}

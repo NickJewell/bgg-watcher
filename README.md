@@ -38,7 +38,8 @@ mechanic. Everything else uses the documented XML API2.
 ## Design analysis
 
 Once a week a scheduled Claude Code session reads the latest snapshot and
-overwrites [`ANALYSIS_SNAPSHOT.md`](ANALYSIS_SNAPSHOT.md), following
+overwrites [`ANALYSIS_SNAPSHOT.md`](ANALYSIS_SNAPSHOT.md) and keeps a dated
+copy of each week in [`analyses/`](analyses), following
 [`ANALYSIS_TASK.md`](ANALYSIS_TASK.md). It runs on a Claude subscription, makes
 no BGG requests and calls no paid API.
 
@@ -107,6 +108,7 @@ data/pool.csv              every trick-taking game on BGG, refreshed weekly
 data/games.json            details and scope status for candidates
 data/snapshots/DATE.csv    one row per watched game per day
 data/state.json            when the pool was last refreshed
+analyses/DATE.md           the design analysis for that snapshot, one per week
 ```
 
 ## Heat score

@@ -1,7 +1,9 @@
 # Weekly design analysis
 
 Instructions for the scheduled Claude Code session that produces
-`ANALYSIS_SNAPSHOT.md`. Work from the repository root on an up-to-date `main`.
+`ANALYSIS_SNAPSHOT.md` (always the latest) and a dated copy of it in
+`analyses/YYYY-MM-DD.md`, so earlier weeks stay readable. Work from the
+repository root on an up-to-date `main`.
 
 The goal is a document a game designer can act on: what is driving the current
 hot trick-taking games, a hundred new designs remixed from that, and designer
@@ -24,11 +26,13 @@ you wrote does not pass.
 4. `python -m bggwatch analyse rank`, then read `.analysis/pitch-brief.md` and
    write `.analysis/pitches.json`.
 5. `python -m bggwatch analyse render`, then read `ANALYSIS_SNAPSHOT.md` through
-   once to check it is complete and reads well.
-6. Commit only `ANALYSIS_SNAPSHOT.md` with the message
-   `Design analysis YYYY-MM-DD` (the snapshot date) and push to `main`. If the
-   push is rejected because `main` moved, `git pull --rebase origin main` and
-   push again.
+   once to check it is complete and reads well. Render also writes the same
+   text to `analyses/YYYY-MM-DD.md`, named for the snapshot date; if you change
+   a pitch and render again, both are rewritten.
+6. Commit `ANALYSIS_SNAPSHOT.md` and the new `analyses/YYYY-MM-DD.md`, those two
+   files only, with the message `Design analysis YYYY-MM-DD` (the snapshot
+   date) and push to `main`. If the push is rejected because `main` moved,
+   `git pull --rebase origin main` and push again.
 
-If a step cannot be completed, leave the existing `ANALYSIS_SNAPSHOT.md` as it
-is, push nothing, and report what went wrong.
+If a step cannot be completed, leave the existing `ANALYSIS_SNAPSHOT.md` and
+`analyses/` as they are, push nothing, and report what went wrong.
