@@ -1,3 +1,23 @@
 {
- "pool_refreshed": "2026-11-17"
+ "mechanic_ids": {
+  "Ladder Climbing": 2980,
+  "Push Your Luck": 2661,
+  "Set Collection": 2004,
+  "Trick-taking": 2009
+ },
+ "pool_refreshed": "2026-11-17",
+ "pools": {
+  "Ladder Climbing": {
+   "refreshed": "2026-11-23",
+   "size": 477
+  },
+  "Push Your Luck": {
+   "next_page": 41,
+   "size": 6103
+  },
+  "Set Collection": {
+   "next_page": 41,
+   "size": 19058
+  }
+ }
 }
