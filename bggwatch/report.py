@@ -68,13 +68,18 @@ def _table(header: list[str], rows: list[list]) -> list[str]:
     return out + [""]
 
 
-def build(cfg: Config, focus_mechanic: str = "Trick-taking") -> str:
+def build(cfg: Config) -> str:
+    """The report is about the primary family; the other families get one
+    short table each at the end."""
+    focus_mechanic = cfg.families[0]
     store = Store(cfg.data_dir)
-    games, dates = store.load_games(), store.snapshot_dates()
+    all_games, dates = store.load_games(), store.snapshot_dates()
     if not dates:
         return "# Trick-taking watchlist\n\nNo snapshots yet. Run `python -m bggwatch run` first.\n"
     latest = dates[-1]
-    snap = store.load_snapshot(latest)
+    all_snap = store.load_snapshot(latest)
+    games = {i: g for i, g in all_games.items() if cfg.family_of(g) == focus_mechanic}
+    snap = {i: r for i, r in all_snap.items() if cfg.family_of(all_games.get(i, {})) == focus_mechanic}
     year = dt.date.fromisoformat(latest).year
     base_day = baseline_date(dates, latest, cfg.window_days)
     base = store.load_snapshot(base_day) if base_day else {}
@@ -158,6 +163,21 @@ def build(cfg: Config, focus_mechanic: str = "Trick-taking") -> str:
                         for d in g.get("designers", []) if d != "(Uncredited)")
     L += ["## Active designers", "", f"In-scope releases since {year - 3}.", ""]
     L += _table(["Designer", "Games"], [[d, c] for d, c in designers.most_common(12) if c >= 2])
+
+    for family in cfg.families[1:]:
+        fsnap = {i: r for i, r in all_snap.items() if cfg.family_of(all_games.get(i, {})) == family}
+        if not fsnap:
+            continue
+        fheat = heat_scores(fsnap)
+        L += [f"## Also watched: {family}", "",
+              f"Card games with the {family} mechanic, same player count and weight. Heat is relative to this group.", ""]
+        L += _table(["Game", "Year", "Players", "Weight", "Plays", "Wishlist", "Heat"],
+                    [[f"[{fsnap[i]['name']}](https://boardgamegeek.com/boardgame/{i})",
+                      all_games[i].get("year") or "?",
+                      f"{all_games[i].get('min_players')}–{all_games[i].get('max_players')}",
+                      f"{all_games[i].get('weight', 0):.2f}" if all_games[i].get("numweights") else "n/a",
+                      fsnap[i]["plays"], fsnap[i]["wishing"], fheat[i]]
+                     for i in sorted(fsnap, key=lambda i: -fheat[i])[:10]])
 
     scoped = Counter(g.get("status") for g in games.values())
     L += ["---", f"{scoped['confirmed']} confirmed and {scoped['unconfirmed']} weight-unconfirmed games in scope; "

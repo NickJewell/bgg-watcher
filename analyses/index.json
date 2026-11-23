@@ -1,0 +1,2725 @@
+{
+ "analyses": [
+  {
+   "date": "2026-11-11",
+   "sources": [
+    {
+     "id": 324711,
+     "name": "Schadenfreude",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 470482,
+     "name": "Apocalypse",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 454829,
+     "name": "Potemkin Villages",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 458770,
+     "name": "Minikin City",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 448428,
+     "name": "Moustache",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 456965,
+     "name": "Trick to the Future",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 467997,
+     "name": "Can't Win",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 443074,
+     "name": "Zombie Princess",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 429293,
+     "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468799,
+     "name": "Fishing 2",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 446492,
+     "name": "Tax the Rich",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 420932,
+     "name": "Trick Stakes",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468836,
+     "name": "Oshaka Trick",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 191071,
+     "name": "Mythical Dice",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 394691,
+     "name": "The Six of VIII",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 474696,
+     "name": "Matchmakers",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 453781,
+     "name": "Cry Baby",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 381278,
+     "name": "Dracula vs Van Helsing",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 445476,
+     "name": "Off With Their Heads!",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 451772,
+     "name": "Shards of Creation",
+     "family": "Trick-taking"
+    }
+   ],
+   "variants": [
+    {
+     "rank": 1,
+     "title": "Five-Alarm",
+     "family": "Trick-taking",
+     "hook": "Add chilli to any card. Whoever wins the trick gets the chillies.",
+     "core_twist": "Everyone starts with three chilli tokens. When you play a card you may put chillies on it, each adding three to its rank. All chillies spent in a trick go to the trick's winner. Spending heavily to win gets your tokens back plus everyone else's; spending and losing arms an opponent.",
+     "total": 77.3
+    },
+    {
+     "rank": 2,
+     "title": "Too Hot to Hold",
+     "family": "Trick-taking",
+     "hook": "Three tricks is a feast. Four and you're burned.",
+     "core_twist": "Each trick is worth a point, but the instant any player takes their fourth trick the round stops and that player scores zero while everyone else banks what they hold. Players sitting on three are suddenly everyone's target, and every lead is a hot potato.",
+     "total": 75.8
+    },
+    {
+     "rank": 3,
+     "title": "Trick or Treat",
+     "family": "Trick-taking",
+     "hook": "Only the leader knows whether the house at the end of this trick has sweets or a scare.",
+     "core_twist": "Each trick is fought for a face-down house card. Before leading, the leader alone peeks at it: treats are worth one to three points, tricks cost one to two. The leader then leads any card they like, and everyone else must judge from the lead, and from the leader's face, whether this is a trick to win or to dodge.",
+     "total": 75.2
+    },
+    {
+     "rank": 4,
+     "title": "Called Shot",
+     "family": "Trick-taking",
+     "hook": "Don't say how many tricks you'll win. Say which ones.",
+     "core_twist": "Eight tricks a round, numbered on a shared rack. Before play, each player puts chalk tokens on the numbers of the exact tricks they will win, in full view. You score two points for each called trick you win and lose one for each uncalled trick you win. Everyone can see who needs trick five.",
+     "total": 74.8
+    },
+    {
+     "rank": 5,
+     "title": "Slow and Steady",
+     "family": "Trick-taking",
+     "hook": "You race a hare and a tortoise, and you score whichever is behind.",
+     "core_twist": "Each player has two runners on a shared track. Winning a trick moves your hare three spaces. Playing the lowest card of the led suit moves your tortoise two. At the end, your score is the position of whichever of your two animals is further back. You need to win and to lose in roughly equal measure.",
+     "total": 73.2
+    },
+    {
+     "rank": 6,
+     "title": "Tapas Night",
+     "family": "Trick-taking",
+     "hook": "Win the trick to order first, but everyone eats.",
+     "core_twist": "Every card is both a rank for the trick and a dish for your table. After a trick, players choose in order of card strength, winner first, one card each from those just played and add it to their meal. Meals score for complete sets of starter, main and dessert and for repeated favourites. The card you play to win may be the dish someone else wants.",
+     "total": 73.0
+    },
+    {
+     "rank": 7,
+     "title": "Leftovers",
+     "family": "Trick-taking",
+     "hook": "Your winning cards get eaten. Your losers are tomorrow's dinner.",
+     "core_twist": "A card that wins a trick goes to your score pile for good. Every card you played that did not win returns to your hand for the next round, topped up with two fresh cards. Your hand gets weaker each time you succeed, and four rounds later the player who spent their aces early is playing with scraps.",
+     "total": 72.0
+    },
+    {
+     "rank": 8,
+     "title": "Extinction Event",
+     "family": "Trick-taking",
+     "hook": "Four species start the game. One survives.",
+     "core_twist": "Four rounds. Tricks score for the suit of the card that won them, tallied on a shared board. After each round the suit that won the fewest tricks goes extinct and all its cards leave the game, so each round is played with a smaller deck and shorter hands. Cards you hold of the surviving suit at the very end score double.",
+     "total": 71.2
+    },
+    {
+     "rank": 9,
+     "title": "Twenty-One Tricks",
+     "family": "Trick-taking",
+     "hook": "Blackjack you play with tricks: get to twenty-one, not a pip more.",
+     "core_twist": "Captured cards count their pips into a running total kept face-up in front of you. Closest to twenty-one without going over wins the round; over twenty-one is bust. When you cannot follow suit your discard lands in someone else's total, so sloughing a ten on the player sitting at fourteen is the whole game.",
+     "total": 70.8
+    },
+    {
+     "rank": 10,
+     "title": "Rope Team",
+     "family": "Trick-taking",
+     "hook": "Roped together, you reach the summit one after another or not at all.",
+     "core_twist": "Cooperative. Players are roped in seat order and must win tricks in strict rotation: first climber, then the second, then the third, and round again. A trick won out of turn costs one of four oxygen tokens. Complete the number of in-order tricks on the mountain card before oxygen or cards run out.",
+     "total": 70.4
+    },
+    {
+     "rank": 11,
+     "title": "Regatta Day",
+     "family": "Trick-taking",
+     "hook": "Nobody owns a trick. Every trick moves a boat, and you have money on one of them.",
+     "core_twist": "Each suit is a sailing boat on a track. After a trick, the boat of the winning card's suit moves forward one space for each card of that suit in the trick. Tricks are not kept. Each player holds two secret tickets naming boats and scores for where those boats finish. Winning a trick in the wrong colour helps a rival.",
+     "total": 70.3
+    },
+    {
+     "rank": 12,
+     "title": "Big Fish, Little Fish",
+     "family": "Trick-taking",
+     "hook": "Catch a fish and it scores, unless you also catch the one that eats it.",
+     "core_twist": "Captured cards go face-up into your tank. At the end of the round every fish scores one point unless your tank also holds the fish one rank higher in the same colour, which eats it. A long run in one colour scores only its top card, so opponents will feed you neighbours.",
+     "total": 70.0
+    },
+    {
+     "rank": 13,
+     "title": "Call and Response",
+     "family": "Trick-taking",
+     "hook": "Play the tune together: up, up, down, and don't miss a beat.",
+     "core_twist": "Cooperative. A melody card shows a row of arrows, such as up, up, down, up, down, down. The winning card of each trick must be higher or lower in rank than the previous trick's winning card, as the arrow demands, regardless of suit. Each wrong note costs one of three lives; finish the melody to pass the song and move to a harder one.",
+     "total": 69.4
+    },
+    {
+     "rank": 14,
+     "title": "How Low Can You Go",
+     "family": "Trick-taking",
+     "hook": "Each trick's winning card sets the bar, and the next winner has to get under it.",
+     "core_twist": "The winning card of each trick becomes the bar. In the next trick, cards ranked above the bar may be played but cannot win; the highest card of the led suit at or under the bar takes it and sets a new, lower bar. If nobody gets under, the bar resets and the highest card wins. High cards are only good straight after a reset.",
+     "total": 68.9
+    },
+    {
+     "rank": 15,
+     "title": "Undercut",
+     "family": "Trick-taking",
+     "hook": "The best price wins the customer: get just under the stall next door.",
+     "core_twist": "Must-follow. The lead card sets the asking price; the trick is won by the highest card of the led suit that is lower than the lead card. If nobody undercuts, the leader wins. The winner keeps the lead card as profit equal to its rank, so leading high is lucrative and easy to undercut.",
+     "total": 68.7
+    },
+    {
+     "rank": 16,
+     "title": "Grandma's Recipe Box",
+     "family": "Trick-taking",
+     "hook": "You keep the same hand all game, less the two cards you hand to your neighbour.",
+     "core_twist": "Hands are dealt once. After each of three rounds, everyone picks their whole hand back up, then passes two cards to the left. You learn your own hand's quirks, remember what you passed, and by round three know most of the table. Tricks score a point; the second and third rounds add bonuses for winning with a card you were passed.",
+     "total": 68.7
+    },
+    {
+     "rank": 17,
+     "title": "Snowball Fight",
+     "family": "Trick-taking",
+     "hook": "Four tricks, each bigger than the last: one card, then two, then three, then four.",
+     "core_twist": "A round is ten cards and exactly four tricks. In the first trick everyone plays one card, in the second two, then three, then four, and tricks are worth one, two, three and four points. A play's strength is the sum of its cards in the led suit. You are dividing your hand into four snowballs and deciding which fights to throw.",
+     "total": 68.6
+    },
+    {
+     "rank": 18,
+     "title": "Troll Toll",
+     "family": "Trick-taking",
+     "hook": "The first trick is free. The troll charges more for every one after.",
+     "core_twist": "Everyone starts with six coins. Your first trick each round is free, your second costs one coin to the troll, your third two, and so on; if you cannot pay, the trick goes to the troll. Certain cards carry printed coins that the winner collects from the bank. Most coins after three rounds wins, so the question is always whether this trick is worth its toll.",
+     "total": 68.5
+    },
+    {
+     "rank": 19,
+     "title": "Greedy Goblins",
+     "family": "Trick-taking",
+     "hook": "Take the loot now, or let it ride and hope the pile doesn't blow.",
+     "core_twist": "The trick winner chooses: take the trick, or leave it in the hoard and lead again. The next winner faces the same choice with a bigger pile. Gold cards are worth their rank, but each bomb card in a claimed pile cancels the highest gold card in it, and a pile holding three bombs explodes on whoever must finally take it for minus five.",
+     "total": 68.0
+    },
+    {
+     "rank": 20,
+     "title": "Rock Paper Trumps",
+     "family": "Trick-taking",
+     "hook": "Three suits, and every one of them is trump over another.",
+     "core_twist": "Three suits in a circle: rock beats scissors, scissors beats paper, paper beats rock. Must-follow; if you cannot follow, your card wins only if its suit beats the led suit, and loses otherwise. There is no fixed trump, so every void is a weapon against exactly one suit.",
+     "total": 67.8
+    },
+    {
+     "rank": 21,
+     "title": "Potluck",
+     "family": "Trick-taking",
+     "hook": "Nobody cares who wins the trick, only what's in the pot.",
+     "core_twist": "Cooperative. Six recipe cards lie face-up, each asking for a trick of a certain shape: all different suits, total under twelve, contains a pair, won by the lowest trump, and so on. Whenever a completed trick matches a recipe, that recipe is served. Serve all six before the hands run out; no table talk about cards.",
+     "total": 66.4
+    },
+    {
+     "rank": 22,
+     "title": "Even Keel",
+     "family": "Trick-taking",
+     "hook": "Share the load or the lifeboat goes over.",
+     "core_twist": "Cooperative. Each trick you win is a crate stowed on your side of the boat. If any player ever holds two more tricks than any other player, the boat capsizes and the round is lost. In addition, every trump played flips one of five leak tokens, so the team's best tool for steering tricks is also what sinks it.",
+     "total": 66.4
+    },
+    {
+     "rank": 23,
+     "title": "Skeletons in the Closet",
+     "family": "Trick-taking",
+     "hook": "Can't follow suit? Slip your card in face-down and let the winner find out later.",
+     "core_twist": "A card that does not follow suit is played face-down and goes unseen into the winner's pile. At the end of the round the piles are opened: hidden skeleton cards are minus two each and hidden heirlooms plus two. Only the player who discarded knows whether the trick you just fought for was a gift or a trap.",
+     "total": 66.4
+    },
+    {
+     "rank": 24,
+     "title": "Regifted",
+     "family": "Trick-taking",
+     "hook": "Win the trick, then decide who is stuck with it.",
+     "core_twist": "The trick winner never keeps the trick: they must give it to another player of their choice, and then lead. Cards score their face value, but the deck's 1s, 2s and 3s are negative. You cannot give two tricks running to the same player.",
+     "total": 66.2
+    },
+    {
+     "rank": 25,
+     "title": "Underdogs",
+     "family": "Trick-taking",
+     "hook": "Lose a trick badly enough and you get a bone to bite back with.",
+     "core_twist": "The player of the lowest card of the led suit in each trick takes a bone token. On any later play you may spend bones to add two to your card for each bone, declared as you play. Bones are worth nothing at the end. Throwing a low card is an investment, and the player with the worst hand ends up the best armed.",
+     "total": 66.0
+    },
+    {
+     "rank": 26,
+     "title": "Cheese Run",
+     "family": "Trick-taking",
+     "hook": "The mouse is one of these cards. The cat has thirteen tricks to find it.",
+     "core_twist": "Two players, asymmetric. The Mouse secretly marks one card in their own hand as the mouse by setting aside its matching token. The Mouse scores a cheese for every trick it wins; the round ends at once if the Cat wins the trick containing the marked card, wiping out that round's cheese. Swap roles each round.",
+     "total": 65.9
+    },
+    {
+     "rank": 27,
+     "title": "Lay Low",
+     "family": "Trick-taking",
+     "hook": "Be the hero or be invisible: there is nothing in between.",
+     "core_twist": "Each round every player secretly chooses Hero or Hide and all reveal together. Hiders score three points if they win no tricks at all. Among Heroes only the one with the most tricks scores, one point per trick; tied Heroes score nothing. If everyone hides, the first player forced to take a trick loses three.",
+     "total": 65.8
+    },
+    {
+     "rank": 28,
+     "title": "Final Fortune",
+     "family": "Trick-taking",
+     "hook": "Choose the last card you will play before you play the first.",
+     "core_twist": "After the deal, each player places one card face-down as their fortune. Its rank is their bid (cards run 0 to 6) and it is also the card they must play to the final trick. The last trick is played with everyone's fortunes, scores double, and can make or break your own bid.",
+     "total": 65.7
+    },
+    {
+     "rank": 29,
+     "title": "Sandcastle Season",
+     "family": "Trick-taking",
+     "hook": "Build the castle trick by trick before the tide takes it.",
+     "core_twist": "Cooperative. The winning card of each trick is added to the tower of its colour, but only if it is higher than the card on top of that tower. A winning card that cannot be placed flips a tide token instead, and when a whole row of tide tokens is flipped the lowest tower washes away. Score the combined height at the end against a target.",
+     "total": 65.2
+    },
+    {
+     "rank": 30,
+     "title": "Window Box",
+     "family": "Trick-taking",
+     "hook": "Win a trick, plant one flower, and watch a three-by-three garden grow.",
+     "core_twist": "The trick winner takes exactly one card from the trick and plants it in their own three-by-three grid; it can never move. Rows score for ascending runs and columns for matching colours. The round ends when someone plants a ninth flower, so a player who wins too eagerly fills their box with whatever was going.",
+     "total": 65.2
+    },
+    {
+     "rank": 31,
+     "title": "Chameleon Club",
+     "family": "Trick-taking",
+     "hook": "The grey cards are whatever colour just won.",
+     "core_twist": "A quarter of the deck is grey chameleons with ranks but no suit. A chameleon always counts as the suit of the card that won the previous trick. It can therefore be a long suit, a void-breaker or a liability depending on what happened one trick ago, and the previous winner effectively sets the colour of every chameleon in every hand.",
+     "total": 65.0
+    },
+    {
+     "rank": 32,
+     "title": "Bull & Bear",
+     "family": "Trick-taking",
+     "hook": "The cards you play move the market. The cards you keep are your shares.",
+     "core_twist": "Four suits are four stocks with price markers. After each trick the winning card's suit rises one step and the lowest card's suit falls one. Deal ten cards and play only seven tricks: the three cards left in your hand are your portfolio and score the final price of their suits. Every card you play to win is a share you do not hold.",
+     "total": 64.6
+    },
+    {
+     "rank": 33,
+     "title": "Laundry Day",
+     "family": "Trick-taking",
+     "hook": "Win a trick and all that washing lands in your basket. First to an empty hand wins.",
+     "core_twist": "A trick-taker you win by shedding. The winner of each trick picks up every card in it and adds them to their hand, then leads. Players who lose the trick are simply rid of their card. The first player with no cards wins the round and the rest score a penalty per card held. High cards are a curse you must unload under someone else's higher one.",
+     "total": 64.4
+    },
+    {
+     "rank": 34,
+     "title": "Return to Sender",
+     "family": "Trick-taking",
+     "hook": "Everything you win this round is your opponent's hand next round.",
+     "core_twist": "At the end of each round, the cards in the tricks you captured are passed to the player on your left to form their next hand, topped up from the deck. Tricks still score a point each, so the craft is winning tricks made of rubbish and losing the ones full of aces.",
+     "total": 64.3
+    },
+    {
+     "rank": 35,
+     "title": "Knock on Wood",
+     "family": "Trick-taking",
+     "hook": "Win two tricks in a row and your luck runs out.",
+     "core_twist": "If the player who won the previous trick would win the current one too, they are jinxed: the trick goes instead to whoever played the lowest card of the led suit, and that player leads. Tricks are a point each. You can never run a long suit, and a low card played under the previous winner becomes a way to steal.",
+     "total": 64.3
+    },
+    {
+     "rank": 36,
+     "title": "Sunburn",
+     "family": "Trick-taking",
+     "hook": "Win too much in the sun and your whole hand turns upside down.",
+     "core_twist": "Each trick you win gives you a sun token. From the moment you hold three, you are sunburnt: for the rest of the round your cards rank in reverse, so your lowest card is your strongest. Tricks are a point each, and the burn carries no penalty of its own. Your hand has two lives and you choose when to switch.",
+     "total": 64.0
+    },
+    {
+     "rank": 37,
+     "title": "Fool's Crown",
+     "family": "Trick-taking",
+     "hook": "The biggest loser of each trick decides what's trump for the next.",
+     "core_twist": "Whoever plays the lowest-ranked card in a trick, of any suit, takes the jester's crown, and the suit of that card is trump for the next trick only. Trump changes almost every trick and is chosen by the cards people throw away, so discarding a low card is a way to arm yourself for the trick that follows.",
+     "total": 63.6
+    },
+    {
+     "rank": 38,
+     "title": "Over/Under",
+     "family": "Trick-taking",
+     "hook": "One line, one bet: will you beat it or duck it?",
+     "core_twist": "Each round a line card is flipped showing a number of tricks (say, two). Each player secretly sets a two-sided chip to Over or Under, revealed together before the first lead. Under players succeed by winning fewer tricks than the line, Over players by winning more; landing exactly on the line fails both. Successful bets split a pot that grows when others fail.",
+     "total": 63.5
+    },
+    {
+     "rank": 39,
+     "title": "Last Straw",
+     "family": "Trick-taking",
+     "hook": "Everyone loads the same camel. Don't be the one who breaks it.",
+     "core_twist": "Each trick you win puts straws on a shared camel: one for every card in the trick that did not follow suit. You score a point per trick, but when the camel reaches twelve straws the round ends and the player who added the last straw loses all their tricks for the round.",
+     "total": 63.5
+    },
+    {
+     "rank": 40,
+     "title": "Conga Line",
+     "family": "Trick-taking",
+     "hook": "You can't sort your hand, and you can only play from either end.",
+     "core_twist": "Cards stay in the order they were dealt. On your turn you may play only the leftmost or the rightmost card in your hand. If either end card can follow suit you must play one that does; otherwise play either. Winning a trick lets you move one card in your line to a new position before you lead.",
+     "total": 63.5
+    },
+    {
+     "rank": 41,
+     "title": "Pillow Fight",
+     "family": "Trick-taking",
+     "hook": "Win the trick and whoever played lowest gets a pillow in the face.",
+     "core_twist": "Everyone starts with five pillow tokens. The trick winner takes one pillow from the player who played the lowest card of the led suit. If the winner and the lowest are the same player, as happens when nobody else can follow, they hand one to the player with fewest. Most pillows after the hand wins; nobody is ever knocked out.",
+     "total": 63.4
+    },
+    {
+     "rank": 42,
+     "title": "Tightrope",
+     "family": "Trick-taking",
+     "hook": "Bid a range, not a number: the narrower your rope, the bigger the applause.",
+     "core_twist": "Each player places two pegs on their own trick track, a low and a high. Finish the round with a trick count inside your pegs to score: five points if the pegs are on the same number, three if they are one apart, one if two apart. Outside the pegs you lose a point per trick you missed by.",
+     "total": 63.3
+    },
+    {
+     "rank": 43,
+     "title": "Sour Grapes",
+     "family": "Trick-taking",
+     "hook": "A few sour grapes ruin your day. The whole bunch makes wine.",
+     "core_twist": "Every grape card you capture is minus one, in three varieties of five cards each. But if you capture all five of one variety, that bunch flips to plus eight. There are three separate small moons to shoot, so two players can chase different bunches while a third tries to split them.",
+     "total": 63.2
+    },
+    {
+     "rank": 44,
+     "title": "Slice of the Pie",
+     "family": "Trick-taking",
+     "hook": "I lead two cards. You choose which one we fight over.",
+     "core_twist": "Two players. The leader places two cards face-up. The follower chooses one of them to contest and plays to it, following suit if able; highest wins that trick. The uncontested card goes back into the leader's hand turned sideways, so the opponent knows it is there. You cut, I choose, every single trick.",
+     "total": 62.8
+    },
+    {
+     "rank": 45,
+     "title": "Odd Couple",
+     "family": "Trick-taking",
+     "hook": "The highest and the lowest card win together. Everyone in the middle gets nothing.",
+     "core_twist": "Every trick has two winners: the highest and the lowest card of the led suit each score a point, and the player of the highest leads. Cards in between score nothing. If only one card of the led suit was played, its owner scores both points. Partnerships form and dissolve trick by trick according to who holds the extremes.",
+     "total": 62.7
+    },
+    {
+     "rank": 46,
+     "title": "Ghost Light",
+     "family": "Trick-taking",
+     "hook": "The theatre ghost wants exactly three bows. Give it no more and no fewer.",
+     "core_twist": "Cooperative. A ghost sits at the table and plays the top card of its own face-down deck to every trick in turn order, following no rules. A haunting card says exactly how many tricks the ghost must win this round. The players, who cannot discuss their hands, must feed it that many and deny it the rest.",
+     "total": 62.6
+    },
+    {
+     "rank": 47,
+     "title": "Lighthouse Keepers",
+     "family": "Trick-taking",
+     "hook": "Guide every ship home together before the storm closes in.",
+     "core_twist": "Cooperative. Before each trick a ship card is flipped showing a suit. The ship is saved only if the trick is won by a card of that suit; otherwise a storm token flips. The leader may not lead the ship's suit, so the team must engineer a win in a suit that was not led, using trumps and voids, without discussing hands. Six flipped storm tokens lose the game.",
+     "total": 62.5
+    },
+    {
+     "rank": 48,
+     "title": "Doppelgangers",
+     "family": "Trick-taking",
+     "hook": "Meet your double and you both vanish.",
+     "core_twist": "The deck holds two copies of every card. Must-follow. If two cards of the same rank land in one trick, whatever their suits, both are cancelled and cannot win. The highest surviving card of the led suit takes the trick; if nothing survives, the trick is held over for the next winner.",
+     "total": 61.8
+    },
+    {
+     "rank": 49,
+     "title": "Jukebox",
+     "family": "Trick-taking",
+     "hook": "Win the trick, pick the next song, and change how the next trick is won.",
+     "core_twist": "Four song cards sit in a row: highest wins, lowest wins, second-highest wins, odd beats even. The winner of each trick moves a coin onto any song other than the current one, and that rule decides the next trick. Hands are must-follow throughout. Your hand's value changes each trick, and the previous winner chooses how.",
+     "total": 61.6
+    },
+    {
+     "rank": 50,
+     "title": "Truffle Hunt",
+     "family": "Trick-taking",
+     "hook": "Win the trick, then dig in the bag for as long as your nerve holds.",
+     "core_twist": "The trick winner may draw tokens from a cloth bag one at a time, up to one for each card in the trick that did not follow suit plus one. Truffles are worth a point each; drawing a boar ends the dig and loses everything drawn this trick. Boars go back in the bag and truffles do not, so the odds worsen through the round.",
+     "total": 61.6
+    },
+    {
+     "rank": 51,
+     "title": "Tug of Yarn",
+     "family": "Trick-taking",
+     "hook": "Two cats, one ball of yarn, and every trick pulls it your way.",
+     "core_twist": "Two players, must-follow, one trump suit. A yarn marker sits in the middle of a nine-space track. The trick winner pulls the yarn toward themselves by the difference between the two cards played (maximum three). Pull it off your end to win at once; otherwise whoever it is nearer after the last trick wins.",
+     "total": 61.2
+    },
+    {
+     "rank": 52,
+     "title": "Par for the Course",
+     "family": "Trick-taking",
+     "hook": "Nine tricks, nine holes: play closest to par, and the trick winner gets a birdie.",
+     "core_twist": "Each trick is a hole with a par card flipped beside it. Every player takes strokes equal to the gap between their card's rank and par. The trick winner, by normal must-follow rules, subtracts two strokes and leads the next hole. Fewest strokes after nine wins. The card that wins is rarely the card nearest par.",
+     "total": 60.9
+    },
+    {
+     "rank": 53,
+     "title": "Detention",
+     "family": "Trick-taking",
+     "hook": "Play the lowest card and you have to show your next one before anybody leads.",
+     "core_twist": "The player of the lowest card of the led suit in each trick is in detention: before the next trick is led they must choose their card for it and place it face-up in front of them. Everyone else then plays knowing it. The detained card still obeys must-follow; if it turns out illegal the player swaps it and takes a penalty point.",
+     "total": 60.5
+    },
+    {
+     "rank": 54,
+     "title": "Nothing to Declare",
+     "family": "Trick-taking",
+     "hook": "One smuggler, one inspector, and a suitcase in every trick.",
+     "core_twist": "Two players. The Smuggler always plays face-down, lead or follow. The Inspector plays face-up and then says 'open it' or 'go ahead'. Opened: the card is revealed and the trick resolves normally, with a bonus to the Inspector if it was one of five contraband cards and a fine paid to the Smuggler if it was not. Waved through: the Smuggler takes the trick unseen. Following suit is checked at the end of the round.",
+     "total": 60.2
+    },
+    {
+     "rank": 55,
+     "title": "Robin's Share",
+     "family": "Trick-taking",
+     "hook": "Win the most and Robin Hood takes a cut for whoever won the least.",
+     "core_twist": "Tricks are a point each. At the end of every round the player with the most tricks must give two of them to the player with the fewest; ties for most all pay, split among those tied for fewest. Finishing clearly first is costly, finishing last is profitable, and the real contest is for a comfortable second.",
+     "total": 59.6
+    },
+    {
+     "rank": 56,
+     "title": "Bad Apples",
+     "family": "Trick-taking",
+     "hook": "One bad apple spoils the tricks on either side of it.",
+     "core_twist": "You keep your captured tricks in a row in the order you won them. Any trick containing a worm card is rotten: it scores nothing and also spoils the trick immediately before it and after it in your row. The order you win in matters as much as what you win, and a well-timed rotten trick you were always going to take can sit harmlessly at the end.",
+     "total": 59.5
+    },
+    {
+     "rank": 57,
+     "title": "Signal Fires",
+     "family": "Trick-taking",
+     "hook": "One card passed in silence is all you may say.",
+     "core_twist": "Cooperative. The team must end the round with tricks split exactly as the beacon card shows (for example 4-3-1-0, in any seats). The only communication allowed is this: before each trick, the leader passes one card face-down to any teammate, who passes one back. What you send, and what you send back, is the whole conversation.",
+     "total": 59.3
+    },
+    {
+     "rank": 58,
+     "title": "Festival of Lanterns",
+     "family": "Trick-taking",
+     "hook": "Three bridges, one hand of cards: decide where each trick is fought.",
+     "core_twist": "Two players. Three bridge cards lie between you. The leader places their card beside any bridge that has room; the follower must follow suit there. The winner's card stays on their side of that bridge as a lantern, the loser's is discarded. Each bridge holds three lanterns and goes to whoever has more on it; win two bridges to take the round.",
+     "total": 59.3
+    },
+    {
+     "rank": 59,
+     "title": "Second Fiddle",
+     "family": "Trick-taking",
+     "hook": "Play second best to win the trick, but the loudest player picks the next tune.",
+     "core_twist": "Must-follow, no trump. The second-highest card of the led suit wins the trick and scores it, but the player of the highest card of the led suit leads the next trick. Winning and controlling the lead are always held by different people.",
+     "total": 59.0
+    },
+    {
+     "rank": 60,
+     "title": "Heist at Midnight",
+     "family": "Trick-taking",
+     "hook": "Every trick is a lock, and each of you holds a different pick.",
+     "core_twist": "Cooperative. A row of seven lock cards each demands how its trick must be won (by the last player, with an odd card, by exactly one rank). Each player has a one-line role usable once per round: the Hacker changes trump, the Driver leads out of turn, the Lookout shows one card to a partner. Each failed lock adds an alarm token; three alarms and the crew is caught.",
+     "total": 58.8
+    },
+    {
+     "rank": 61,
+     "title": "Branch Line",
+     "family": "Trick-taking",
+     "hook": "Every trick lays track for the whole table, but the winner lays the most.",
+     "core_twist": "Trick-and-write. Each player has a map sheet. After every trick, all players draw track in the terrain matching the winning card's suit: the winner draws three segments, the player of the lowest card draws none, everyone else draws two. Connected towns score at the end. You fight over which suit wins as much as over who wins.",
+     "total": 58.7
+    },
+    {
+     "rank": 62,
+     "title": "Stargazers",
+     "family": "Trick-taking",
+     "hook": "Win a trick, take one star, and leave the rest hanging in the sky.",
+     "core_twist": "The trick winner takes one card of their choice from the trick; the others are placed face-up in a shared sky. A later winner may take their one card from the sky instead of from the trick just played. Sets of three consecutive ranks in a suit form constellations worth five; loose stars are worth nothing.",
+     "total": 58.7
+    },
+    {
+     "rank": 63,
+     "title": "Signature Move",
+     "family": "Trick-taking",
+     "hook": "Win a round and sign a card: from now on it does what you say.",
+     "core_twist": "The winner of each round takes a power sticker from a small sheet (wins ties, swaps trump, counts as any suit) and puts it on any card in the deck, signing it. The card goes back in the shuffle and whoever is dealt it may use the power. Over six rounds the deck becomes one your table made, and everyone knows which cards to fear.",
+     "total": 58.6
+    },
+    {
+     "rank": 64,
+     "title": "Two Left Feet",
+     "family": "Trick-taking",
+     "hook": "A cooperative dance for two where you must never win twice in a row.",
+     "core_twist": "Two players, cooperative. You must alternate trick wins: I lead and win, then you, then me. A dance card also names the suit each step must be won in. Each misstep, a wrong winner or a wrong suit, costs one of three hearts. You may not talk about your hands, only count the beat aloud.",
+     "total": 58.4
+    },
+    {
+     "rank": 65,
+     "title": "Three-Legged Race",
+     "family": "Trick-taking",
+     "hook": "Two partners, one hand of cards, passed back and forth in silence.",
+     "core_twist": "Four players in two teams. Each team has a single hand of sixteen cards and plays two cards to every trick, one from each partner. After a partner plays, they pass the hand across the table to the other. You may rearrange the cards before passing, and the order you leave them in is the only message you are allowed.",
+     "total": 58.4
+    },
+    {
+     "rank": 66,
+     "title": "Riposte",
+     "family": "Trick-taking",
+     "hook": "Any fool can win big. A fencer wins by a whisker.",
+     "core_twist": "Must-follow. The trick winner scores five points minus the gap between their card and the next-best card of the led suit, to a minimum of zero. Beating a card by exactly one is a touch and scores a flat five. Smashing a low lead with your ace scores nothing, so strong cards must wait for something worth beating.",
+     "total": 58.3
+    },
+    {
+     "rank": 67,
+     "title": "Auction Barn",
+     "family": "Trick-taking",
+     "hook": "Bid with the cards you were going to win with.",
+     "core_twist": "Your bid is made of cards: set aside face-down as many cards from your hand as the tricks you promise to win. Those cards are out of the round, so a high bid leaves a short hand, and a player whose hand runs out simply stops playing. Hit your bid exactly to score it; revealed bid cards break ties.",
+     "total": 58.1
+    },
+    {
+     "rank": 68,
+     "title": "Calling Card",
+     "family": "Trick-taking",
+     "hook": "One card on the table tells everyone your trump and your target.",
+     "core_twist": "Before play, each player lays one card from their hand face-up. Its suit is that player's personal trump for the round and its rank (cards run 0 to 5) is the exact number of tricks they must win. The card is gone from your hand, so calling with a high trump spends it.",
+     "total": 58.1
+    },
+    {
+     "rank": 69,
+     "title": "Switcheroo",
+     "family": "Trick-taking",
+     "hook": "Play a seven and swap your whole hand with anyone at the table.",
+     "core_twist": "Whenever a seven is played to a trick, its player must immediately swap their entire remaining hand with another player of their choice, before the trick continues. Tricks are a point each. The four sevens are the most watched cards in the deck: holding one means your good hand is someone else's in waiting.",
+     "total": 57.9
+    },
+    {
+     "rank": 70,
+     "title": "Secret Santa",
+     "family": "Trick-taking",
+     "hook": "You score your tricks multiplied by the tricks of someone who doesn't know you're helping.",
+     "core_twist": "Each round, every player draws a face-down name token of another player. Your round score is your own tricks multiplied by your secret recipient's tricks. Nobody knows who is quietly feeding them or whom their own helper is, and a zero anywhere wipes out somebody's round.",
+     "total": 57.5
+    },
+    {
+     "rank": 71,
+     "title": "Night Train",
+     "family": "Trick-taking",
+     "hook": "Ten stations lie ahead, and you can see what waits at every one.",
+     "core_twist": "A line of ten station cards is laid out in order, one per trick. Each shows a reward for the trick's winner and a different effect for the player of the lowest card: points, a peek at a hand, a change of trump from that station on, a penalty. The whole journey is visible from the start, so you plan which stations to arrive first at and which to sleep through.",
+     "total": 57.3
+    },
+    {
+     "rank": 72,
+     "title": "Two-Ring Circus",
+     "family": "Trick-taking",
+     "hook": "Two tricks run side by side, and you choose which ring to step into.",
+     "core_twist": "Two tricks are open at once, each with its own lead. On your turn you play one card to either ring, following that ring's suit if you can, and you may not play to a ring you are already in. When everyone has played to both, each ring is won separately. You see how one ring is going before committing to the other.",
+     "total": 57.3
+    },
+    {
+     "rank": 73,
+     "title": "Sum of Its Parts",
+     "family": "Trick-taking",
+     "hook": "No single card wins: the biggest pile of matching parts does.",
+     "core_twist": "Following suit is optional. Add up the ranks of each suit in the trick; the suit with the highest total wins, and the trick goes to whoever played the highest card of that suit. Two small cards of one suit from different players beat one big card, so opponents can gang up without a word.",
+     "total": 57.1
+    },
+    {
+     "rank": 74,
+     "title": "Pollen Count",
+     "family": "Trick-taking",
+     "hook": "The suit you lead is the meadow you fight for.",
+     "core_twist": "Four meadow cards match the four suits. The trick winner places one of their bee tokens on the meadow of the led suit; the player of the lowest card removes one of their own bees from any meadow. At the end of the round each meadow pays three points to the player with most bees and one to second.",
+     "total": 57.1
+    },
+    {
+     "rank": 75,
+     "title": "The One That Got Away",
+     "family": "Trick-taking",
+     "hook": "Play your card face-down and tell the table how big it was.",
+     "core_twist": "Every card is played face-down with a spoken claim of suit and rank; the claimed suit must follow the claimed lead if you say you can. The trick is settled on claims alone unless somebody challenges one card before the trick is collected. A liar caught loses the trick and a point to the challenger; a wrong challenge costs the challenger a point.",
+     "total": 56.9
+    },
+    {
+     "rank": 76,
+     "title": "Curfew",
+     "family": "Trick-taking",
+     "hook": "Stay out as late as you dare, but don't be the one holding the lead when the lights come on.",
+     "core_twist": "A timer deck of twelve cards is flipped one per trick; the curfew card is shuffled somewhere into its last six. Tricks score a point each. When curfew flips, the round ends at once and whoever won the previous trick is caught and loses three points. From the seventh trick on, winning is a gamble.",
+     "total": 56.2
+    },
+    {
+     "rank": 77,
+     "title": "Round the Clock",
+     "family": "Trick-taking",
+     "hook": "Twelve o'clock beats eleven, one o'clock beats twelve, and the hour keeps moving.",
+     "core_twist": "Suits run one to twelve around a clock dial with a single hand. The rank the hand points to is the highest card in every suit and the ranks count down from there round the dial, so with the hand on four, the order is 4, 3, 2, 1, 12, 11 and on. After each trick the hand advances by one hour. Every card gets its moment as the best card in its suit.",
+     "total": 56.1
+    },
+    {
+     "rank": 78,
+     "title": "Both Ends",
+     "family": "Trick-taking",
+     "hook": "Every card has two numbers. One end is its suit, the other is its strength, and you choose.",
+     "core_twist": "Cards are printed like dominoes with a number from one to six at each end. When you play, you point one end at the middle: that number is the card's suit and the other end is its rank. You must follow the led number if any card in your hand has it at either end. A 6-2 is the top card of the twos or a weak six.",
+     "total": 56.0
+    },
+    {
+     "rank": 79,
+     "title": "Odd Bird Out",
+     "family": "Trick-taking",
+     "hook": "Flock together and you all lose; stand alone and the trick is yours.",
+     "core_twist": "You never have to follow suit. A trick is won by the highest card whose suit appears exactly once in that trick. If every suit appears twice or more, nobody wins and the cards stay in the middle for the next winner.",
+     "total": 55.9
+    },
+    {
+     "rank": 80,
+     "title": "Dead Drop",
+     "family": "Trick-taking",
+     "hook": "Your partner has made a promise for you, and you don't know what it is.",
+     "core_twist": "Fixed partnerships for four. Each partner secretly bids a number of tricks; the two bids stay face-down and are revealed only after the third trick, when their sum becomes the team's exact contract. For three tricks you must read your partner's intentions from their play alone.",
+     "total": 55.8
+    },
+    {
+     "rank": 81,
+     "title": "Borrowed Tools",
+     "family": "Trick-taking",
+     "hook": "There's a shed in the middle of the table and anyone can play from it.",
+     "core_twist": "Four cards lie face-up in a shared shed. On your turn you may play a shed card instead of one from your hand, still obeying must-follow by your own hand. The shed is refilled to four after each trick. Everyone starts with the same number of hand cards, and whoever has cards left when the deck and shed run dry takes a penalty per card.",
+     "total": 55.8
+    },
+    {
+     "rank": 82,
+     "title": "King of the Sandbox",
+     "family": "Trick-taking",
+     "hook": "Whoever is in the lead plays alone against everybody.",
+     "core_twist": "At the start of each round the player with the highest score is King and plays alone; all the others form a team for that round and pool their tricks. The King scores double for each trick; each challenger scores the team's tricks divided among them, rounded down. Teams re-form every round as the lead changes hands.",
+     "total": 55.8
+    },
+    {
+     "rank": 83,
+     "title": "Carnival Masks",
+     "family": "Trick-taking",
+     "hook": "Your opponents can see half of every card you hold.",
+     "core_twist": "Cards have no backs: each has a different suit and rank on its two sides. You hold your hand so that one side faces you and the other faces the table. When you play a card you choose which side counts, and must-follow applies to the side you can see. Opponents always know one of the two things each of your cards can be.",
+     "total": 55.5
+    },
+    {
+     "rank": 84,
+     "title": "Wound Down",
+     "family": "Trick-taking",
+     "hook": "Every card is a spring: each time it wins, it comes back a little weaker.",
+     "core_twist": "Each card shows four values, one on each edge, descending as you turn it. A card that wins a trick is not captured; the winner takes a point token and returns the card to their hand rotated a quarter-turn to its next weaker edge. Losing cards are discarded. Your best cards can win up to four times, each time by less.",
+     "total": 55.4
+    },
+    {
+     "rank": 85,
+     "title": "Splice",
+     "family": "Trick-taking",
+     "hook": "Stitch two cards into one monster, if you can afford to run out of cards.",
+     "core_twist": "On your turn you may play two cards of the same suit together as a single card worth their sum. Doing so leaves you a card short: when your hand is empty you sit out the remaining tricks. Splicing wins the trick you need now at the price of a trick you cannot contest later.",
+     "total": 55.3
+    },
+    {
+     "rank": 86,
+     "title": "Double Dare You",
+     "family": "Trick-taking",
+     "hook": "You don't choose your own handicap. The player on your right does.",
+     "core_twist": "After looking at their hands, each player picks one of three face-up dare cards (for example: 'cannot win with an even card', 'must lead your lowest', 'your trumps are ordinary') and hands it to the player on their left. Then everyone bids an exact number of tricks knowing the dare they were given.",
+     "total": 55.0
+    },
+    {
+     "rank": 87,
+     "title": "Apothecary's Scales",
+     "family": "Trick-taking",
+     "hook": "Every trick goes on one pan or the other, and you only score the lighter side.",
+     "core_twist": "Each trick you win must be placed at once on the left or right pan of your own scale card, and never moved. A trick weighs the rank of its winning card. At the end of the round you score the total of your lighter pan only. Six small tricks split evenly beat two heavy ones.",
+     "total": 54.8
+    },
+    {
+     "rank": 88,
+     "title": "Four Seasons",
+     "family": "Trick-taking",
+     "hook": "You are dealt the whole year at once. Deciding which cards go in which season is up to you.",
+     "core_twist": "Each player is dealt all their cards for the game and secretly splits them into four equal hands, one per season. Spring: lowest card wins. Summer: highest wins. Autumn: tricks score a point per card of the led suit in them. Winter: every trick is minus one. The deal is a puzzle you set yourself before a card is played.",
+     "total": 54.7
+    },
+    {
+     "rank": 89,
+     "title": "Night Garden",
+     "family": "Trick-taking",
+     "hook": "Some flowers open at dawn, some at dusk: win the right trick at the right hour.",
+     "core_twist": "Cooperative. A sun-and-moon marker steps along a nine-space day track, one space per trick. Each seed packet names a colour and a time of day (morning, noon or night) and blooms only if a trick is won with that colour during those three tricks. Twelve packets of rising difficulty form a short campaign.",
+     "total": 54.3
+    },
+    {
+     "rank": 90,
+     "title": "Echo Canyon",
+     "family": "Trick-taking",
+     "hook": "Win a trick and your card echoes back as the next lead.",
+     "core_twist": "The winning card of a trick is not collected: it stays on the table as the lead card of the next trick, and its owner does not play again in that trick. A winner therefore sits out while everyone else spends a card. The round ends when any player's hand is empty and cards left in hand are penalty points.",
+     "total": 53.2
+    },
+    {
+     "rank": 91,
+     "title": "Double Dutch",
+     "family": "Trick-taking",
+     "hook": "Lead one card or lead two. Everyone has to keep up.",
+     "core_twist": "The leader may lead a single card or a pair of cards of the same suit. To a pair, every player must play two cards, following suit with as many as they can; the pair with the highest total in the led suit wins, and a double trick scores three points instead of one. Leading pairs strips suits from the table twice as fast.",
+     "total": 53.1
+    },
+    {
+     "rank": 92,
+     "title": "Mutiny on the Marigold",
+     "family": "Trick-taking",
+     "hook": "A cooperative voyage, unless one of you is the mutineer.",
+     "core_twist": "The crew cooperates to win the tricks containing six supply cards before four storm tokens flip (one flips whenever a supply card is lost to a trick won by a trump). Loyalty cards are dealt from a set with one more card than players, so there may or may not be a mutineer who wins if the storm tokens run out. Once per game the crew may vote to lock one player in the brig, who then plays their cards face-up.",
+     "total": 52.8
+    },
+    {
+     "rank": 93,
+     "title": "Mystery Guest",
+     "family": "Trick-taking",
+     "hook": "Nobody knows what was led until everyone has answered.",
+     "core_twist": "The leader plays face-down and says nothing. Everyone else plays face-up, guessing the suit. The lead is then revealed: only cards matching its suit compete, highest wins, and the leader wins if nobody matched. Any player who could have matched the suit but did not gives the leader one point from their score.",
+     "total": 52.6
+    },
+    {
+     "rank": 94,
+     "title": "Secret Ingredient",
+     "family": "Trick-taking",
+     "hook": "Only the chef knows what's trump, and every card they play gives it away.",
+     "core_twist": "Each round the dealer is the chef, looks at a face-down trump card and tells nobody. Tricks are resolved by the chef, who simply announces the winner. Once per round, each other player may spend their turn's lead to name the trump suit: right scores three, wrong gives the chef two. The chef wants tricks without making the trump obvious.",
+     "total": 52.4
+    },
+    {
+     "rank": 95,
+     "title": "Who Am I Holding?",
+     "family": "Trick-taking",
+     "hook": "You know how strong your cards are. Everyone else knows what suit they are.",
+     "core_twist": "Each card has its rank on one side and its suit colour on the other. You hold your cards with ranks toward you, so you never see your own suits but see everyone else's. On your turn, the player to your left tells you which of your cards may legally follow, by pointing. You deduce your own suits from what you are allowed to play.",
+     "total": 51.9
+    },
+    {
+     "rank": 96,
+     "title": "Tinker's Workshop",
+     "family": "Trick-taking",
+     "hook": "Spend your tricks on gadgets that bend the rules for you alone.",
+     "core_twist": "Four rounds. After each round, players spend the tricks they won to buy one gadget from a face-up row, fewest tricks choosing first. A gadget is a permanent personal rule such as 'your 3s count as 13s', 'you may follow green with blue' or 'you win ties'. Only unspent tricks score, so you choose between points now and power later.",
+     "total": 51.3
+    },
+    {
+     "rank": 97,
+     "title": "The Missing Card",
+     "family": "Trick-taking",
+     "hook": "One card was stolen from the deck. Play the hand, solve the crime.",
+     "core_twist": "One card is removed unseen before the deal and three more are dealt face-down as red herrings that nobody plays. Tricks score a point each, but after winning any trick you may make one accusation per round, naming the stolen card's suit and rank; the dealer checks in secret. Correct scores five and ends the round; wrong costs two.",
+     "total": 51.1
+    },
+    {
+     "rank": 98,
+     "title": "Swap Meet",
+     "family": "Trick-taking",
+     "hook": "Before every trick, the leader names the suit and the trading floor opens.",
+     "core_twist": "The leader announces the suit they will lead, then has one open trade: any other player may offer one card face-down, and the leader may accept one offer and give a card back, also face-down. Then the trick is played. Offers are a way to help the leader, to sabotage them, or to dump a card you fear, and nobody can be sure which.",
+     "total": 49.8
+    },
+    {
+     "rank": 99,
+     "title": "Draft Day",
+     "family": "Trick-taking",
+     "hook": "Everyone watched you pick your hand. Now play it.",
+     "core_twist": "There is no deal. The deck is laid out face-up in rows and players take turns picking one card at a time, in snake order, until hands are full. Then the cards are picked up and the round is ordinary must-follow trick-taking with exact bids. All information was public, so play is a contest of memory and of drafting to break someone else's hand.",
+     "total": 49.7
+    },
+    {
+     "rank": 100,
+     "title": "Lance & Shield",
+     "family": "Trick-taking",
+     "hook": "Every trick is two duels at once: your lance against their shield.",
+     "core_twist": "Two players. Each trick, both players put down two cards together: one face-up as a lance and one face-down as a shield. Your lance fights their shield and the reverse; a lance wins if it is higher than the shield in the same suit or the shield is a different, non-trump suit. Win both duels to take all four cards; a split leaves them in the pot for the next clean win.",
+     "total": 46.0
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "sources": [
+    {
+     "id": 324711,
+     "name": "Schadenfreude",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 470482,
+     "name": "Apocalypse",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 454829,
+     "name": "Potemkin Villages",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 458770,
+     "name": "Minikin City",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 448428,
+     "name": "Moustache",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 429293,
+     "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 467997,
+     "name": "Can't Win",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 456965,
+     "name": "Trick to the Future",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468799,
+     "name": "Fishing 2",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468836,
+     "name": "Oshaka Trick",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 445476,
+     "name": "Off With Their Heads!",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 443074,
+     "name": "Zombie Princess",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 474696,
+     "name": "Matchmakers",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 446492,
+     "name": "Tax the Rich",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 420932,
+     "name": "Trick Stakes",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 451772,
+     "name": "Shards of Creation",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 191071,
+     "name": "Mythical Dice",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 381278,
+     "name": "Dracula vs Van Helsing",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 260568,
+     "name": "Seven Prophecies",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 394691,
+     "name": "The Six of VIII",
+     "family": "Trick-taking"
+    }
+   ],
+   "variants": [
+    {
+     "rank": 1,
+     "title": "Thin Ice",
+     "family": "Trick-taking",
+     "hook": "Each colour of ice holds three winners. The fourth goes through.",
+     "core_twist": "Every suit has an ice-floe card with three crack spaces. When a trick is won, a crack is marked on the floe matching the winning card's suit. A player who wins a trick with a suit whose floe already has three cracks falls in: they lose three points and the floe resets. Tricks are otherwise a point each.",
+     "total": 73.7
+    },
+    {
+     "rank": 2,
+     "title": "Torch and Treasure",
+     "family": "Trick-taking",
+     "hook": "Win the trick and you face the monster with the very card you won with.",
+     "core_twist": "Each trick is a room card showing a monster's strength from three to nine and a treasure. The trick winner compares their winning card to the monster: equal or higher takes the treasure; lower takes a wound worth minus one, and the monster stays for the next trick with more treasure on it. A cheap win is a trap.",
+     "total": 72.7
+    },
+    {
+     "rank": 3,
+     "title": "Again!",
+     "family": "Trick-taking",
+     "hook": "Fail the hand, pick up the very same cards, and try it again knowing what you know.",
+     "core_twist": "Cooperative. A goal card sets a task, such as 'everyone wins exactly two tricks and a 1 wins the last'. If the team fails, every player picks their exact hand back up and the same deal is replayed, up to three attempts, with no discussion in between. Score by how few attempts you needed.",
+     "total": 72.6
+    },
+    {
+     "rank": 4,
+     "title": "Line Up",
+     "family": "Trick-taking",
+     "hook": "Win a trick, drop a disc in that suit's column, and make three in a row.",
+     "core_twist": "A shared upright grid has one column per suit, five spaces high. The trick winner drops one of their discs into the column of the winning card's suit. At the end, each line of three of your discs in any direction scores three. Which suit you win with is the move.",
+     "total": 71.3
+    },
+    {
+     "rank": 5,
+     "title": "Breakaway",
+     "family": "Trick-taking",
+     "hook": "Follow suit and you ride your card's number. Fail to follow and you stand still.",
+     "core_twist": "Each player has a cyclist on a road. After a trick, every player who followed suit moves forward by the rank of the card they played; anyone who played off-suit does not move. The winner leads, so the lead is the power to pick a suit your rivals have run out of. Play eight of ten cards.",
+     "total": 71.2
+    },
+    {
+     "rank": 6,
+     "title": "Monster Mash-Up",
+     "family": "Trick-taking",
+     "hook": "Heads, bodies and legs: win tricks to stitch together the best monsters.",
+     "core_twist": "The three suits are heads, bodies and legs. The trick winner takes one card from the trick and adds it to one of up to three monsters in their lab, each of which needs one of each part. A complete monster scores the lowest number among its three parts; an incomplete one scores nothing.",
+     "total": 71.2
+    },
+    {
+     "rank": 7,
+     "title": "Kickflip",
+     "family": "Trick-taking",
+     "hook": "One trick is a point. Two in a row is three. Keep the run going.",
+     "core_twist": "Tricks score by streak: the first trick of a run is worth one point, the next consecutive win two, the next three, and so on. Losing a trick resets you to one. Whoever is on a run becomes the player everyone must stop, even at the cost of their own good cards.",
+     "total": 71.0
+    },
+    {
+     "rank": 8,
+     "title": "Talent Show",
+     "family": "Trick-taking",
+     "hook": "The cards that win the heats are the only cards you get to play in the final.",
+     "core_twist": "Six heat tricks are played from nine cards and score a point each. The card that wins a heat stays face-up in front of its owner as a finalist. After the heats, all other cards are discarded and the final is played using only finalists as hands, at three points a trick. A heat won with a small card sends a weak act to the final.",
+     "total": 70.9
+    },
+    {
+     "rank": 9,
+     "title": "Last One Out",
+     "family": "Trick-taking",
+     "hook": "Leave the party whenever you like, but the last guest does the washing-up.",
+     "core_twist": "After any trick, a player may leave: they discard their hand and bank a point for each trick they have won. When only one player remains the round ends and that player scores nothing. With two players left, every further trick is a dare.",
+     "total": 70.7
+    },
+    {
+     "rank": 10,
+     "title": "Nocturnal",
+     "family": "Trick-taking",
+     "hook": "When a moon card wins, night falls and low cards rule until the sun comes up.",
+     "core_twist": "The round begins in daylight, when high cards win. The 3s and 8s carry a moon and the 5s and 10s a sun. When a moon card wins a trick it becomes night, and the lowest card of the led suit wins every trick until a sun card wins one. The players decide when the world turns over.",
+     "total": 70.0
+    },
+    {
+     "rank": 11,
+     "title": "Friendship Bracelet",
+     "family": "Trick-taking",
+     "hook": "Win a trick, choose a best friend for the next one, and share the points.",
+     "core_twist": "The winner of each trick hands the bracelet to another player. In the next trick, if either the giver or the wearer wins, both score a point. You may not give the bracelet to the same player twice in a row. Alliances last one trick.",
+     "total": 69.9
+    },
+    {
+     "rank": 12,
+     "title": "Photobomb",
+     "family": "Trick-taking",
+     "hook": "A clean trick is a perfect picture. One off-suit card and the photobombers take the points.",
+     "core_twist": "No trumps. If every player follows suit, the trick is a clean shot and its winner scores three. If anyone plays off-suit, the winner scores nothing and each player who failed to follow scores one. Being void in a suit is the best position at the table, and leaders hunt for suits everybody still holds.",
+     "total": 69.7
+    },
+    {
+     "rank": 13,
+     "title": "Volcano Day",
+     "family": "Trick-taking",
+     "hook": "Grab what you can before the mountain goes, but don't be carrying the most when it does.",
+     "core_twist": "Seven lava tokens sit by the board. Every trick that contains a card of the red suit flips one. When the last token flips, the round ends at once and the player holding the most tricks scores nothing; everyone else scores theirs. If the hand runs out first, everybody scores.",
+     "total": 68.7
+    },
+    {
+     "rank": 14,
+     "title": "One-Hit Wonders",
+     "family": "Trick-taking",
+     "hook": "Each number can win one trick a round. After that it's yesterday's news.",
+     "core_twist": "A rank track sits beside the table. When a card wins a trick, its rank is marked as spent, and for the rest of the round cards of that rank cannot win and count as zero. Once an ace has won, the other aces are worthless and the kings are on top until one of them wins.",
+     "total": 68.7
+    },
+    {
+     "rank": 15,
+     "title": "Dragon's Nap",
+     "family": "Trick-taking",
+     "hook": "Steal the treasure, but keep every trick quiet enough not to wake the dragon.",
+     "core_twist": "Cooperative. Add the ranks of all cards in each trick. If the total is over the noise limit (sixteen with four players, twelve with three, nine with two), the dragon opens one of its three eyelid tokens. The team must capture five treasure cards, which are the 9s and 10s, the loudest cards in the deck.",
+     "total": 68.4
+    },
+    {
+     "rank": 16,
+     "title": "Capture the Flag",
+     "family": "Trick-taking",
+     "hook": "Tricks are a point. The flag is four, and you take it by beating whoever holds it.",
+     "core_twist": "The first trick's winner takes the flag token. After that, you take the flag by winning a trick in which the holder followed suit and lost. Whoever holds the flag at the end of the round scores four on top of a point per trick. The holder is safest when out of the suit led.",
+     "total": 67.5
+    },
+    {
+     "rank": 17,
+     "title": "Feed the Goat",
+     "family": "Trick-taking",
+     "hook": "Can't follow suit? Feed your card to the goat. Whoever wins the last trick gets the goat.",
+     "core_twist": "A player who cannot follow suit may put their card on the goat pile instead of into the trick. The winner of the final trick takes the whole pile. Turnip cards in it are worth a point each and tin cans cost one, so the last trick grows into a prize or a punishment all round.",
+     "total": 66.4
+    },
+    {
+     "rank": 18,
+     "title": "Allergic",
+     "family": "Trick-taking",
+     "hook": "You're secretly allergic to one suit. Don't sneeze where your neighbour can see.",
+     "core_twist": "Each player is dealt a secret allergy card naming one suit. Tricks are a point each, but every card of your allergy suit you capture costs a point. At the end of the round, each player guesses the allergy of the player on their left for two points.",
+     "total": 66.3
+    },
+    {
+     "rank": 19,
+     "title": "Paparazzi",
+     "family": "Trick-taking",
+     "hook": "Win a trick and your whole hand goes on the table for everyone to see.",
+     "core_twist": "The winner of a trick lays their remaining hand face-up and plays from it openly until another player wins a trick, who is exposed in their place. Tricks are a point each. Holding the lead means playing with no secrets against three who have theirs.",
+     "total": 65.5
+    },
+    {
+     "rank": 20,
+     "title": "Backseat Driver",
+     "family": "Trick-taking",
+     "hook": "You don't bid for yourself. You bid for the player on your left.",
+     "core_twist": "After looking only at your own hand, announce exactly how many tricks the player on your left will win. You score a point for each trick you win yourself and three more if your neighbour lands on your number. Your neighbour knows the number and has no reason to cooperate.",
+     "total": 65.4
+    },
+    {
+     "rank": 21,
+     "title": "High Roller",
+     "family": "Trick-taking",
+     "hook": "Every trick is fought over a handful of dice, and even last place picks one up.",
+     "core_twist": "Before each trick, roll one die per player into the middle. After the trick, players take one die each in finishing order, winner first, and keep it on the face rolled. At the end of the round your dice score their pips, except that any number you hold exactly twice scores nothing.",
+     "total": 65.2
+    },
+    {
+     "rank": 22,
+     "title": "Showing Your Colours",
+     "family": "Trick-taking",
+     "hook": "The backs of the cards show their suits. Everyone knows what you hold, just not how good it is.",
+     "core_twist": "Card backs are printed in the colour of their suit, so every player's suit distribution is visible at all times and every void is public knowledge. Ranks stay hidden. Normal must-follow play with one trump suit.",
+     "total": 65.1
+    },
+    {
+     "rank": 23,
+     "title": "Lazy River",
+     "family": "Trick-taking",
+     "hook": "Hold five cards and refill from the river, where the trick's loser chooses first.",
+     "core_twist": "Hands are five cards. After each trick a face-up row of one card per player is drafted in reverse finishing order: the player of the lowest card picks first and the trick winner takes what is left. Winning scores a point; losing gets you the best card on offer.",
+     "total": 64.8
+    },
+    {
+     "rank": 24,
+     "title": "Barnacles",
+     "family": "Trick-taking",
+     "hook": "Penalties stick to your hull until you scrape them off with the right suit.",
+     "core_twist": "Barnacle cards are minus two each and stay face-up in front of whoever captures them. Whenever you win a trick with a card of the same suit as one of your barnacles, discard that barnacle. A penalty therefore becomes a visible errand: the table knows which suit you need to win with and will not make it easy.",
+     "total": 64.5
+    },
+    {
+     "rank": 25,
+     "title": "Mosaic Makers",
+     "family": "Trick-taking",
+     "hook": "The card that wins the trick becomes a tile in a floor you all share.",
+     "core_twist": "A shared four-by-four grid starts empty. The trick winner places their winning card in any empty space and scores a point for each neighbouring card of the same suit and each neighbouring card of the same rank. Sixteen tricks fill the floor. The card you win with matters as much as the win.",
+     "total": 64.5
+    },
+    {
+     "rank": 26,
+     "title": "Bingo Night",
+     "family": "Trick-taking",
+     "hook": "Win a trick, dab a number. First line wins.",
+     "core_twist": "Each player has a different three-by-three bingo card of card ranks. When you win a trick, cover one square that matches the rank of any card in it. The first completed line ends the round and scores five; everyone else scores a point per covered square. What the others throw into your trick decides what you can dab.",
+     "total": 64.1
+    },
+    {
+     "rank": 27,
+     "title": "The Tell",
+     "family": "Trick-taking",
+     "hook": "Bid in secret, then point at the player you think is going to miss.",
+     "core_twist": "Everyone sets a hidden dial to an exact number of tricks. After the fourth trick, all players point at once at one opponent they believe will miss their bid. Making your bid scores three; each correct accusation scores one; and a player who makes their bid collects a point from each player who accused them.",
+     "total": 63.8
+    },
+    {
+     "rank": 28,
+     "title": "Full House",
+     "family": "Trick-taking",
+     "hook": "Win tricks to build the best poker hand at the table.",
+     "core_twist": "Captured cards stay face-up in front of you. At the end of the round, pick your best five-card poker hand from them and score by its rank, from one point for a pair up to twelve for a straight flush. Tricks have no other value. Everyone can see which card would complete your flush.",
+     "total": 63.8
+    },
+    {
+     "rank": 29,
+     "title": "Moving the Goalposts",
+     "family": "Trick-taking",
+     "hook": "Everyone is aiming for the same number of tricks, and the number keeps moving.",
+     "core_twist": "A marker on a track from zero to five shows the number of tricks every player is trying to finish on exactly. The 1 and the 10 of each suit are whistle cards: whoever plays one must move the marker up or down a step. Players on the number at the end score five; everyone else scores nothing.",
+     "total": 63.7
+    },
+    {
+     "rank": 30,
+     "title": "Goldilocks",
+     "family": "Trick-taking",
+     "hook": "Too many tricks is too hot, too few is too cold. Only the middle is just right.",
+     "core_twist": "At the end of each round the player with the most tricks and the player with the fewest score nothing; ties at either end all count as that end. Whoever is left in the middle scores their tricks plus two. With three players there is exactly one bowl of porridge.",
+     "total": 63.7
+    },
+    {
+     "rank": 31,
+     "title": "Bounty Hunters",
+     "family": "Trick-taking",
+     "hook": "Three cards have a price on their heads. Capture the trick they appear in.",
+     "core_twist": "Three wanted posters are face-up, each naming one specific card and a reward of two to four points. Winning a trick that contains a wanted card claims its poster, and a new one is drawn. Ordinary tricks score one. Whoever holds a wanted card chooses the moment it surfaces.",
+     "total": 63.5
+    },
+    {
+     "rank": 32,
+     "title": "Minotaur's Maze",
+     "family": "Trick-taking",
+     "hook": "Four suits are four directions, and the winning card steers you out.",
+     "core_twist": "Cooperative. One pawn stands in a five-by-five maze and each suit is a compass direction. After every trick the pawn moves one space in the direction of the winning card's suit. Walking into a wall costs one of three lengths of thread. Reach the exit within ten tricks; the minotaur follows two spaces behind.",
+     "total": 63.4
+    },
+    {
+     "rank": 33,
+     "title": "Ace Up the Sleeve",
+     "family": "Trick-taking",
+     "hook": "Everyone has a secret trump suit, and showing it is a one-way door.",
+     "core_twist": "Before play, each player hides one card from their hand face-down: its suit is their personal trump. Until revealed, that suit is ordinary for them. At any point you may flip the hidden card, return it to your hand and treat the suit as your trump for the rest of the round, now public.",
+     "total": 63.3
+    },
+    {
+     "rank": 34,
+     "title": "Early Bird",
+     "family": "Trick-taking",
+     "hook": "The earlier the winning card was played, the more the trick is worth.",
+     "core_twist": "A trick's value depends on the seat its winning card came from. With four players, a trick won by the leader's own card scores four, by the second card three, by the third two, and by the last card one. Sitting last and mopping up is the cheapest way to win.",
+     "total": 63.0
+    },
+    {
+     "rank": 35,
+     "title": "Rent's Due",
+     "family": "Trick-taking",
+     "hook": "Be first to win with a colour and you own it. After that, everyone who wins with it pays you.",
+     "core_twist": "Every trick pays its winner two coins. The first player to win a trick with a card of a given suit takes that suit's deed. From then on, any other player who wins a trick with that suit hands one of the two coins to the deed holder.",
+     "total": 62.9
+    },
+    {
+     "rank": 36,
+     "title": "Loaded",
+     "family": "Trick-taking",
+     "hook": "Two dice sit in front of you. Each can boost one card, once.",
+     "core_twist": "At the start of the round everyone rolls two dice and leaves them in view. When you play a card you may add the pips of one of your dice to its rank and discard that die. Unused dice score a point each. Everyone can see how far each opponent can still stretch.",
+     "total": 62.3
+    },
+    {
+     "rank": 37,
+     "title": "Weathervane",
+     "family": "Trick-taking",
+     "hook": "Win a trick with trump and the wind changes.",
+     "core_twist": "A vane points at the current trump suit. Each time a trump card wins a trick, the vane turns one step clockwise and the next suit is trump. Using trump to win gives the power to the next suit along, which may be the one your neighbour has been saving.",
+     "total": 61.8
+    },
+    {
+     "rank": 38,
+     "title": "Lone Glove",
+     "family": "Trick-taking",
+     "hook": "One lost glove is a nuisance. The pair is a prize.",
+     "core_twist": "Ten cards in the deck show gloves in five colours, two of each. At the end of the round each matched pair in your captured cards scores three and each single glove costs two. Having been stuck with one glove, you now need to win the trick that holds the other, and everyone knows it.",
+     "total": 61.7
+    },
+    {
+     "rank": 39,
+     "title": "Oracle Bones",
+     "family": "Trick-taking",
+     "hook": "Before a card is played, stake one of yours on which suit will rule the round.",
+     "core_twist": "After the deal each player sets one card aside face-down. Its suit is their prophecy of which suit will win the most tricks this round, and the card is lost from their hand. Tricks score a point each and a correct prophecy scores four. Two players who prophesied the same suit are allies without knowing it.",
+     "total": 61.3
+    },
+    {
+     "rank": 40,
+     "title": "Flavour of the Month",
+     "family": "Trick-taking",
+     "hook": "Whatever number just won is now the best number in every suit.",
+     "core_twist": "A marker on a rank track shows the flavour of the month: the rank of the card that won the previous trick. For the next trick, cards of that rank are the highest in their suits. If a 4 wins, every 4 is supreme for one trick.",
+     "total": 61.0
+    },
+    {
+     "rank": 41,
+     "title": "Photo Finish",
+     "family": "Trick-taking",
+     "hook": "First, second and third all move up the track, but the winner runs the next trick tired.",
+     "core_twist": "After each trick, rank the cards: led suit from high to low, then off-suit cards. First place moves their runner three spaces, second two, third one. The trick winner also takes a fatigue token that makes their next card count two lower. First over the line, or furthest along when the hand ends, wins.",
+     "total": 60.9
+    },
+    {
+     "rank": 42,
+     "title": "Super Sub",
+     "family": "Trick-taking",
+     "hook": "Two cards wait on your bench in plain sight, and you restock it from the tricks you win.",
+     "core_twist": "Each player has a hand of eight and a bench of two face-up cards. On your turn you may play a bench card instead of a hand card, following suit as if the bench were part of your hand. When you win a trick, take one card from it to refill an empty bench space.",
+     "total": 60.8
+    },
+    {
+     "rank": 43,
+     "title": "Stepping Stones",
+     "family": "Trick-taking",
+     "hook": "Cross the river together: every card in the trick must be higher than the last.",
+     "core_twist": "Cooperative. A trick is a clean crossing only if each card played to it is higher in rank than the card before, whatever the suits. Must-follow still applies and the usual winner leads next. The team needs six clean crossings from ten tricks; each broken crossing costs one of three lives.",
+     "total": 60.6
+    },
+    {
+     "rank": 44,
+     "title": "Countdown to Launch",
+     "family": "Trick-taking",
+     "hook": "Add up every winning card. Hit the fuel number exactly or the rocket stays on the pad.",
+     "core_twist": "Cooperative. Each trick's winning card adds its rank to a fuel track. After the last of eight tricks the total must equal the mission card's number exactly, for example forty-two. Nobody may discuss their hand. The last two tricks usually decide it.",
+     "total": 60.4
+    },
+    {
+     "rank": 45,
+     "title": "Slap Happy",
+     "family": "Trick-taking",
+     "hook": "Two matching numbers in the trick? First hand down takes it.",
+     "core_twist": "Whenever two cards of the same rank are on the table in the current trick, anyone may slap the pile. The first slapper wins the trick whatever else is played to it. A slap with no matching pair on the table costs a point. Otherwise, normal must-follow rules decide.",
+     "total": 60.0
+    },
+    {
+     "rank": 46,
+     "title": "Lots & Lots",
+     "family": "Trick-taking",
+     "hook": "Every trick is an auction lot. The winner takes the antique and the loser gets a mystery box.",
+     "core_twist": "Before each trick a lot card is turned face-up: antiques that score in growing sets, or junk at minus one. The trick winner takes the lot. The player of the lowest card must take the next card of the lot deck sight unseen. Nobody keeps the played cards.",
+     "total": 59.9
+    },
+    {
+     "rank": 47,
+     "title": "Simon Says",
+     "family": "Trick-taking",
+     "hook": "The leader says higher or lower, and everyone has to do as they're told.",
+     "core_twist": "With their lead, the leader calls 'higher' or 'lower'. On 'higher', each player who follows suit must beat the highest card so far if they can. On 'lower', each must play under the lowest so far if they can. The highest card of the led suit still wins.",
+     "total": 59.5
+    },
+    {
+     "rank": 48,
+     "title": "Deep Trouble",
+     "family": "Trick-taking",
+     "hook": "The kraken leads every trick. Somebody has to beat it, and never the same sailor twice running.",
+     "core_twist": "Cooperative. The kraken leads each trick with the top card of its own deck and all players must follow. If nobody beats its card the hull takes one of four hits. A beaten card is a severed tentacle, but the sailor who won the last trick is exhausted and cannot win this one. Sever eight of ten.",
+     "total": 59.4
+    },
+    {
+     "rank": 49,
+     "title": "Copycats",
+     "family": "Trick-taking",
+     "hook": "Match the winning card's number in any colour and the trick is yours.",
+     "core_twist": "A card of exactly the same rank as the card currently winning the trick, in any suit, beats it, and you may play such a copy even when you could follow suit. A later, higher card of the led suit beats the copy in turn, and a later copy beats an earlier one.",
+     "total": 59.0
+    },
+    {
+     "rank": 50,
+     "title": "Scrap Heap",
+     "family": "Trick-taking",
+     "hook": "Lose the trick and you take both cards home.",
+     "core_twist": "Two players. The winner of a trick scores a point and leads; the loser picks up both cards and adds them to their hand. A player whose hand runs out wins the round at once, otherwise the first to seven points does. Each win costs you a card and makes your opponent's hand larger and better.",
+     "total": 59.0
+    },
+    {
+     "rank": 51,
+     "title": "New in Town",
+     "family": "Trick-taking",
+     "hook": "The game starts with two suits. Each round another one rides in with a rule of its own.",
+     "core_twist": "The first round uses two suits and short hands. Each later round shuffles in one more suit whose rule is printed on its cards: the sheriffs are trump; in any trick containing an outlaw, the lowest outlaw wins; tricks won by a prospector score two. By the fourth round all five are in play.",
+     "total": 59.0
+    },
+    {
+     "rank": 52,
+     "title": "Mime Troupe",
+     "family": "Trick-taking",
+     "hook": "One of you knows the goal and can't say a word. Work it out from the cards they play.",
+     "core_twist": "Cooperative. Three goal cards are face-up, for example 'no blue card wins a trick', 'the player on the mime's left wins exactly three', 'the last trick is won by a 1'. Only the round's mime knows which one is real. The mime plays normally and says nothing; the team wins if the real goal holds at the end.",
+     "total": 58.7
+    },
+    {
+     "rank": 53,
+     "title": "All In",
+     "family": "Trick-taking",
+     "hook": "After three tricks, fold with what you have or stay in for double.",
+     "core_twist": "After the third trick, each player in turn either folds, discarding their hand and banking one point per trick won, or stays in. Every later trick is worth two points, but the stayer who wins the fewest of those later tricks pays three. A lone stayer collects the remaining tricks unopposed and still pays.",
+     "total": 58.5
+    },
+    {
+     "rank": 54,
+     "title": "Peasants' Revolt",
+     "family": "Trick-taking",
+     "hook": "The round's winner taxes the loser's next hand, unless the loser rises up.",
+     "core_twist": "After the deal, last round's top trick-taker, the Lord, takes the two highest cards from the hand of last round's bottom player, the Serf, and gives back any two. If the Serf then wins more tricks than the Lord, it is a revolt: the Serf scores double and the Lord nothing.",
+     "total": 58.5
+    },
+    {
+     "rank": 55,
+     "title": "Aged to Perfection",
+     "family": "Trick-taking",
+     "hook": "Put a card away in the cellar and it comes back stronger the longer you wait.",
+     "core_twist": "Four rounds of seven tricks from eight cards. At the end of each round, your unplayed card goes into your cellar under that round's marker. At the start of any later round you may take cellared cards back into your hand, each counting two ranks higher for every round it aged.",
+     "total": 58.4
+    },
+    {
+     "rank": 56,
+     "title": "Trending",
+     "family": "Trick-taking",
+     "hook": "Trump is whichever suit the table has played the most of so far.",
+     "core_twist": "A tally track counts the cards played in each suit this round, updated after every trick. The suit with the highest count is trump for the next trick; a tie for highest means no trump. Leading your long suit pushes it toward trump, and everyone can see the count.",
+     "total": 58.3
+    },
+    {
+     "rank": 57,
+     "title": "Snap Judgement",
+     "family": "Trick-taking",
+     "hook": "No leader, no turns: everyone flips at once and the most popular suit decides.",
+     "core_twist": "All players choose a card and reveal together. The suit with the most cards showing is the trick suit, with ties going to the suit with the higher total. The highest card of that suit wins and scores a point per card in the trick.",
+     "total": 57.4
+    },
+    {
+     "rank": 58,
+     "title": "Pick of the Litter",
+     "family": "Trick-taking",
+     "hook": "Nobody is dealt a hand. You choose one, having seen two of its cards.",
+     "core_twist": "One more hand than there are players is dealt face-down, each with two cards turned face-up on top. Starting with the lowest scorer, each player chooses a hand; the spare is removed unseen. Tricks are a point each and the last trick two.",
+     "total": 57.4
+    },
+    {
+     "rank": 59,
+     "title": "Pecking Order",
+     "family": "Trick-taking",
+     "hook": "Win the trick and you play last in the next one.",
+     "core_twist": "Play order is not clockwise. After each trick, the finishing order is reversed to set the next trick's turn order: the player of the lowest card must lead and the winner plays last, having seen everything. Numbered perch tokens show the order. Tricks are a point each.",
+     "total": 57.1
+    },
+    {
+     "rank": 60,
+     "title": "Save Point",
+     "family": "Trick-taking",
+     "hook": "Pay a coin and play your last card over again.",
+     "core_twist": "The cards you play go to your own face-up stack. On your turn, instead of playing from your hand, you may pay one of your three coins to play the top card of your stack a second time. Unspent coins are worth a point each. Your best card can win twice, if it is still on top when you need it.",
+     "total": 57.0
+    },
+    {
+     "rank": 61,
+     "title": "Humble Pie",
+     "family": "Trick-taking",
+     "hook": "The auction goes downward: whoever promises to take the least calls trump.",
+     "core_twist": "Players bid in turn, each bid lower than the last. The lowest bidder names the trump suit and must finish with no more tricks than they bid, scoring eight minus twice the bid; if they take more, they lose that amount instead. Everyone else scores a point per trick, so the table spends the round forcing tricks on the declarer.",
+     "total": 56.9
+    },
+    {
+     "rank": 62,
+     "title": "Round the Table",
+     "family": "Trick-taking",
+     "hook": "Win a trick from every player's lead and collect the set.",
+     "core_twist": "When you win a trick, take a token in the colour of the player who led it. Tricks are a point each, and a full set of tokens, one from every player's lead including your own, scores five more. You need each opponent to lead something you can beat.",
+     "total": 56.5
+    },
+    {
+     "rank": 63,
+     "title": "Rally",
+     "family": "Trick-taking",
+     "hook": "A trick isn't over after two cards. Keep returning until someone can't.",
+     "core_twist": "Two players. The server leads a card, and the players then alternate, each playing a higher card of the same suit or a trump, until one cannot or will not. The last player to play wins the rally and the point. Both draw back up to six cards. Games are scored like tennis.",
+     "total": 56.4
+    },
+    {
+     "rank": 64,
+     "title": "Middle Management",
+     "family": "Trick-taking",
+     "hook": "Don't be the boss, don't be the intern: the middle of the trick takes the credit.",
+     "core_twist": "The highest card of the led suit wins the lead and nothing else. Points go to the middle: with three players the middle-ranked card scores two, with four the two middle cards score one each. Off-suit cards rank below everything. The lowest card scores nothing.",
+     "total": 56.0
+    },
+    {
+     "rank": 65,
+     "title": "Mirror, Mirror",
+     "family": "Trick-taking",
+     "hook": "You both have exactly the same deck. The only difference is when you play it.",
+     "core_twist": "Two players, each with an identical eighteen-card deck. Shuffle your own, hold five, and draw one after each trick. Must-follow; when identical cards meet, the follower wins. Because the decks match, you can know precisely what your opponent has left and the contest is one of timing.",
+     "total": 55.8
+    },
+    {
+     "rank": 66,
+     "title": "Night School",
+     "family": "Trick-taking",
+     "hook": "It starts as the simplest card game there is. After each hand, the winner adds a rule and the loser strikes one.",
+     "core_twist": "The first hand is plain must-follow. After every hand the winner chooses one of two lesson cards to add (a trump suit, exact bids, a penalty suit, second-highest wins) and the player in last place may strike one rule already in play. The rulebook is whatever the table has built by hand ten.",
+     "total": 55.4
+    },
+    {
+     "rank": 67,
+     "title": "Rumour Mill",
+     "family": "Trick-taking",
+     "hook": "Everyone knows one thing about how this round scores. Nobody knows all of it.",
+     "core_twist": "Four rumour cards are dealt face-down each round, one per player and any spare left unseen. Each states one true scoring fact: stars are worth two each, moons are minus one, the last trick is worth five, suns are worthless. You see only your own. Everything is revealed and scored at the end.",
+     "total": 55.2
+    },
+    {
+     "rank": 68,
+     "title": "Search Party",
+     "family": "Trick-taking",
+     "hook": "Every trick you win turns over one patch of forest. Find the lost hiker before dark.",
+     "core_twist": "Cooperative. Nine forest cards lie face-down in a three-by-three grid, one hiding the hiker. The winner of each trick flips the forest card whose column matches the winning card's suit (three suits) and whose row matches its rank band: low, middle or high. Hazards cost one of three flares. Find the hiker within twelve tricks without discussing hands.",
+     "total": 54.6
+    },
+    {
+     "rank": 69,
+     "title": "Sit This One Out",
+     "family": "Trick-taking",
+     "hook": "Pass on a trick and keep your card for later, when fewer people are fighting.",
+     "core_twist": "On your turn you may pass and keep your card; the leader may not. A trick is worth as many points as there are cards in it. Play goes on until every card has been played, so players who passed finish with small tricks among themselves, down to a one-card trick worth a single point.",
+     "total": 54.6
+    },
+    {
+     "rank": 70,
+     "title": "Pet Shop Rules",
+     "family": "Trick-taking",
+     "hook": "Four kinds of pet, and each one wins a trick in its own way.",
+     "core_twist": "Each suit has one power that triggers when a card of it wins a trick. Dogs: the winner chooses who leads next. Cats: the winner steals a point from any player and scores nothing for the trick. Birds: the trick scores two. Rabbits: the trick scores one for each rabbit in it.",
+     "total": 54.5
+    },
+    {
+     "rank": 71,
+     "title": "Rained Off",
+     "family": "Trick-taking",
+     "hook": "A rain card can't win a trick. It just makes sure nobody else does.",
+     "core_twist": "One suit is rain. Rain cards may be played only when you cannot follow suit, or led when you hold nothing else. A trick containing a rain card is rained off: nobody scores it, and the player of the highest rain card leads next. There is no way to trump in, only to wash out.",
+     "total": 54.5
+    },
+    {
+     "rank": 72,
+     "title": "Potion Shelf",
+     "family": "Trick-taking",
+     "hook": "The cards you capture are ingredients. Brew them before the round ends or pour them away.",
+     "core_twist": "Captured cards lie face-up as ingredients. On your turn you may discard a set matching one of four face-up recipes, such as two reds and a 7, to score the recipe and use its single effect: peek at a hand, swap a card with one in the trick, or name trump for the next trick. Unbrewed ingredients are worth nothing.",
+     "total": 54.3
+    },
+    {
+     "rank": 73,
+     "title": "Flea Market Finds",
+     "family": "Trick-taking",
+     "hook": "Pick up a bargain before the round, and live with what it does to your hand.",
+     "core_twist": "After the deal, one more bargain tile than players is laid out and drafted, lowest score first. Each tile changes one rule for its owner and sets a target, such as 'your 1s are your highest cards: win exactly three', or 'you may not lead trump: win two or fewer'. Meeting your tile's target scores four on top of your tricks.",
+     "total": 54.1
+    },
+    {
+     "rank": 74,
+     "title": "Last Word",
+     "family": "Trick-taking",
+     "hook": "Every card carries a letter. Win the tricks that spell something.",
+     "core_twist": "Each card shows a letter beside its suit and rank. Tricks score nothing in themselves. At the end of the round each player makes one word from the letters on the cards they captured and scores a point per letter, doubled for six letters or more.",
+     "total": 54.1
+    },
+    {
+     "rank": 75,
+     "title": "Anchor Leg",
+     "family": "Trick-taking",
+     "hook": "Whoever plays last to the trick runs fastest.",
+     "core_twist": "The final card played to every trick counts three ranks higher than printed. Because the winner leads, the bonus always sits with the player on the winner's right, so each trick you win hands your neighbour the strongest seat in the next.",
+     "total": 54.0
+    },
+    {
+     "rank": 76,
+     "title": "Puppet Strings",
+     "family": "Trick-taking",
+     "hook": "An extra hand lies open on the table, and whoever won last pulls its strings.",
+     "core_twist": "A puppet hand is dealt face-up and has its own seat in the turn order. The winner of each trick plays the puppet's card in the next trick as well as their own. A trick the puppet wins scores for the player controlling it, who also keeps control.",
+     "total": 53.8
+    },
+    {
+     "rank": 77,
+     "title": "Town Hall",
+     "family": "Trick-taking",
+     "hook": "Before every round, the table votes on which rule to pass.",
+     "core_twist": "Two by-law cards are revealed before each round, such as 'nobody may lead trump' or '2s beat aces'. All players vote at once with a thumb token and the majority's by-law is in force for that round; the lowest scorer breaks ties. You vote knowing your hand, and the vote tells the others something about it.",
+     "total": 53.5
+    },
+    {
+     "rank": 78,
+     "title": "Power Cut",
+     "family": "Trick-taking",
+     "hook": "Tricks three and six are played in the dark.",
+     "core_twist": "A fuse track marks the third and sixth tricks of each round as blackouts. In a blackout nobody leads: all players choose a card and reveal together, and the suit of the previous trick's winning card counts as the suit led. Every other trick is normal.",
+     "total": 53.5
+    },
+    {
+     "rank": 79,
+     "title": "Opening Night",
+     "family": "Trick-taking",
+     "hook": "Winning the trick doesn't win you the lead. You have to pay for the spotlight.",
+     "core_twist": "Everyone starts with five coins, which are also points. Before each trick all players bid zero to three coins in a closed fist; the highest bidder pays the bank and leads. The winner of the trick earns two coins from the bank. Leading and winning are separate things, each with a price.",
+     "total": 53.4
+    },
+    {
+     "rank": 80,
+     "title": "Cards on the Table",
+     "family": "Trick-taking",
+     "hook": "Everyone's hand is face-up, apart from two cards each.",
+     "core_twist": "Each player's hand lies face-up on the table for all to see, except two cards they keep hidden in hand. Ordinary must-follow trick-taking with exact bids. Almost everything can be worked out, so the two hidden cards per player carry all the uncertainty.",
+     "total": 53.4
+    },
+    {
+     "rank": 81,
+     "title": "Employee of the Month",
+     "family": "Trick-taking",
+     "hook": "Four awards are up for grabs each round, and tricks are only one way to win them.",
+     "core_twist": "Four award cards are turned up each round from a deck of ten: most tricks, fewest tricks, won the last trick, captured the most green, won the first trick, and so on. Each is worth three points to the one player who earns it; ties win nothing.",
+     "total": 53.4
+    },
+    {
+     "rank": 82,
+     "title": "Guest List",
+     "family": "Trick-taking",
+     "hook": "The leader decides who is invited to the trick.",
+     "core_twist": "The leader names which opponents take part in this trick, at least one; everyone else keeps their card. A trick scores a point per card in it. The round ends when any hand is empty and each card still held costs a point.",
+     "total": 53.3
+    },
+    {
+     "rank": 83,
+     "title": "Battering Ram",
+     "family": "Trick-taking",
+     "hook": "The attacker needs three tricks in a row. The defender just has to keep breaking the run.",
+     "core_twist": "Two players, asymmetric. The attacker names trump and wins the round the moment they take three consecutive tricks. The defender leads first and wins by getting through all thirteen tricks without that happening. Roles swap each round; the first to win as both attacker and defender takes the game.",
+     "total": 53.2
+    },
+    {
+     "rank": 84,
+     "title": "Beat the House",
+     "family": "Trick-taking",
+     "hook": "The deck leads every trick. Beat its card, and each other.",
+     "core_twist": "Each trick is led by flipping the top card of the house deck. Starting with a first seat that rotates, every player must follow suit. The highest card that beats the house card wins it and scores a point. If nobody beats it, the house keeps the trick and the player of the lowest card pays a chip.",
+     "total": 53.2
+    },
+    {
+     "rank": 85,
+     "title": "Training Montage",
+     "family": "Trick-taking",
+     "hook": "Everyone starts with the same twelve cards. What you do between rounds makes the difference.",
+     "core_twist": "Each player has an identical twelve-card deck, which is their whole hand each round. After each of three rounds, players buy one upgrade from a market in order of fewest tricks, replacing a card in their deck with a stronger one or one with a move, such as 'wins ties' or 'counts as any suit'.",
+     "total": 53.0
+    },
+    {
+     "rank": 86,
+     "title": "After You",
+     "family": "Trick-taking",
+     "hook": "Spend a courtesy and insist that everyone else plays first.",
+     "core_twist": "Each player has two courtesy tokens. On your turn you may spend one to defer and play your card after everyone else in this trick; if several players defer, the latest to do so plays last. Unspent tokens are worth a point each.",
+     "total": 53.0
+    },
+    {
+     "rank": 87,
+     "title": "Cavalry's Coming",
+     "family": "Trick-taking",
+     "hook": "Every trick you lose brings up another reinforcement.",
+     "core_twist": "Two players. Each has a hand of eight and four face-down reserve cards. Whenever you lose a trick, turn one of your reserves face-up; face-up reserves may be played as if they were in your hand. Twelve tricks at a point each. Losing early buys options and gives your opponent a look at them.",
+     "total": 52.5
+    },
+    {
+     "rank": 88,
+     "title": "Sold!",
+     "family": "Trick-taking",
+     "hook": "Win the trick, then sell it to whoever wants it most.",
+     "core_twist": "Each player has a public collector card that doubles the value of one suit for them alone. After winning a trick, the winner may offer it for sale: each other player makes one open bid in points, and the winner may sell to the highest bidder or keep it.",
+     "total": 52.3
+    },
+    {
+     "rank": 89,
+     "title": "Merry-Go-Round",
+     "family": "Trick-taking",
+     "hook": "The winning card's number spins the carousel, and the winner gets wherever it stops.",
+     "core_twist": "Eight carousel spaces form a ring, each with an effect: gain two, lose one, choose trump, swap a card with the deck, take the lead from the winner. After each trick the pointer advances by the rank of the winning card and the winner takes that space's effect. Everyone can count ahead to see which rank lands where.",
+     "total": 51.4
+    },
+    {
+     "rank": 90,
+     "title": "Mix It Up",
+     "family": "Trick-taking",
+     "hook": "Orange follows red and it follows yellow.",
+     "core_twist": "The deck has three primary suits and three secondary suits. A secondary card belongs to both of its parent colours: it may follow either, and when it is led, players may follow with either parent or the same secondary. The highest card that legally followed wins.",
+     "total": 51.2
+    },
+    {
+     "rank": 91,
+     "title": "Short Fuse",
+     "family": "Trick-taking",
+     "hook": "A one-minute timer runs on whoever holds the lead.",
+     "core_twist": "A sixty-second sand timer is turned over only when the lead changes hands. If the sand runs out, the player holding the lead loses two points and the timer restarts. Every card must be played within a count of three. Winning several tricks in a row lets the fuse burn down on you.",
+     "total": 49.8
+    },
+    {
+     "rank": 92,
+     "title": "Hired Hands",
+     "family": "Trick-taking",
+     "hook": "Win the bid, then make an offer: who will work for you, and for how much?",
+     "core_twist": "The highest bidder names trump and a number of tricks, then openly offers a wage out of the contract's value. Opponents in turn may accept; the first to accept becomes the declarer's partner and their tricks count toward the contract. If nobody accepts, the declarer plays alone for double.",
+     "total": 49.7
+    },
+    {
+     "rank": 93,
+     "title": "Even Stevens",
+     "family": "Trick-taking",
+     "hook": "Add up the trick. Odd, the highest card wins. Even, the lowest.",
+     "core_twist": "When a trick is complete, add the ranks of every card in it. If the total is odd, the highest card of the led suit wins; if it is even, the lowest card of the led suit wins. The last player to the trick usually decides which.",
+     "total": 49.7
+    },
+    {
+     "rank": 94,
+     "title": "Fair Deal",
+     "family": "Trick-taking",
+     "hook": "Nobody can blame the cards: every player plays every hand.",
+     "core_twist": "Cards are played in front of their owner instead of into the middle, so each hand stays intact. After each round, every hand passes one seat left and is played again. With as many rounds as players, everyone plays each hand once, and each hand awards three points to whoever took the most tricks with it.",
+     "total": 49.5
+    },
+    {
+     "rank": 95,
+     "title": "Running Tab",
+     "family": "Trick-taking",
+     "hook": "Change your bid whenever you like, as long as you pay for it.",
+     "core_twist": "Each player marks an exact bid on a personal track and holds five chips. After any trick you may pay one chip into the pot to slide your marker one step. At the end of the round, players exactly on their bid score three and split the pot; chips you still hold are worth a point each.",
+     "total": 49.3
+    },
+    {
+     "rank": 96,
+     "title": "Stage Fright",
+     "family": "Trick-taking",
+     "hook": "Every part in the play has a job, and the parts keep changing hands.",
+     "core_twist": "Cooperative. Role cards carry goals: the Lead needs three tricks or more, the Understudy exactly one, the Prompter none, the Villain the last trick. Tricks are tucked under the role that won them. Whenever a player wins a trick they swap role cards with the player of the lowest card, so tricks stay with roles while the players move between them.",
+     "total": 48.5
+    },
+    {
+     "rank": 97,
+     "title": "Tag Team",
+     "family": "Trick-taking",
+     "hook": "Tag out and your partner plays two cards for the team.",
+     "core_twist": "Four players in fixed pairs. Once per round each player may tag out on their turn instead of playing. Their partner must then play two cards to that trick, and the better one counts for the team. The player who tagged holds a spare card and plays the final trick without their partner.",
+     "total": 47.7
+    },
+    {
+     "rank": 98,
+     "title": "Frostbite",
+     "family": "Trick-taking",
+     "hook": "Play the lowest card and the cold takes another from your hand.",
+     "core_twist": "After each trick, the player of the lowest card of the led suit must freeze one card from their hand, placing it face-down and out of the round. Hands shrink unevenly, and a player with no cards left sits out the remaining tricks. Tricks are a point each, so the choice is which cards you can afford to lose with.",
+     "total": 47.0
+    },
+    {
+     "rank": 99,
+     "title": "Four Hands",
+     "family": "Trick-taking",
+     "hook": "Two players, four hands: your left hand and your right hand are partners.",
+     "core_twist": "Two players. Each holds a left hand and a right hand of seven cards on separate racks and may never move a card between them. Tricks are four cards, played in the order my left, your left, my right, your right, and the winning hand leads next. You are your own partner, and you know both halves.",
+     "total": 46.3
+    },
+    {
+     "rank": 100,
+     "title": "Home and Away",
+     "family": "Trick-taking",
+     "hook": "You own a suit. Win at home for one point, on someone else's ground for two.",
+     "core_twist": "Each player is assigned a home suit. When your home suit is led, your cards of it count two ranks higher. A trick you win with a card of your own suit scores one; a trick you win with a card of another player's home suit scores two.",
+     "total": 45.8
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "sources": [
+    {
+     "id": 324711,
+     "name": "Schadenfreude",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 470482,
+     "name": "Apocalypse",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 458770,
+     "name": "Minikin City",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 448428,
+     "name": "Moustache",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 454829,
+     "name": "Potemkin Villages",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 429293,
+     "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 472329,
+     "name": "Last Lemming",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 451772,
+     "name": "Shards of Creation",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468836,
+     "name": "Oshaka Trick",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 468799,
+     "name": "Fishing 2",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 467997,
+     "name": "Can't Win",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 456965,
+     "name": "Trick to the Future",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 420932,
+     "name": "Trick Stakes",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 443074,
+     "name": "Zombie Princess",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 474696,
+     "name": "Matchmakers",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 446492,
+     "name": "Tax the Rich",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 445476,
+     "name": "Off With Their Heads!",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 381249,
+     "name": "Rebel Princess",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 467955,
+     "name": "All Mine!",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 191071,
+     "name": "Mythical Dice",
+     "family": "Trick-taking"
+    }
+   ],
+   "variants": [
+    {
+     "rank": 1,
+     "title": "Don't Feed the Bear",
+     "family": "Trick-taking",
+     "hook": "A bear sits at the table and plays its best card every time. If it wins the most tricks, nobody wins.",
+     "core_twist": "A bear hand lies face-up and plays automatically in turn: always its highest legal card. Players score a point per trick as usual, but if the bear ends the round with the most tricks, nobody scores. Stopping the bear costs good cards, and everyone would rather someone else paid.",
+     "total": 75.2
+    },
+    {
+     "rank": 2,
+     "title": "Piggy Bank",
+     "family": "Trick-taking",
+     "hook": "The tricks you win aren't safe until you lose one on purpose.",
+     "core_twist": "Tricks you win sit unbanked in front of you. Whenever you play the lowest card of the led suit in a trick, you bank everything you have unbanked. If you win the final trick of the round, all your unbanked tricks are lost. You have to choose when to stop winning.",
+     "total": 72.2
+    },
+    {
+     "rank": 3,
+     "title": "Herding Cats",
+     "family": "Trick-taking",
+     "hook": "Every trick nudges the cat one step. Everyone wants it in a different basket.",
+     "core_twist": "A cat token starts in the centre of a cross-shaped board whose four arms match the four suits. After each trick the cat moves one step along the arm of the winning card's suit. Each player holds a secret basket card naming an arm. When the cat reaches the end of an arm the round stops and anyone with that basket scores five; tricks score one each.",
+     "total": 72.0
+    },
+    {
+     "rank": 4,
+     "title": "Last Orders",
+     "family": "Trick-taking",
+     "hook": "Ring the bell and the next trick is the last. Just don't win it.",
+     "core_twist": "Tricks score a point each. Any player who has just won a trick may ring the bell before leading: the trick they now lead is the final one of the round, and whoever wins it loses three points. Unplayed cards are thrown in. The bell-ringer has to lead something they are sure to lose.",
+     "total": 71.2
+    },
+    {
+     "rank": 5,
+     "title": "Crescendo",
+     "family": "Trick-taking",
+     "hook": "The first trick is worth one, the second two, the seventh seven. Then the conductor drops the baton.",
+     "core_twist": "A round has eight tricks. The first is worth one point, the second two, and so on up to seven for the seventh. The eighth and last trick is worth nothing. You want your best cards late, but not last, and so does everyone else.",
+     "total": 70.5
+    },
+    {
+     "rank": 6,
+     "title": "Loser Buys the Round",
+     "family": "Trick-taking",
+     "hook": "Everybody collects penalties. Only the one with the most pays for them.",
+     "core_twist": "Tricks score a point each. Penalty cards are counted at the end of the round, and only the player holding the most of them loses points, one per card. Everyone else's penalties are forgiven. If players tie for most, they all pay.",
+     "total": 69.8
+    },
+    {
+     "rank": 7,
+     "title": "Spinning Plates",
+     "family": "Trick-taking",
+     "hook": "Three plates are wobbling. Every trick saves one and lets the others slip.",
+     "core_twist": "Cooperative. Three of the four suits each have a plate on a track starting at four. After every trick each plate drops one step, except the plate of the winning card's suit, which goes back to four. A plate at zero smashes and the team loses. The fourth suit is trump and saves nothing. Survive ten tricks.",
+     "total": 69.6
+    },
+    {
+     "rank": 8,
+     "title": "Own Goal",
+     "family": "Trick-taking",
+     "hook": "Win a trick you led yourself and it counts against you.",
+     "core_twist": "A trick you win when following scores a point. A trick you win with the card you led costs you a point. The lead becomes something to get rid of, and a leader's best card is one that somebody will be forced to beat.",
+     "total": 68.0
+    },
+    {
+     "rank": 9,
+     "title": "Slips and Ladders",
+     "family": "Trick-taking",
+     "hook": "The card you win with is the number you move, so pick the one that lands on a ladder.",
+     "core_twist": "Each player has a pawn on a forty-space board of ladders and slides. Cards run from one to six in four suits. The trick winner moves forward exactly the rank of their winning card and then follows any ladder or slide they land on. Nobody else moves.",
+     "total": 67.6
+    },
+    {
+     "rank": 10,
+     "title": "Head Above Water",
+     "family": "Trick-taking",
+     "hook": "The tide rises one step each trick. Play anything below it and you go under.",
+     "core_twist": "Cooperative. A tide marker starts at one and rises by one after every trick. Any card played with a rank below the tide costs the team one of three lifebelts. Low cards must be used early, while the lead and the need to follow suit conspire to keep them in hand.",
+     "total": 66.9
+    },
+    {
+     "rank": 11,
+     "title": "Sealed Lead",
+     "family": "Trick-taking",
+     "hook": "Everyone can see what suit was led. Nobody knows how high until the trick is over.",
+     "core_twist": "Card backs show their suit. The leader plays face-down, so the suit to follow is known but the rank is hidden. Everyone else plays face-up, and then the lead is turned over. A mighty-looking response may have been spent on a 2.",
+     "total": 66.8
+    },
+    {
+     "rank": 12,
+     "title": "Fine by Me",
+     "family": "Trick-taking",
+     "hook": "You may break suit any time you like. It costs a chip, and the trick winner collects.",
+     "core_twist": "Everyone starts with five chips, worth a point each. You may play off-suit even when you could follow, by putting a chip on the trick; the trick's winner takes all chips on it. A player with no chips must follow suit.",
+     "total": 66.8
+    },
+    {
+     "rank": 13,
+     "title": "Lucky Coin",
+     "family": "Trick-taking",
+     "hook": "One coin on the table adds five to a card. Win with it and you have to hand it over.",
+     "core_twist": "There is a single coin. Its holder may place it on any card they play to add five to its rank. If that card wins the trick, the coin passes to the player who played the lowest card; if it loses, the holder keeps the coin. Everyone can see who has it.",
+     "total": 66.7
+    },
+    {
+     "rank": 14,
+     "title": "Food Chain",
+     "family": "Trick-taking",
+     "hook": "Sharks beat seals, seals beat fish, fish beat plankton. Until the shark wins and sinks to the bottom.",
+     "core_twist": "The four suits sit in a ranked column and any card of a higher suit beats any card of a lower one, though you must still follow the suit led. Whenever a suit wins a trick, its tile drops to the bottom of the column and the others move up. The strongest suit is always the one that has waited longest.",
+     "total": 66.5
+    },
+    {
+     "rank": 15,
+     "title": "Moving Day",
+     "family": "Trick-taking",
+     "hook": "Load the van together: each of you must win with smaller and smaller cards.",
+     "core_twist": "Cooperative. Each player keeps the cards they win tricks with in their own stack. Every winning card you add must be lower than the one on top of your stack; if it is not, a box is broken. The team needs the number of tricks on the job card with no more than two breakages, and nobody may discuss their hand.",
+     "total": 66.2
+    },
+    {
+     "rank": 16,
+     "title": "Do-Over",
+     "family": "Trick-taking",
+     "hook": "Once a round, shout 'do-over': everyone takes their card back and the trick starts again.",
+     "core_twist": "Each player has one do-over token per round. After a trick is complete but before it is collected, any player may spend theirs: all cards return to their owners' hands and the trick is replayed with the caller leading. Everyone has now seen one card from every hand.",
+     "total": 65.2
+    },
+    {
+     "rank": 17,
+     "title": "Leapfrog",
+     "family": "Trick-taking",
+     "hook": "Win a trick and your frog hops forward, right over anyone in the way.",
+     "core_twist": "Each player has a frog on a single line of lily pads. The trick winner's frog hops one pad forward, and if that pad is occupied it leaps on to the next empty one, clearing a whole queue in a single jump. The player of the lowest card slides back one pad. First to the pond wins.",
+     "total": 65.1
+    },
+    {
+     "rank": 18,
+     "title": "Hard Pass",
+     "family": "Trick-taking",
+     "hook": "You won the trick. Do you actually want it?",
+     "core_twist": "Cards carry plus and minus values. The trick winner may decline the trick, in which case it is offered to the next-highest card of the led suit, and so on down. The last player in line cannot refuse. Whoever takes the trick leads the next one.",
+     "total": 64.5
+    },
+    {
+     "rank": 19,
+     "title": "Reinvest",
+     "family": "Trick-taking",
+     "hook": "Spend a trick you've already won to make the card you're playing a trump.",
+     "core_twist": "There is no trump suit. When you play a card, you may turn one of your captured tricks face-down to make that card a trump for this trick. A spent trick no longer scores. Two trumps in one trick are ranked by their printed numbers.",
+     "total": 64.1
+    },
+    {
+     "rank": 20,
+     "title": "Soapbox Derby",
+     "family": "Trick-taking",
+     "hook": "Every trick you win makes your cart faster. The finish line is short and there's a wall behind it.",
+     "core_twist": "Each player has a cart on a hill and a speed dial starting at one. After every trick all carts roll forward by their speed. The trick winner then adds one to their speed and the player of the lowest card takes one off. A cart that stops inside the three-space finish zone scores by order of arrival; a cart that rolls past it has crashed and scores nothing.",
+     "total": 63.9
+    },
+    {
+     "rank": 21,
+     "title": "What's My Number?",
+     "family": "Trick-taking",
+     "hook": "Everyone can see how many tricks you need to win, except you.",
+     "core_twist": "Cooperative. Each player's target for the round is chosen by the player on their left and placed in a stand facing outward, so you see every target but your own. The team wins if all players finish exactly on their targets. Nobody may speak about numbers; you work out your own from how the others play around you.",
+     "total": 63.7
+    },
+    {
+     "rank": 22,
+     "title": "Podium",
+     "family": "Trick-taking",
+     "hook": "Don't bid how many tricks. Bid where you'll finish, and nobody else can take your step.",
+     "core_twist": "Starting with the lowest scorer, each player puts their token on one step of a podium to predict their place in this round's trick count: first, second, third or last. Each step holds one token. Finishing exactly where you stood scores four; tied places count for the lower step.",
+     "total": 63.5
+    },
+    {
+     "rank": 23,
+     "title": "Gentlemen's Agreement",
+     "family": "Trick-taking",
+     "hook": "Agree out loud how to split the tricks. Then see who keeps their word.",
+     "core_twist": "Before play, the table negotiates openly how the round's tricks will be divided, with the shares adding up to the total. Each player's agreed share is their target. Finishing on your target scores three plus your tricks; missing it scores nothing. Everyone can succeed together, and one player breaking the deal sinks someone else.",
+     "total": 63.5
+    },
+    {
+     "rank": 24,
+     "title": "Good Fences",
+     "family": "Trick-taking",
+     "hook": "You share one score pile with the player on your left and another with the player on your right.",
+     "core_twist": "A shared pile sits between each pair of neighbours. When you win a trick you add it to the pile on your left or your right. At the end you score the smaller of your two piles. You need both neighbours to prosper, and they each have another neighbour to think about.",
+     "total": 63.3
+    },
+    {
+     "rank": 25,
+     "title": "Three at a Time",
+     "family": "Trick-taking",
+     "hook": "Forget bidding the whole hand. Just call the next three tricks.",
+     "core_twist": "Nine tricks are played in three sets of three. Before each set, all players show zero to three fingers at once: the number of the next three tricks they will win. An exact call scores two. You bid three times a round with more known each time.",
+     "total": 63.2
+    },
+    {
+     "rank": 26,
+     "title": "Checkout",
+     "family": "Trick-taking",
+     "hook": "Count down from fifty-one with your winning cards and finish on exactly zero.",
+     "core_twist": "Every player starts on fifty-one. When you win a trick, subtract the rank of your winning card from your score. The first player to land on exactly zero wins. A winning card that would take you below zero is a bust: your score does not change and you lose the lead to the player on your left.",
+     "total": 62.9
+    },
+    {
+     "rank": 27,
+     "title": "Daisy Chain",
+     "family": "Trick-taking",
+     "hook": "Each winning card has to match the last one, by colour or by number.",
+     "core_twist": "The card that wins each trick is added to a chain in the middle of the table. It must share a suit or a rank with the previous winning card. A player who wins a trick with a card that matches neither breaks the chain and takes a thorn worth minus two. Tricks score one each.",
+     "total": 62.0
+    },
+    {
+     "rank": 28,
+     "title": "Close but No Cigar",
+     "family": "Trick-taking",
+     "hook": "The winner takes the lead. The runner-up takes the cards.",
+     "core_twist": "The highest card of the led suit wins the lead and nothing else. The second-highest card of the led suit must take the trick's cards, and each smoke card among them is minus one. If only one card of the led suit was played, its owner takes the cards. You want to win outright or lose badly.",
+     "total": 61.8
+    },
+    {
+     "rank": 29,
+     "title": "Mouse and Elephant",
+     "family": "Trick-taking",
+     "hook": "The elephant beats everything except the mouse.",
+     "core_twist": "In each suit the highest card is the elephant and the lowest is the mouse. Normal ranking applies with one exception: if the mouse and the elephant of the same suit are in the same trick, the mouse wins it and the trick scores three instead of one.",
+     "total": 61.7
+    },
+    {
+     "rank": 30,
+     "title": "Slipstream",
+     "family": "Trick-taking",
+     "hook": "Tuck in one rank behind the winner and share the trick.",
+     "core_twist": "If a card in the trick is exactly one rank below the winning card and of the same suit, its player also scores the trick. Both get the point; the winner still leads. Holding the card just under an opponent's ace is as good as holding the ace.",
+     "total": 61.7
+    },
+    {
+     "rank": 31,
+     "title": "Villain of the Week",
+     "family": "Trick-taking",
+     "hook": "Each round one of you is the villain, with a nasty power and everyone else against you.",
+     "core_twist": "The villain role passes round the table. The villain draws a power card, such as 'your 1s are trumps' or 'you play last to every trick', and scores two per trick. The heroes score one per trick, and if the villain ends with fewer tricks than every hero, each hero scores two more.",
+     "total": 61.5
+    },
+    {
+     "rank": 32,
+     "title": "Party Pooper",
+     "family": "Trick-taking",
+     "hook": "If everyone follows suit, high card wins. One off-suit card and it's the lowest.",
+     "core_twist": "When every player follows suit, the highest card wins as usual. If anyone plays off-suit, the trick flips: the lowest card of the led suit wins. No trumps. A player who is out of a suit decides who wins tricks in it without ever winning one.",
+     "total": 60.8
+    },
+    {
+     "rank": 33,
+     "title": "Take a Number",
+     "family": "Trick-taking",
+     "hook": "Every bid can be made once. If someone has taken your number, pick another.",
+     "core_twist": "Six tickets numbered zero to five lie on the table. In turn from the dealer's left, each player takes one ticket, which is their exact bid for the round. No number can be taken twice. Making your ticket scores its number plus three.",
+     "total": 60.6
+    },
+    {
+     "rank": 34,
+     "title": "Best and Worst",
+     "family": "Trick-taking",
+     "hook": "Name your best card and your worst card before you start. Then prove it.",
+     "core_twist": "After the deal, each player places one card face-down under a Best token and one under a Worst token. They stay in your hand to be played when you choose. The Best card scores three if it wins the trick it is played to, and the Worst scores three if it is the lowest card in its trick. Tricks are a point each.",
+     "total": 60.5
+    },
+    {
+     "rank": 35,
+     "title": "Three Wishes",
+     "family": "Trick-taking",
+     "hook": "Everyone gets the same three wishes. Each works once all game.",
+     "core_twist": "Each player has three wish tokens for the whole game. Undo: after everyone has played, take your card back and play a different legal one. Crown: your card is the highest of its suit this trick. Swap: exchange a card in your hand with the top card of the deck. A spent wish is gone for good.",
+     "total": 60.5
+    },
+    {
+     "rank": 36,
+     "title": "Ballot Box",
+     "family": "Trick-taking",
+     "hook": "Everyone votes for trump with a card from their hand. The card is gone either way.",
+     "core_twist": "Before play, each player puts one card face-down in the ballot box. The votes are revealed together and the suit with the most votes is trump; a tie means no trump this round. The voting cards are out of the round, so backing your long suit costs you a card from it.",
+     "total": 60.5
+    },
+    {
+     "rank": 37,
+     "title": "Cruising Altitude",
+     "family": "Trick-taking",
+     "hook": "Win and you climb, lose badly and you sink. You only score while you're level in the clouds.",
+     "core_twist": "Each player has an altitude marker from zero to five. Winning a trick raises it by one and playing the lowest card of the led suit lowers it by one. After every trick, each player whose marker is on two or three scores a point. Too many wins take you out of the scoring band just as surely as too few.",
+     "total": 60.3
+    },
+    {
+     "rank": 38,
+     "title": "Pass the Buck",
+     "family": "Trick-taking",
+     "hook": "Stuck with a penalty? Slip it into the next trick you lose.",
+     "core_twist": "Penalty cards you capture lie face-up in front of you. Whenever you fail to win a trick, you may add one of your penalty cards to it before the winner collects. Penalties keep moving round the table, and the place to be at the end is the player who lost the last few tricks.",
+     "total": 60.2
+    },
+    {
+     "rank": 39,
+     "title": "Hot Goods",
+     "family": "Trick-taking",
+     "hook": "Someone is holding the stolen diamond. Catch them before they've kept it for six tricks.",
+     "core_twist": "One card in the deck is the diamond. If its holder still has it in hand after the sixth trick, they reveal it and score five. Before that, any player who wins a trick may accuse one opponent: if that player holds the diamond they must show it and lose three, and a wrong accusation costs the accuser one.",
+     "total": 60.2
+    },
+    {
+     "rank": 40,
+     "title": "Pay It Forward",
+     "family": "Trick-taking",
+     "hook": "Win a trick and give one of its cards away. Gifts are worth more than what you keep.",
+     "core_twist": "The trick winner keeps the trick but must give one card from it to another player as a gift. At the end, each card you kept scores one, each gift you gave scores one for you, and each gift you received scores two. You may not give to the same player twice running.",
+     "total": 60.2
+    },
+    {
+     "rank": 41,
+     "title": "Pinky Promise",
+     "family": "Trick-taking",
+     "hook": "You and each neighbour secretly agree which of you will win more. If you both say the same and it happens, you both score.",
+     "core_twist": "Each pair of neighbours shares a promise. Before play, both secretly choose which of the two will take more tricks, and the choices are revealed at the end. If they chose the same player and were right, both score two. Every player is in two promises, one on each side.",
+     "total": 60.0
+    },
+    {
+     "rank": 42,
+     "title": "X Marks the Spot",
+     "family": "Trick-taking",
+     "hook": "Win a trick and peek under one treasure tile. Take it, or put it back and remember.",
+     "core_twist": "Twelve face-down tiles are worth from minus two to plus four. The trick winner secretly looks at one tile and either keeps it or returns it to its place. The player of the lowest card may swap the positions of any two tiles without looking. What you remember, and what someone has just moved, decides what the next trick is worth.",
+     "total": 59.6
+    },
+    {
+     "rank": 43,
+     "title": "Queue Jumpers",
+     "family": "Trick-taking",
+     "hook": "Tricks don't score. Your place in the queue does.",
+     "core_twist": "Pawns stand in a queue in random order. After each trick, the winner swaps places with the pawn directly ahead and the player of the lowest card swaps with the pawn directly behind. When the hand ends the front of the queue scores four, then three, two and one.",
+     "total": 59.5
+    },
+    {
+     "rank": 44,
+     "title": "Trick or Lead",
+     "family": "Trick-taking",
+     "hook": "Win the trick and choose: keep the point, or keep the lead. Your opponent gets the other.",
+     "core_twist": "Two players. The winner of each trick chooses one of two things: score the trick, or lead the next one. Whichever they leave goes to the loser. Thirteen tricks, with a trump suit. Points and control never go to the same player twice in a row unless you allow it.",
+     "total": 59.5
+    },
+    {
+     "rank": 45,
+     "title": "One Trick Pony",
+     "family": "Trick-taking",
+     "hook": "Three cards, one round of betting, one trick. Winner takes the pot.",
+     "core_twist": "Each hand is a single trick. Players are dealt three cards and ante a chip. The dealer leads face-up. In turn, each other player folds or adds a chip to stay in; those who stay then play one card each, following suit if they can. The highest card of the led suit takes the pot.",
+     "total": 59.5
+    },
+    {
+     "rank": 46,
+     "title": "Shield Wall",
+     "family": "Trick-taking",
+     "hook": "Each invader has a number. Together, in one suit, you have to match it.",
+     "core_twist": "Cooperative. An invader card with a strength is turned up for each trick. The leader picks the suit, and the invader is beaten only if the ranks of all cards played in the led suit add up to its strength or more; off-suit cards add nothing. As suits run dry, the wall thins. Three breaches lose.",
+     "total": 59.4
+    },
+    {
+     "rank": 47,
+     "title": "Paint by Numbers",
+     "family": "Trick-taking",
+     "hook": "Every card you play colours in a piece of your picture, and the trick winner colours two.",
+     "core_twist": "Each player has a picture sheet divided into regions marked with a colour and a number. After every trick, each player may colour one region matching the suit and rank of the card they just played, and the trick winner may colour a second matching any card in the trick. Finished objects in the picture score.",
+     "total": 59.1
+    },
+    {
+     "rank": 48,
+     "title": "Light and Heavy",
+     "family": "Trick-taking",
+     "hook": "The card backs tell everyone whether a card is high or low, but not its suit.",
+     "core_twist": "Cards ranked one to five have a light back and cards ranked six to ten a dark back. Everyone can see how many strong cards each player still holds, but no suits. Play is ordinary must-follow with exact bids, made in full view of each other's weight.",
+     "total": 58.9
+    },
+    {
+     "rank": 49,
+     "title": "Bumper Cars",
+     "family": "Trick-taking",
+     "hook": "The more people who follow suit, the further the winner drives, and anyone in the way gets shunted.",
+     "core_twist": "Cars circle a twelve-space track. The trick winner drives forward one space for every card of the led suit in the trick. A car that lands on an occupied space bumps the other car back two spaces. Each completed lap is worth three points.",
+     "total": 58.7
+    },
+    {
+     "rank": 50,
+     "title": "First Past the Post",
+     "family": "Trick-taking",
+     "hook": "Five public races. Each is won by whoever does it first.",
+     "core_twist": "Five race cards are laid out: first to win tricks with three different suits, first to win with a 1, first to win two tricks in a row, first to win a trick without trump being played, first to lose three tricks running. Each scores three for the first player to do it. Tricks themselves score nothing.",
+     "total": 58.5
+    },
+    {
+     "rank": 51,
+     "title": "Top of the Heap",
+     "family": "Trick-taking",
+     "hook": "Win a trick and climb. Whoever was standing there goes down.",
+     "core_twist": "A hill has five levels with room for one climber on each above the base. The trick winner climbs one level. If someone is already there, that player is knocked down a level, and knocks down anyone below them in turn. At the end of the hand you score the level you stand on.",
+     "total": 58.4
+    },
+    {
+     "rank": 52,
+     "title": "Over the Fence",
+     "family": "Trick-taking",
+     "hook": "A card sits on the fence between you and each neighbour. Either of you can play it.",
+     "core_twist": "One face-up card lies between each pair of neighbours. On your turn you may play a fence card from your left or your right instead of a card from your hand, following suit as if it were yours. A used fence card is replaced from the deck after the trick.",
+     "total": 58.3
+    },
+    {
+     "rank": 53,
+     "title": "Dance Card",
+     "family": "Trick-taking",
+     "hook": "Before the music starts, book a partner for particular tricks.",
+     "core_twist": "A round has eight numbered tricks. Before play, players pencil in partners: any two may agree to dance a specific trick together, and each player may book up to three. In a booked trick, if either partner wins, both score a point. Unbooked tricks score for the winner alone.",
+     "total": 58.3
+    },
+    {
+     "rank": 54,
+     "title": "Going Up?",
+     "family": "Trick-taking",
+     "hook": "One lift, nine floors. An odd card sends it up, an even card sends it down.",
+     "core_twist": "A lift marker starts on the fifth of nine floors. After each trick it moves up one floor if the winning card is odd and down one if it is even. Each player holds a secret floor ticket. If the lift is on your floor at the end of a trick you may show the ticket, score four and draw a new one. Tricks have no other value.",
+     "total": 57.7
+    },
+    {
+     "rank": 55,
+     "title": "Pass It Round",
+     "family": "Trick-taking",
+     "hook": "After every single trick, everyone passes a card to the left.",
+     "core_twist": "When a trick is finished, each player passes one card from their hand to the player on their left before the next lead. Hands never settle, you always know one card your neighbour holds, and you are always holding one your other neighbour wanted rid of.",
+     "total": 57.5
+    },
+    {
+     "rank": 56,
+     "title": "Bumper Crop",
+     "family": "Trick-taking",
+     "hook": "The crop everyone grows is worthless. The one nobody grows is gold.",
+     "core_twist": "A tally board counts how many tricks each suit wins. At the end of the round, tricks won by the suit that won the most are worth nothing, tricks won by the suit that won the fewest (but at least one) are worth three each, and all others one. You are steering the market and your own harvest at once.",
+     "total": 57.4
+    },
+    {
+     "rank": 57,
+     "title": "Silent Running",
+     "family": "Trick-taking",
+     "hook": "Hide one of your own cards as your submarine. Every winning card is a depth charge.",
+     "core_twist": "Before play each player sets aside one card from their hand face-down: its suit and rank are where their submarine is hiding. Each trick's winning card is a depth charge that hits any submarine of the same suit within one rank. A hit player says so and loses three points. Tricks score one each.",
+     "total": 57.4
+    },
+    {
+     "rank": 58,
+     "title": "Form Guide",
+     "family": "Trick-taking",
+     "hook": "Tip the player who'll win the most tricks and the one who'll win the fewest. Neither can be you.",
+     "core_twist": "After looking at their own hand, each player secretly sets two tip tokens: which opponent will take the most tricks this round and which the fewest. Each correct tip scores two and tricks score one each. You know your own hand's strength and nothing else, and your play can push the result.",
+     "total": 57.3
+    },
+    {
+     "rank": 59,
+     "title": "Fair Shares",
+     "family": "Trick-taking",
+     "hook": "The winner splits the trick into two piles. The loser chooses first.",
+     "core_twist": "Cards carry point values, some negative. The trick winner divides the cards of the trick into two piles of any size. The player who played the lowest card picks one pile and the winner keeps the other.",
+     "total": 57.2
+    },
+    {
+     "rank": 60,
+     "title": "On a Budget",
+     "family": "Trick-taking",
+     "hook": "Every card costs its own number to play, and you have forty to spend.",
+     "core_twist": "Each player has a budget dial set to forty. Playing a card costs its rank. Eight tricks are played from a hand of ten. Once you cannot afford a card you must play it face-down as a zero that cannot win. A hand of high cards is expensive to run.",
+     "total": 56.8
+    },
+    {
+     "rank": 61,
+     "title": "Opposite Day",
+     "family": "Trick-taking",
+     "hook": "Whoever is losing decides whether tricks are good or bad this round.",
+     "core_twist": "After the deal, the player in last place looks at their hand and declares the round: tricks are worth a point each, or tricks cost a point each. Everyone else has to play the hand they were dealt under a rule chosen to suit somebody else's.",
+     "total": 56.7
+    },
+    {
+     "rank": 62,
+     "title": "Cover Charge",
+     "family": "Trick-taking",
+     "hook": "It costs a chip to lead. Win your own lead and you get it back with interest.",
+     "core_twist": "Everyone starts with six chips, which are points. The leader must put a chip on their lead card. The trick winner takes any chips in the trick plus one from the bank. Winning as a follower gains two; winning your own lead gains one; leading and losing costs one.",
+     "total": 56.6
+    },
+    {
+     "rank": 63,
+     "title": "Honourable Mention",
+     "family": "Trick-taking",
+     "hook": "The best card that didn't win gets a ribbon. Three ribbons beat a trick.",
+     "core_twist": "The trick winner scores a point. The highest card of the led suit that did not win earns its player a ribbon. At the end of the round each set of three ribbons scores two points. A hand of kings under other people's aces has its own way to score.",
+     "total": 56.5
+    },
+    {
+     "rank": 64,
+     "title": "Blind Date",
+     "family": "Trick-taking",
+     "hook": "Two of you are partners this round. You won't find out who until both hearts are played.",
+     "core_twist": "Two cards in the deck carry a heart. Their holders are secret partners and score the product of their two trick counts; each other player scores their own tricks doubled. Neither partner knows who the other is until a heart card is played.",
+     "total": 56.3
+    },
+    {
+     "rank": 65,
+     "title": "Wolf and Shepherd",
+     "family": "Trick-taking",
+     "hook": "The shepherd counts tricks. The wolf only wants the sheep.",
+     "core_twist": "Two players, asymmetric. Five cards in the deck are sheep. The shepherd wins the round by taking seven of the thirteen tricks. The wolf wins by capturing tricks containing three of the five sheep, however few tricks that takes. Each side holds some of the sheep and decides when to risk them.",
+     "total": 56.2
+    },
+    {
+     "rank": 66,
+     "title": "All Hands on Deck",
+     "family": "Trick-taking",
+     "hook": "Your tricks count only if you've won with every suit.",
+     "core_twist": "The cards you win tricks with stay face-up in front of you. Tricks are a point each, but you score them in full only if your winning cards include all four suits. With three suits you score half, and with fewer nothing. A hand strong in one colour has work to do.",
+     "total": 55.3
+    },
+    {
+     "rank": 67,
+     "title": "Arch-Rivals",
+     "family": "Trick-taking",
+     "hook": "Any trick is worth a point. Beating your rival's card is worth two.",
+     "core_twist": "Each player's rival is the player on their left. A trick scores one point, or two if your winning card beat a card of the same suit played by your rival. Around the table everyone is hunting one neighbour and hunted by the other.",
+     "total": 55.3
+    },
+    {
+     "rank": 68,
+     "title": "House Conventions",
+     "family": "Trick-taking",
+     "hook": "You can't talk about your cards. But before each mission, you may agree one secret signal.",
+     "core_twist": "Cooperative campaign. Table talk about hands is forbidden, but before each mission the team may write one new convention on a shared card, such as 'leading a 2 means I have no trumps'. Conventions stay for the rest of the campaign, and later missions cannot be beaten without the language the team has built.",
+     "total": 55.1
+    },
+    {
+     "rank": 69,
+     "title": "Best Foot Forward",
+     "family": "Trick-taking",
+     "hook": "When you lead, you must lead the highest card you have in that suit.",
+     "core_twist": "The leader chooses any suit but must lead their highest card in it. Followers play freely within the suit. Having the lead forces out your top cards one suit at a time, so winning a trick costs you the best card of whichever colour you turn to next.",
+     "total": 55.1
+    },
+    {
+     "rank": 70,
+     "title": "Pick Your Poison",
+     "family": "Trick-taking",
+     "hook": "Build your hand one card at a time from two piles, seeing each card's suit but not its number.",
+     "core_twist": "There is no deal. Card backs show suits. In turn, each player takes the top card of either of two face-down piles until hands are full, knowing the suit they are taking and nothing more. Then a normal must-follow round is played with exact bids. You can build a void or a long suit; you cannot know if it is any good.",
+     "total": 54.7
+    },
+    {
+     "rank": 71,
+     "title": "Most Wanted",
+     "family": "Trick-taking",
+     "hook": "After each round, the table votes on who is most dangerous. That player starts the next round with their hand showing.",
+     "core_twist": "At the end of each round all players vote at once for the most dangerous player at the table. Whoever receives the most votes plays the first three tricks of the next round with their hand face-up. The handicap is assigned by opinion, not by score.",
+     "total": 54.7
+    },
+    {
+     "rank": 72,
+     "title": "Top This",
+     "family": "Trick-taking",
+     "hook": "The trick isn't finished after one card each. Add a second to raise.",
+     "core_twist": "After everyone has played one card, players in turn may add a second card of the same suit as their first; the two count as their sum. Raising continues until everyone passes, and nobody may add a third. A card spent raising is a card you will not have later.",
+     "total": 54.3
+    },
+    {
+     "rank": 73,
+     "title": "Captain of the Day",
+     "family": "Trick-taking",
+     "hook": "One player leads every trick this round, whoever wins.",
+     "core_twist": "The captain leads all the tricks of the round, and the role moves one seat each round. Winning a trick scores a point and gives no control. The captain can strip a suit from the table at will; everyone else knows exactly where they sit in every trick.",
+     "total": 53.7
+    },
+    {
+     "rank": 74,
+     "title": "Calling the Next One",
+     "family": "Trick-taking",
+     "hook": "Throw away this trick to bet that you'll win the next.",
+     "core_twist": "On your turn you may play your card face-down as a wager instead of into the trick. It cannot win and need not follow suit. If you win the next trick you score two extra points; if not, you lose one. You give up one trick to make another count triple.",
+     "total": 53.0
+    },
+    {
+     "rank": 75,
+     "title": "Half-Time",
+     "family": "Trick-taking",
+     "hook": "Two bids, not one: how many tricks before the break, and how many after.",
+     "core_twist": "A round is ten tricks with a pause after the fifth. Before play, each player bids two exact numbers, one for each half. Each half you hit scores three and hitting both scores two more. A hand that is all early winners or all late ones has to be bid that way.",
+     "total": 52.8
+    },
+    {
+     "rank": 76,
+     "title": "The Golden Ticket",
+     "family": "Trick-taking",
+     "hook": "One card wins the round outright for whoever captures it.",
+     "core_twist": "A golden ticket card is shuffled into the deck and counts as the lowest card of its suit. Whoever wins the trick containing it wins the round at once for five points; tricks score one each only if the ticket was never dealt. Its holder must choose the trick in which to let it go.",
+     "total": 52.4
+    },
+    {
+     "rank": 77,
+     "title": "Pencilled In",
+     "family": "Trick-taking",
+     "hook": "Everyone books one trick in advance where their suit will be trump.",
+     "core_twist": "Before play, each player places a token on one trick number of the round track and names a suit. In that trick, that suit is trump. Two bookings on the same trick cancel each other. The schedule is public, so everyone can plan around when each trump arrives.",
+     "total": 51.9
+    },
+    {
+     "rank": 78,
+     "title": "Harvest Festival",
+     "family": "Trick-taking",
+     "hook": "Four crops, four ways to score: you can't chase them all.",
+     "core_twist": "Captured cards are sorted by suit and each suit scores by its own rule. Apples score one per card. Pumpkins score five to whoever holds the most and nothing to anyone else. Corn scores three for every set of three. Thistles cost one each unless you hold all of them, when they score ten.",
+     "total": 51.7
+    },
+    {
+     "rank": 79,
+     "title": "Next-Door Duels",
+     "family": "Trick-taking",
+     "hook": "There's no winner of the trick. You just have to beat the neighbour on each side.",
+     "core_twist": "After a trick, each player compares their card with the card of the player on their left and on their right, and scores a point for each neighbour they beat by normal rules. The player who won the most duels leads. One trick can pay out to several people.",
+     "total": 51.0
+    },
+    {
+     "rank": 80,
+     "title": "Half and Half",
+     "family": "Trick-taking",
+     "hook": "Half your hand is yours. The other half was packed for you by the player on your right.",
+     "core_twist": "Ten cards are dealt to each player. Everyone keeps five and passes the other five to the left, so each hand is half chosen by its owner and half by a neighbour. The round is a penalty game, so what you give away matters as much as what you keep.",
+     "total": 50.6
+    },
+    {
+     "rank": 81,
+     "title": "Your Call",
+     "family": "Trick-taking",
+     "hook": "Trump is named after the lead is on the table, by a caller who changes every trick.",
+     "core_twist": "A caller token moves one seat clockwise each trick, independently of who wins. Once the leader has played, the caller names the trump suit for that trick, then play continues. The leader commits before knowing trump; the caller chooses knowing the lead and their own hand.",
+     "total": 50.6
+    },
+    {
+     "rank": 82,
+     "title": "Plea Bargain",
+     "family": "Trick-taking",
+     "hook": "Before the hand, plead innocent, petty or guilty to the penalties you're about to collect.",
+     "core_twist": "Twelve penalty cards are worth minus one each and one is minus four. Each player secretly pleads: Innocent (no penalty points), Petty (one to three) or Guilty (four or more). A correct Innocent plea scores four and a correct Petty plea two. A correct Guilty plea cancels all the penalties that player took.",
+     "total": 50.5
+    },
+    {
+     "rank": 83,
+     "title": "Bucket List",
+     "family": "Trick-taking",
+     "hook": "Five things to do before the round ends, and you must do them in order.",
+     "core_twist": "Each player is dealt a list of five tasks to complete in sequence, such as 'win with a red card', 'play the lowest card in a trick', 'win the trick straight after losing one'. Only the top unfinished task can be ticked off. Each completed task scores its position, from one to five.",
+     "total": 50.0
+    },
+    {
+     "rank": 84,
+     "title": "Party Planners",
+     "family": "Trick-taking",
+     "hook": "Five days, five house rules, and the players decide which rule falls on which day.",
+     "core_twist": "Five rule cards are revealed at the start, such as 'lowest card wins', 'no trumps today' or 'the last trick is worth five'. Taking turns, players assign each rule to one of the five rounds on a calendar. The whole schedule is fixed and visible before the first deal, and each player has shaped part of it.",
+     "total": 49.8
+    },
+    {
+     "rank": 85,
+     "title": "Silver Linings",
+     "family": "Trick-taking",
+     "hook": "Every penalty card you're stuck with gives you a small favour next round.",
+     "core_twist": "Each penalty card costs one or two points and also shows a consolation that its holder may use once in the following round: look at one opponent's hand, lead the first trick, pass an extra card, or ignore one penalty. Taking a bad trick now is a loan against the next hand.",
+     "total": 49.8
+    },
+    {
+     "rank": 86,
+     "title": "Trick Shots",
+     "family": "Trick-taking",
+     "hook": "Three trick shots are on display. Win a trick that looks like one and take the trophy.",
+     "core_twist": "Three shape cards are face-up, each describing a kind of trick and a bonus: all one suit, total under twelve, contains a pair, won by the lowest trump. The first player to win a trick of that shape claims the card for its bonus and a new one is revealed. Plain tricks score one.",
+     "total": 49.8
+    },
+    {
+     "rank": 87,
+     "title": "Lucky Sevens",
+     "family": "Trick-taking",
+     "hook": "Trump isn't a suit. It's a number, and the die picks it.",
+     "core_twist": "At the start of each round a die sets the lucky number. Every card of that rank is a trump and belongs to no suit; trumps rank among themselves in a fixed suit order. All other cards follow suit normally. Each round a different four cards rule the deck.",
+     "total": 49.5
+    },
+    {
+     "rank": 88,
+     "title": "Second Price",
+     "family": "Trick-taking",
+     "hook": "Win the auction and you only have to make the runner-up's bid.",
+     "core_twist": "Players bid a number of tricks in one round of open bidding. The highest bidder names trump and becomes declarer, but their contract is the second-highest bid made. Making it scores that number plus two; failing loses it. Everyone else scores a point per trick.",
+     "total": 49.4
+    },
+    {
+     "rank": 89,
+     "title": "Set List",
+     "family": "Trick-taking",
+     "hook": "Arrange your whole hand in order before the round, then play it three cards at a time.",
+     "core_twist": "After the deal, each player stacks their ten cards face-down in an order of their choosing. You hold only the top three. After playing a card you draw the next from your stack. The plan is made before the first lead, and the play is making it fit what everyone else planned.",
+     "total": 49.2
+    },
+    {
+     "rank": 90,
+     "title": "Any Questions?",
+     "family": "Trick-taking",
+     "hook": "You may not discuss your hand. You may ask one yes-or-no question per trick.",
+     "core_twist": "Cooperative. Before each trick, the leader may ask one teammate a single yes-or-no question, which must be answered truthfully. No other talk about cards is allowed. The team must complete the task cards for the mission, and the craft lies in choosing the one question worth asking.",
+     "total": 49.1
+    },
+    {
+     "rank": 91,
+     "title": "Second Thoughts",
+     "family": "Trick-taking",
+     "hook": "The leader gets to see what everyone played, then change their mind.",
+     "core_twist": "After all other players have played to the trick, the leader may take back the card they led and replace it with another card of the same suit. The lead becomes the strongest seat at the table, and the trick winner inherits it.",
+     "total": 48.7
+    },
+    {
+     "rank": 92,
+     "title": "Uncovered",
+     "family": "Trick-taking",
+     "hook": "Both hands are face-up in overlapping rows. You can only play a card with nothing on top of it.",
+     "core_twist": "Each player's twelve cards are dealt face-up in a pyramid of overlapping rows, as in a patience game. Only uncovered cards may be played, and playing one may free the cards beneath. Must-follow applies to your available cards. All information is open; the question is which cards you can reach and when.",
+     "total": 47.5
+    },
+    {
+     "rank": 93,
+     "title": "Lopsided",
+     "family": "Trick-taking",
+     "hook": "One suit has five cards and another has fourteen.",
+     "core_twist": "The four suits have five, eight, eleven and fourteen cards, each numbered from one. The five-card suit is trump. Everyone knows how scarce each suit is, so voids are common in the short suits, and the 11 in the long suit is a middling card.",
+     "total": 47.4
+    },
+    {
+     "rank": 94,
+     "title": "Hand-Me-Downs",
+     "family": "Trick-taking",
+     "hook": "The two cards you didn't play this round go to the player below you.",
+     "core_twist": "Each round, ten cards are dealt and eight tricks played. Your two unplayed cards are passed to the player ranked immediately below you on the scoreboard, who adds them to their next hand and discards two others. The leader chooses what to hand down; last place receives and gives nothing.",
+     "total": 47.2
+    },
+    {
+     "rank": 95,
+     "title": "Second Opinion",
+     "family": "Trick-taking",
+     "hook": "The leader plays first, but the second player decides the suit.",
+     "core_twist": "The suit that must be followed is set by the second card played to the trick, not the first. The leader's card competes only if it happens to match. Leading is a guess at what your neighbour will choose, and sitting second gives you control of the trick.",
+     "total": 46.8
+    },
+    {
+     "rank": 96,
+     "title": "Blind Spot",
+     "family": "Trick-taking",
+     "hook": "Three of your cards were chosen by your opponent, and you can't look at them.",
+     "core_twist": "Two players. After the deal, each player picks three cards from their own hand and gives them face-down to the opponent as blind cards. On every third trick you must play one of your blind cards unseen, lead or follow. A blind card that fails to follow suit simply loses. You know what you gave and nothing about what you got.",
+     "total": 46.7
+    },
+    {
+     "rank": 97,
+     "title": "You Lead, I Choose",
+     "family": "Trick-taking",
+     "hook": "The lead goes round the table in turn. The last trick's winner says which suit must be led.",
+     "core_twist": "The right to lead passes one seat clockwise each trick, whoever won. The winner of the previous trick names the suit the leader must lead, if they hold it. Winning gives you the choice of battlefield, and someone else chooses the card.",
+     "total": 46.6
+    },
+    {
+     "rank": 98,
+     "title": "Wait and See",
+     "family": "Trick-taking",
+     "hook": "Bid now for five points, or watch three tricks first and bid for two.",
+     "core_twist": "Before the first lead each player either states an exact trick total for five points or holds back. After the third trick, those who held back must bid their final total, for two points if they hit it. Waiting buys information and costs more than half the reward.",
+     "total": 46.3
+    },
+    {
+     "rank": 99,
+     "title": "Endlings",
+     "family": "Trick-taking",
+     "hook": "The last card you hold in a suit is worth five more than it says.",
+     "core_twist": "When you play the final card you hold in a suit, announce it: the card counts five ranks higher. If you later play another card of that suit, you were wrong and lose three points. Short suits become strong ones, and running yourself out of a colour is a plan.",
+     "total": 45.5
+    },
+    {
+     "rank": 100,
+     "title": "Ratchet",
+     "family": "Trick-taking",
+     "hook": "In each suit, every card you play has to be higher than your last. Otherwise it's a dud.",
+     "core_twist": "Each player keeps a marker per suit showing the last rank they played in it. A card played lower than your own marker in that suit goes down face-down and cannot win. You must therefore spend each suit from low to high, and a high card played early kills everything beneath it.",
+     "total": 45.3
+    }
+   ]
+  }
+ ]
+}

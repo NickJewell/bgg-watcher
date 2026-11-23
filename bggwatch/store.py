@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 from pathlib import Path
 
 POOL_FIELDS = ["id", "name", "year", "weight", "usersrated", "average", "owned",
@@ -55,11 +56,21 @@ class Store:
                         encoding="utf-8")
 
     # -- datasets ------------------------------------------------------------
-    def load_pool(self) -> list[dict]:
-        return self._read_csv(self.dir / "pool.csv")
+    def pool_path(self, family: str | None = None, partial: bool = False) -> Path:
+        """pool.csv is the primary family; the others live in pools/<slug>.csv.
+        A listing that is still being read sits in <slug>.part.csv."""
+        if family is None:
+            return self.dir / "pool.csv"
+        slug = re.sub(r"[^a-z0-9]+", "-", family.lower()).strip("-")
+        return self.dir / "pools" / f"{slug}{'.part' if partial else ''}.csv"
 
-    def save_pool(self, rows: list[dict]) -> None:
-        self._write_csv(self.dir / "pool.csv", POOL_FIELDS, sorted(rows, key=lambda r: r["id"]))
+    def load_pool(self, family: str | None = None, partial: bool = False) -> list[dict]:
+        return self._read_csv(self.pool_path(family, partial))
+
+    def save_pool(self, rows: list[dict], family: str | None = None, partial: bool = False) -> None:
+        self._write_csv(self.pool_path(family, partial), POOL_FIELDS, sorted(rows, key=lambda r: r["id"]))
+        if family is not None and not partial:
+            self.pool_path(family, partial=True).unlink(missing_ok=True)
 
     def load_games(self) -> dict[int, dict]:
         return {int(k): v for k, v in self._read_json(self.dir / "games.json", {}).items()}

@@ -99,6 +99,8 @@ def parse_things(body: bytes) -> list[dict]:
                 "max_players": val("maxplayers"),
                 "playing_time": val("playingtime"),
                 "mechanics": links("boardgamemechanic"),
+                "mechanic_ids": {l.get("value"): _num(l.get("id"), int)
+                                 for l in item.findall("link[@type='boardgamemechanic']")},
                 "categories": links("boardgamecategory"),
                 "designers": links("boardgamedesigner"),
                 "publishers": links("boardgamepublisher")[:3],
