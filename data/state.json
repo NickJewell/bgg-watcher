@@ -5,19 +5,19 @@
   "Set Collection": 2004,
   "Trick-taking": 2009
  },
- "pool_refreshed": "2026-11-17",
+ "pool_refreshed": "2026-11-24",
  "pools": {
   "Ladder Climbing": {
    "refreshed": "2026-11-23",
    "size": 477
   },
   "Push Your Luck": {
-   "next_page": 41,
-   "size": 6103
+   "next_page": 81,
+   "size": 6110
   },
   "Set Collection": {
-   "next_page": 41,
-   "size": 19058
+   "next_page": 81,
+   "size": 19064
   }
  }
 }
