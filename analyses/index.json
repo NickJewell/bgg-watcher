@@ -2720,6 +2720,933 @@
      "total": 45.3
     }
    ]
+  },
+  {
+   "date": "2026-11-27",
+   "sources": [
+    {
+     "id": 324711,
+     "name": "Schadenfreude",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 470482,
+     "name": "Apocalypse",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 458770,
+     "name": "Minikin City",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 454829,
+     "name": "Potemkin Villages",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 448428,
+     "name": "Moustache",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 429293,
+     "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 6901,
+     "name": "Euchre",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 381278,
+     "name": "Dracula vs Van Helsing",
+     "family": "Trick-taking"
+    },
+    {
+     "id": 476515,
+     "name": "Woo",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 475385,
+     "name": "LOOP",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 448179,
+     "name": "Pipoca",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 415108,
+     "name": "Crisps!",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 332393,
+     "name": "Bridge City Poker",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 347218,
+     "name": "Dickory",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 443195,
+     "name": "Haunted Mouse",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 456709,
+     "name": "Flamenco",
+     "family": "Ladder Climbing"
+    },
+    {
+     "id": 402207,
+     "name": "YRO",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 352454,
+     "name": "Trailblazers",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 458391,
+     "name": "Honeypot",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 439803,
+     "name": "L'oaf",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 331265,
+     "name": "Port Royal: Big Box",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 156009,
+     "name": "Port Royal",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 322703,
+     "name": "Death Valley",
+     "family": "Push Your Luck"
+    },
+    {
+     "id": 346057,
+     "name": "Don't Go In There",
+     "family": "Push Your Luck"
+    }
+   ],
+   "variants": [
+    {
+     "rank": 1,
+     "title": "Don't Wake the Dog",
+     "family": "Push Your Luck",
+     "hook": "Steal bones from your neighbour's hand one at a time. One of those cards is the dog.",
+     "core_twist": "Each player holds six cards: five bones of different values and a dog. On your turn, pick an opponent and draw cards from their fanned hand one at a time, as many as you dare. Bones are yours when you stop. Draw the dog and everything goes back, with a point to its owner. The owner may rearrange the fan after every draw.",
+     "total": 71.7
+    },
+    {
+     "rank": 2,
+     "title": "Three Doors",
+     "family": "Push Your Luck",
+     "hook": "Three piles, three colours of door. The backs tell you how dangerous each one is.",
+     "core_twist": "The deck is split by card back into three piles: green doors hide small treasures and few ghosts, blue more of both, red the big treasures and the most ghosts. On each flip you choose which door to open. Three ghosts in your row and you lose it. Everyone can count what has already come out of each door.",
+     "total": 71.1
+    },
+    {
+     "rank": 3,
+     "title": "Go On, Then",
+     "family": "Push Your Luck",
+     "hook": "Any opponent can put a coin on the deck and dare you to flip again.",
+     "core_twist": "While you are deciding whether to stop, any opponent may place a coin on the deck as a dare. If you flip again and survive, you take the coins. If you bust, each player who dared you takes a card from your row. Coins are points, so a dare is a real offer.",
+     "total": 69.7
+    },
+    {
+     "rank": 4,
+     "title": "Breaking Point",
+     "family": "Trick-taking",
+     "hook": "There is no trump until someone can't follow suit. Then there is, for good.",
+     "core_twist": "The round starts with no trump. The first card played off-suit loses that trick as usual, but its suit becomes trump for the rest of the round. The first player to run out of a suit chooses trump by what they throw away.",
+     "total": 69.3
+    },
+    {
+     "rank": 5,
+     "title": "Chicken Dinner",
+     "family": "Push Your Luck",
+     "hook": "Add a card to the pot, then take it or leave it for the next player.",
+     "core_twist": "One row is shared. On your turn, flip a card onto it, then either take the whole row or leave it. Dishes are worth one to four; each fox is minus two. If a third fox lands in the row, the player who flipped it must take everything.",
+     "total": 68.8
+    },
+    {
+     "rank": 6,
+     "title": "Snowdrift",
+     "family": "Hybrid",
+     "hook": "Every pass adds a snowball to the drift. The sixth one buries you.",
+     "core_twist": "Climbing with a shared bust. Each time anyone passes, a snowball token goes on the drift. The player whose pass adds the sixth must pick up the whole discard pile from the current round into their hand, and the drift is cleared. Everyone can see how deep it is before they decide to pass.",
+     "total": 68.8
+    },
+    {
+     "rank": 7,
+     "title": "Fair Cut",
+     "family": "Push Your Luck",
+     "hook": "Flip as long as you dare, then split the haul in two. Your neighbour picks a half.",
+     "core_twist": "Flip cards into a row until you choose to stop. Divide the row into two piles however you like; the player on your left takes one and you keep the other. If you bust first, your neighbour takes every scoring card in the row. A bigger haul is harder to split in your own favour.",
+     "total": 68.5
+    },
+    {
+     "rank": 8,
+     "title": "Heavy Is the Hand",
+     "family": "Ladder Climbing",
+     "hook": "When someone goes out, you pay for the single biggest card you are still holding.",
+     "core_twist": "The round ends when one player empties their hand. Everyone else takes penalty points equal to the rank of the highest card left in their hand, however many cards they hold. High cards win rounds and are the worst thing to be caught with, so you must judge when to let them go.",
+     "total": 68.0
+    },
+    {
+     "rank": 9,
+     "title": "Leftover Slice",
+     "family": "Ladder Climbing",
+     "hook": "Pass, and you take the smallest card on the table home with you.",
+     "core_twist": "A player who passes must pick up the lowest card of the play currently on top and add it to their hand. Each play can be raided once per card, so a pair of 2s led into three opponents hands out two of them. Passing is never free.",
+     "total": 67.5
+    },
+    {
+     "rank": 10,
+     "title": "Last Bus",
+     "family": "Push Your Luck",
+     "hook": "Everyone is out on the same night. Leave early and choose your prize, or stay for what's left.",
+     "core_twist": "Cards are flipped into one shared row. After each flip, all players secretly choose to stay or leave. Leavers each take one card from the row, lowest score choosing first. When the same hazard appears twice, the night is over and anyone still out gets nothing. A lone remaining player may take the whole row at any time.",
+     "total": 66.3
+    },
+    {
+     "rank": 11,
+     "title": "Keep a Straight Face",
+     "family": "Push Your Luck",
+     "hook": "Draw toward twenty-one in secret. Anyone may call you out as bust.",
+     "core_twist": "Players draw cards into a hidden hand, one per turn, or knock to stop. Hands over twenty-one are bust but stay hidden. Once per round each player may accuse one opponent of being bust: if right the accuser scores two and that hand is out; if wrong the accused scores two. At the end the nearest to twenty-one scores three.",
+     "total": 66.3
+    },
+    {
+     "rank": 12,
+     "title": "Gavel",
+     "family": "Ladder Climbing",
+     "hook": "Six lots, twelve cards. Every card you bid is gone, whether you win or not.",
+     "core_twist": "Six prize cards are sold one at a time. Bidding is climbing: beat the last play with a higher single, set or run, or pass. The last player to play takes the lot, and every card played by anyone is discarded. Nobody draws, so twelve cards must cover all six auctions.",
+     "total": 65.8
+    },
+    {
+     "rank": 13,
+     "title": "Last to Blink",
+     "family": "Hybrid",
+     "hook": "Passing is free, unless you were the last one to give in.",
+     "core_twist": "Climbing as a game of chicken. When a round ends, the player who passed last, the one who held out longest against the winner, takes a penalty card. Players who dropped out early pay nothing. Each time you beat the table you are betting that someone else will fold after you.",
+     "total": 65.8
+    },
+    {
+     "rank": 14,
+     "title": "Still in the Oven",
+     "family": "Push Your Luck",
+     "hook": "What you banked last turn isn't safe until you bank again.",
+     "core_twist": "Cards you bank go onto a cooling rack. They move to your score pile only the next time you bank. If you bust, you lose the row in front of you and everything on the rack as well. A short, safe turn secures a big one; two greedy turns in a row put both at risk.",
+     "total": 65.6
+    },
+    {
+     "rank": 15,
+     "title": "Trust Me",
+     "family": "Push Your Luck",
+     "hook": "Your neighbour peeks at the next card and tells you it's safe. Possibly.",
+     "core_twist": "Before each flip, the player on your left looks at the top card of the deck and says 'safe' or 'trap'. They may lie. If you stop after a false 'trap', they take the card that would have been yours. If you flip into a trap after a false 'safe', they take a card from the row you lose.",
+     "total": 65.5
+    },
+    {
+     "rank": 16,
+     "title": "Peanut Gallery",
+     "family": "Push Your Luck",
+     "hook": "While you flip cards, everyone else has money on whether you'll bust.",
+     "core_twist": "The active player flips cards into a row and may stop to bank their total; a second hazard of the same kind is a bust. Before the first flip, each other player secretly sets a token to Bank or Bust and scores a point if they called it right. A player known to be cautious is easy money.",
+     "total": 65.0
+    },
+    {
+     "rank": 17,
+     "title": "Favours",
+     "family": "Trick-taking",
+     "hook": "You have two boosts to give, and you can't use them on yourself.",
+     "core_twist": "Each player has two favour tokens per round. As another player plays a card, you may place a favour on it to raise it three ranks. If that card wins the trick, you score a point along with its owner. Favours cannot be placed on your own cards.",
+     "total": 64.8
+    },
+    {
+     "rank": 18,
+     "title": "Exit Card",
+     "family": "Ladder Climbing",
+     "hook": "Choose the last card you will play before you play the first.",
+     "core_twist": "After the deal, each player places one card from their hand face-down in front of them. It must be the final card they play, alone, as a legal lead or a legal beat. You cannot go out any other way, so the whole hand is played toward a moment when that one card will stand.",
+     "total": 64.2
+    },
+    {
+     "rank": 19,
+     "title": "Frost Warning",
+     "family": "Push Your Luck",
+     "hook": "Let your crops grow another turn, or harvest before somebody turns over the frost.",
+     "core_twist": "Each player has an open row that persists between turns. On your turn, either harvest your row into your score pile or flip one more card onto it. Most cards are crops in four colours. A frost card, when anyone flips it, wipes that colour from every unharvested row on the table.",
+     "total": 63.7
+    },
+    {
+     "rank": 20,
+     "title": "Getting Cocky",
+     "family": "Push Your Luck",
+     "hook": "Every time you get away with it, your nerve gets shorter.",
+     "core_twist": "Each player has a nerve track starting at three: you bust when that many hazards are in your row. Each time you bank successfully, your nerve drops by one, to a minimum of one. Each time you bust, it resets to three. The player on a winning run is one hazard from disaster.",
+     "total": 63.6
+    },
+    {
+     "rank": 21,
+     "title": "Too Close to Call",
+     "family": "Trick-taking",
+     "hook": "Win by a single rank and nobody wins. The cards ride on the next trick.",
+     "core_twist": "If the two highest cards of the led suit are consecutive ranks, the trick is too close to call: nobody takes it, the cards stay in the middle and the player of the highest card leads. The next trick with a clear winner takes everything on the table.",
+     "total": 63.5
+    },
+    {
+     "rank": 22,
+     "title": "Pass the Crown",
+     "family": "Trick-taking",
+     "hook": "Nobody wants to call trump, so the crown goes round the table gathering coins until someone gives in.",
+     "core_twist": "One card is turned up. In turn, each player either takes it into their hand, making its suit trump and promising to win more tricks than anyone else, or refuses by placing a coin on it. The taker keeps the coins. If they fail to win the most tricks, they pay each opponent two.",
+     "total": 63.3
+    },
+    {
+     "rank": 23,
+     "title": "Windfall",
+     "family": "Push Your Luck",
+     "hook": "Bust, and the others help themselves to what you turned over.",
+     "core_twist": "Flip cards into your row and stop when you like to keep them all. If you bust on a second matching hazard, the other players, in turn order, each take one card of their choice from your row and the rest is discarded. A long row is a gift waiting to be handed out.",
+     "total": 63.2
+    },
+    {
+     "rank": 24,
+     "title": "The Taxman",
+     "family": "Trick-taking",
+     "hook": "Win what you like. Your single best trick goes to the taxman.",
+     "core_twist": "Tricks are kept separately and score the pips of the cards in them. Before scoring, each player must discard their most valuable trick. One big haul is worth nothing; two good tricks are worth one. A player with a single trick scores zero.",
+     "total": 62.0
+    },
+    {
+     "rank": 25,
+     "title": "Bunting",
+     "family": "Push Your Luck",
+     "hook": "Hang each flag at either end of the line. Two of a colour side by side and it all comes down.",
+     "core_twist": "Flip a card and add it to the left or right end of your line. If it matches the colour of the card it lands next to, the line falls and scores nothing. Stop at any time and score the line's length squared. You always have two places to put a card, until both ends are the same colour.",
+     "total": 62.0
+    },
+    {
+     "rank": 26,
+     "title": "Heckler",
+     "family": "Push Your Luck",
+     "hook": "Before your turn, the player on your right decides which colour will sink you.",
+     "core_twist": "The discard pile is open for everyone to count. Before you flip, the player on your right names one of the four suits as your hazard for this turn. You bust when a second card of that suit appears; every other card scores. They choose knowing what has gone, and you flip knowing what they chose.",
+     "total": 61.8
+    },
+    {
+     "rank": 27,
+     "title": "Sore Spot",
+     "family": "Push Your Luck",
+     "hook": "Everyone busts on a different colour, and nobody knows whose is which.",
+     "core_twist": "Each player holds a secret weakness card naming one suit. You flip cards into your row and bust only when a second card of your own weakness suit appears. At any time an opponent may guess your weakness: right scores them two and you draw a new one; wrong costs them one.",
+     "total": 61.4
+    },
+    {
+     "rank": 28,
+     "title": "Bust a Move",
+     "family": "Push Your Luck",
+     "hook": "Everyone is building toward twenty-one, and anyone can add a card to anyone's pile.",
+     "core_twist": "Each player has a face-up stack and a hand of three. On your turn, play one card onto your own stack or an opponent's, then draw. A stack that goes over twenty-one is cleared and costs its owner a point. On your turn you may instead lock your stack; at the end of the round the locked stack nearest twenty-one scores three.",
+     "total": 61.3
+    },
+    {
+     "rank": 29,
+     "title": "Run the Table",
+     "family": "Hybrid",
+     "hook": "After any trick you win, you can promise to win all the rest.",
+     "core_twist": "Trick-taking with an all-or-nothing call. Tricks are a point each. Straight after winning a trick, a player may announce that they will win every remaining trick. If they do, their round score is tripled. If they lose even one, they score nothing for the round and the player who stopped them scores three.",
+     "total": 61.3
+    },
+    {
+     "rank": 30,
+     "title": "Fire Drill",
+     "family": "Ladder Climbing",
+     "hook": "Everyone out, together, before the alarm stops ringing.",
+     "core_twist": "Cooperative. All players must empty their hands. Play is ordinary climbing, but each time a round ends with everyone passing, one of eight alarm cards is turned over, and when the last turns the team has lost. Nobody may discuss their cards. The skill is leading what the next player can use.",
+     "total": 61.0
+    },
+    {
+     "rank": 31,
+     "title": "Called It",
+     "family": "Trick-taking",
+     "hook": "Before you lead, say who is going to win the trick.",
+     "core_twist": "The leader names any player, themselves included, as the winner of the coming trick and then leads. The trick's winner scores a point as usual, and the leader scores an extra point if the named player won. Leading into an opponent's strength is now a way to score.",
+     "total": 60.8
+    },
+    {
+     "rank": 32,
+     "title": "First to Three",
+     "family": "Trick-taking",
+     "hook": "The round stops the moment someone wins their third trick.",
+     "core_twist": "Seven cards each. The first player to win three tricks ends the round at once and scores one point plus one for every trick that was never played. Nobody else scores. If the cards run out with nobody on three, the player with the most tricks scores one.",
+     "total": 60.7
+    },
+    {
+     "rank": 33,
+     "title": "Order Up",
+     "family": "Ladder Climbing",
+     "hook": "The card you play tells the next player how many cards they must play.",
+     "core_twist": "Each card has a rank and one to three dots. The dots on the top card of the last play set the size of the next play: one dot demands a single, two a pair, three a triple, always of a higher rank. If you cannot serve the order, you pass. The round's winner leads whatever they like.",
+     "total": 60.0
+    },
+    {
+     "rank": 34,
+     "title": "Hitchhikers",
+     "family": "Push Your Luck",
+     "hook": "Stick out a thumb and ride along on someone else's turn.",
+     "core_twist": "Each player has three thumb tokens per round. Before another player's first flip, you may place a thumb on their turn. If they bank, you score half of what they banked and they score one extra for each rider. If they bust, your thumb is gone. Riders bet on your caution and pay you for it.",
+     "total": 60.0
+    },
+    {
+     "rank": 35,
+     "title": "Heavy Lifting",
+     "family": "Ladder Climbing",
+     "hook": "Beat the total on the table, using no more cards than the last player did.",
+     "core_twist": "A play is any group of cards, with no shapes required; its strength is the sum of its ranks. To beat a play you must exceed its total using the same number of cards or fewer. Leading five small cards sheds a lot but can be beaten by two big ones.",
+     "total": 59.7
+    },
+    {
+     "rank": 36,
+     "title": "Cliff Notes",
+     "family": "Push Your Luck",
+     "hook": "The cliff edge is the sum of three hidden cards. You have seen one of them.",
+     "core_twist": "Three number cards lie face-down; their total is the cliff edge. Each player privately looks at one. Then players take turns adding a card from the deck to their own path or stopping. When all have stopped the edge is revealed: paths longer than it have gone over and score nothing; the longest safe path wins. When a rival stops tells you something about their card.",
+     "total": 59.5
+    },
+    {
+     "rank": 37,
+     "title": "Duck and Cover",
+     "family": "Trick-taking",
+     "hook": "Two tokens let you play a card that is certain to lose.",
+     "core_twist": "An exact-bid game. Each player has two duck tokens per round. A token placed on a card as it is played makes it count as rank zero: it still follows suit but cannot win. An unused duck is worth a point, so the tool that makes your bid safe is also worth keeping.",
+     "total": 59.3
+    },
+    {
+     "rank": 38,
+     "title": "Keeper",
+     "family": "Trick-taking",
+     "hook": "Win a trick and take your winning card back, if you can leave a smaller one in its place.",
+     "core_twist": "After winning a trick, the winner may return the winning card to their hand by replacing it in the trick with a lower card of the same suit from their hand. An ace backed by three small cards of its suit can win four times; an ace on its own wins once.",
+     "total": 59.2
+    },
+    {
+     "rank": 39,
+     "title": "Sorting Office",
+     "family": "Trick-taking",
+     "hook": "Every suit belongs to one of you, and only its owner may win a trick led in it.",
+     "core_twist": "Cooperative. Each player is assigned a suit. A trick counts only if it is won by the player whose suit was led; with three players, a trick led in the spare suit must be won by its leader. The team needs seven good tricks from ten, with no discussion of hands. The leader decides whose job each trick is.",
+     "total": 59.2
+    },
+    {
+     "rank": 40,
+     "title": "Switchback",
+     "family": "Ladder Climbing",
+     "hook": "Climb until someone plays a pair. Then everyone has to go downhill.",
+     "core_twist": "A marker shows the direction. While it points up, each play must be higher than the last. Whenever a set of two or more equal cards is played, the marker flips, and from then on each play must be lower than the last until another set flips it back.",
+     "total": 58.8
+    },
+    {
+     "rank": 41,
+     "title": "Bare Minimum",
+     "family": "Trick-taking",
+     "hook": "Together you have to hit the number. Whoever did the least gets the credit.",
+     "core_twist": "Each trick has a work order: a number turned from a small deck. Players follow suit as usual, and the ranks of all cards played are added. If the total reaches the order, the trick goes to the player of the lowest card, who scores two. If it falls short, the player of the lowest card loses two and nobody scores.",
+     "total": 58.7
+    },
+    {
+     "rank": 42,
+     "title": "Gate Change",
+     "family": "Push Your Luck",
+     "hook": "Three planes to fill. No two passengers of a colour on the same one.",
+     "core_twist": "You have three planes with three, four and five seats. Each passenger card you flip must board one of them, and no plane may hold two of a colour. A full plane takes off and scores its seats. If a passenger fits nowhere, every plane still at the gate is emptied. Stop when you like; part-filled planes wait for your next turn.",
+     "total": 58.3
+    },
+    {
+     "rank": 43,
+     "title": "Tick-Tock",
+     "family": "Trick-taking",
+     "hook": "Odd tricks go to the highest card, even tricks to the lowest.",
+     "core_twist": "A pendulum marker swings after every trick. On tick, the highest card of the led suit wins; on tock, the lowest card of the led suit wins. The order is fixed and known, so the question is who will be leading on which swing.",
+     "total": 58.1
+    },
+    {
+     "rank": 44,
+     "title": "Echolocation",
+     "family": "Trick-taking",
+     "hook": "No talking. After every lead, everyone holds up fingers for how many of that suit they have.",
+     "core_twist": "Cooperative. Once a card is led, all players at once show on their fingers how many cards of the led suit they still hold. That is the only communication allowed. The team must complete mission cards that say who has to win which tricks.",
+     "total": 58.0
+    },
+    {
+     "rank": 45,
+     "title": "One More Ghost",
+     "family": "Push Your Luck",
+     "hook": "Two ghosts of a colour are a problem. A third one gets rid of all three.",
+     "core_twist": "On your turn draw between one and four cards, deciding after each, and keep them all in your attic for the rest of the game. Keys are plus one. Each ghost is minus one, but a third ghost of the same colour banishes the set and scores two. Drawing again is how you fix what the last draw did.",
+     "total": 58.0
+    },
+    {
+     "rank": 46,
+     "title": "Bridge Limit",
+     "family": "Push Your Luck",
+     "hook": "How much can the rope bridge carry? One of you knows and isn't allowed to say.",
+     "core_twist": "Cooperative. A limit card from twelve to eighteen is set aside, seen only by this round's engineer. Players take turns adding treasure cards to the bridge or calling the crossing. If the total is over the limit when it is revealed, the load is lost. The engineer plays normally and may say one word, 'careful', once. Carry the target across in three crossings.",
+     "total": 57.4
+    },
+    {
+     "rank": 47,
+     "title": "Joker Jar",
+     "family": "Ladder Climbing",
+     "hook": "Every pass earns a joker for later.",
+     "core_twist": "Each time you pass, take a joker token, to a limit of two. A joker may be spent as any card inside a set or run of two or more cards. The player who has been shut out of the last few rounds is the one holding the wild cards.",
+     "total": 57.0
+    },
+    {
+     "rank": 48,
+     "title": "Ghost of the Feast",
+     "family": "Ladder Climbing",
+     "hook": "Go out first and you come back as a ghost to haunt whoever is winning.",
+     "core_twist": "The first player to empty their hand stays in the game as a ghost. At the start of each round the ghost places the haunt token on one player, whose plays that round must beat the table by at least two ranks. The ghost scores a bonus if the last player it haunted finishes last.",
+     "total": 56.2
+    },
+    {
+     "rank": 49,
+     "title": "Pulling Rank",
+     "family": "Trick-taking",
+     "hook": "Follow suit if you can. After that, the biggest number wins, whatever its colour.",
+     "core_twist": "The four suits cover different ranges: privates 1 to 6, sergeants 4 to 9, captains 7 to 12, generals 10 to 15. You must follow suit, but the trick goes to the highest number played in any suit, with a tie going to the later card. A void in privates lets a general walk in.",
+     "total": 55.7
+    },
+    {
+     "rank": 50,
+     "title": "Stick or Twist",
+     "family": "Hybrid",
+     "hook": "Don't like the trump that was turned? Turn another, and raise the stakes on yourself.",
+     "core_twist": "Trick-taking with a gamble before the first lead. A card is turned for trump. The dealer may stick, or twist by turning the next card instead, up to three times. Each twist adds one to the number of tricks the dealer must win to score at all, and adds one to their reward if they do.",
+     "total": 55.7
+    },
+    {
+     "rank": 51,
+     "title": "Marco Polo",
+     "family": "Trick-taking",
+     "hook": "The leader calls a number. Whoever answers closest takes the trick.",
+     "core_twist": "The leader's card sets a target and cannot win. Among the players who follow suit, the card closest in rank to the lead takes the trick, above or below; a tie goes to the later card. If nobody follows suit, the leader wins after all.",
+     "total": 55.5
+    },
+    {
+     "rank": 52,
+     "title": "Customs",
+     "family": "Push Your Luck",
+     "hook": "Bank whenever you like. The player on your left takes their pick first.",
+     "core_twist": "Flip cards into your row and stop to bank, but before you collect, the player on your left takes one card of their choice from the row. A short row loses its only good card. A long one loses its best and risks a bust for nothing.",
+     "total": 55.5
+    },
+    {
+     "rank": 53,
+     "title": "Eat Your Words",
+     "family": "Ladder Climbing",
+     "hook": "Beat your opponent's play and you have to pick it up.",
+     "core_twist": "Two players. When you beat a play, the cards you beat go into your hand. You have shed your better cards, gained worse ones and taken the lead; your opponent has shed theirs for nothing. Passing costs no cards but gives away the next lead.",
+     "total": 55.1
+    },
+    {
+     "rank": 54,
+     "title": "Pack or Lone Wolf",
+     "family": "Trick-taking",
+     "hook": "Thumbs up to hunt with the pack, thumbs down to go it alone for double.",
+     "core_twist": "After the deal, all players show a thumb at once. Thumbs-up players form a pack, pool their tricks and each score the pack's total divided among them. A thumbs-down player is a lone wolf who scores double for each trick, but nothing at all if any pack member took more tricks than they did.",
+     "total": 55.0
+    },
+    {
+     "rank": 55,
+     "title": "Bark and Bite",
+     "family": "Trick-taking",
+     "hook": "Every card has two numbers: one for leading and one for following.",
+     "core_twist": "Each card shows a bark value and a bite value. The leader's card counts its bark; every card that follows suit counts its bite. The highest number takes the trick. A card that is a strong lead is often a weak reply, so the same hand plays differently from each seat.",
+     "total": 55.0
+    },
+    {
+     "rank": 56,
+     "title": "Sealed Crates",
+     "family": "Push Your Luck",
+     "hook": "Take as many crates as you like. Nobody opens anything until the end of the round.",
+     "core_twist": "Card backs show a crate type: marked gems, marked snakes, or plain, which may be either. In turn, players take the top card of the deck face-down onto their own stack or stop for the round. When all have stopped, stacks are opened: three or more snakes and the whole stack is lost. You commit without ever seeing a face.",
+     "total": 54.9
+    },
+    {
+     "rank": 57,
+     "title": "Runner-Up Leads",
+     "family": "Ladder Climbing",
+     "hook": "The last player to play doesn't get the lead. The one before them does.",
+     "core_twist": "When everyone has passed, the next lead goes to the player who made the second-to-last play of the round. Topping the table sheds your cards and hands control to the player you beat. To lead, you need to be beaten exactly once and then see everyone stop.",
+     "total": 54.6
+    },
+    {
+     "rank": 58,
+     "title": "Second Act",
+     "family": "Hybrid",
+     "hook": "First you win tricks. Then you have to get rid of everything you won.",
+     "core_twist": "Trick-taking, then climbing. Six tricks are played and each player keeps the cards they capture. Those cards become their hand for the second act, a shedding game of singles, sets and runs. The first to empty their hand wins. Capturing a lot gives you more combinations and more to get rid of; capturing nothing means you have already won.",
+     "total": 54.5
+    },
+    {
+     "rank": 59,
+     "title": "Club Sandwich",
+     "family": "Ladder Climbing",
+     "hook": "Don't beat their play. Add another layer to your own.",
+     "core_twist": "On your turn you may beat the top play in the usual way, or add cards to the play you made earlier in this round to make it bigger: a pair becomes a triple, a run of three becomes a run of four. A bigger shape beats any smaller one. Your earlier play must still be on the table in front of you.",
+     "total": 53.7
+    },
+    {
+     "rank": 60,
+     "title": "Scoop",
+     "family": "Hybrid",
+     "hook": "Climb to win the pile, then count what was in it.",
+     "core_twist": "Climbing and trick-taking. Players beat the last play with a higher single, set or run, or pass. Whoever makes the last play scoops every card played in the round into a score pile, as a trick. The 5s and 10s are worth points and everything else nothing. The hand ends when one player is out, and cards still held count against you.",
+     "total": 53.5
+    },
+    {
+     "rank": 61,
+     "title": "Tailwind",
+     "family": "Ladder Climbing",
+     "hook": "Win the round and your next lead has to be one card bigger.",
+     "core_twist": "Singles, sets and runs; beat the last play or pass. The player who wins a round must open the next with a play that has one more card than the play they won with, if they hold one; otherwise they lead a single. Winning with a pair commits you to a triple or a run of three.",
+     "total": 53.3
+    },
+    {
+     "rank": 62,
+     "title": "Relay",
+     "family": "Ladder Climbing",
+     "hook": "When you pass, you may slip your partner one card.",
+     "core_twist": "Four players in two partnerships. Whenever you pass, you may hand one card face-down to your partner. A team wins the round only when both partners have emptied their hands, so the player who goes out first has to have set up the one left behind.",
+     "total": 53.3
+    },
+    {
+     "rank": 63,
+     "title": "Sweep It Under",
+     "family": "Ladder Climbing",
+     "hook": "Win the round and hand your worst card to whoever gave up first.",
+     "core_twist": "When a round ends, its winner gives one card of their choice from their hand to the first player who passed in that round. Passing early saves your good cards and earns you somebody's rubbish.",
+     "total": 53.3
+    },
+    {
+     "rank": 64,
+     "title": "Fire Sale",
+     "family": "Ladder Climbing",
+     "hook": "Dump a whole suit at half price, once, whenever you choose.",
+     "core_twist": "Lowest score wins. When someone goes out, the cards left in each hand count their full ranks as penalty. Once per round, on your turn, you may hold a fire sale: discard every card you hold of one suit and take half their total as penalty at once. The earlier you sell, the more you are selling.",
+     "total": 53.3
+    },
+    {
+     "rank": 65,
+     "title": "Copy That",
+     "family": "Ladder Climbing",
+     "hook": "Match the last play exactly and the next player misses a turn.",
+     "core_twist": "As well as beating a play with a higher one, you may copy it: play the same shape in exactly the same ranks. A copy stands as the new top play and the next player in turn is skipped. Holding the twin of a rival's pair is a weapon aimed at whoever sits after you.",
+     "total": 53.3
+    },
+    {
+     "rank": 66,
+     "title": "High Wire",
+     "family": "Push Your Luck",
+     "hook": "Each card you flip must be higher than the last. You have three nets.",
+     "core_twist": "Flip cards one at a time; each must outrank the one before or you fall and score nothing. Stop when you like and score the length of your walk: one, three, six, ten. You hold three net cards for the round, and may play one from your hand in place of a flip that failed, if it fits.",
+     "total": 53.3
+    },
+    {
+     "rank": 67,
+     "title": "Stroke Count",
+     "family": "Ladder Climbing",
+     "hook": "Say how many plays it will take you to empty your hand.",
+     "core_twist": "Before the round, each player bids the exact number of plays, not counting passes, in which they will get rid of all their cards. Going out in exactly that many scores three; one away scores one. Going out first scores two regardless. A hand of runs bids low; a hand of loose singles bids high.",
+     "total": 52.8
+    },
+    {
+     "rank": 68,
+     "title": "Care Package",
+     "family": "Trick-taking",
+     "hook": "Your neighbour packs you three cards. You decide how many to open.",
+     "core_twist": "A penalty game. After the deal each player stacks three cards from their hand face-down for the player on their left. The receiver chooses to take none, one, two or all three from the top, without looking first, and discards the same number from their own hand. The rest of the package is thrown away unseen.",
+     "total": 52.5
+    },
+    {
+     "rank": 69,
+     "title": "Swing for the Fences",
+     "family": "Hybrid",
+     "hook": "Any card can be a trump, if the deck agrees.",
+     "core_twist": "Trick-taking with no trump suit. When you play a card you may swing: flip the top card of the deck. If it is red, your card is a trump for this trick. If it is black, your card is dead and cannot win. A swing may be made even when following suit, so a hopeless low card always has a half chance.",
+     "total": 52.5
+    },
+    {
+     "rank": 70,
+     "title": "Hit Me Again",
+     "family": "Hybrid",
+     "hook": "Everyone starts with three cards. Draw more for the tricks to come, if you dare.",
+     "core_twist": "Push-your-luck, then trick-taking. Hands start at three cards. Before play, each player in turn may draw extra cards one at a time, face-up. Drawing a second card of a suit you have already drawn face-up is a bust: you lose two points and discard the extras. Tricks are then played until all cards are gone, and players who run out sit out.",
+     "total": 52.4
+    },
+    {
+     "rank": 71,
+     "title": "Burn a Bridge",
+     "family": "Trick-taking",
+     "hook": "Before you count up, one of your suits goes on the fire. Unless somebody else picked the same one.",
+     "core_twist": "Captured cards score their pips. At the end of the round each player secretly names one suit, and all the cards they captured in that suit are burnt before scoring. If two or more players name the same suit, the bridge holds and none of them burns anything.",
+     "total": 52.3
+    },
+    {
+     "rank": 72,
+     "title": "Joint Effort",
+     "family": "Trick-taking",
+     "hook": "Your card and your partner's card are added together.",
+     "core_twist": "Four players in two partnerships, no trump. When both partners follow the led suit, their two cards are added, and the team with the higher total in the led suit takes the trick. A partner who cannot follow contributes nothing. The partner who played the higher card leads next.",
+     "total": 52.0
+    },
+    {
+     "rank": 73,
+     "title": "High Road, Low Road",
+     "family": "Ladder Climbing",
+     "hook": "Two piles: one you beat by going higher, one by going lower.",
+     "core_twist": "Two piles are open at once. On the high road each play must beat the last upward; on the low road each play must be lower than the last. On your turn, play to either or pass. A pile is cleared when everyone passes on it, and the last player to have played there starts it again.",
+     "total": 51.8
+    },
+    {
+     "rank": 74,
+     "title": "River Rats",
+     "family": "Push Your Luck",
+     "hook": "Keep flipping to improve your poker hand. Three rats and it sinks.",
+     "core_twist": "Each player starts with five cards face-up. On your turn, flip a card and either swap it for one of your five or discard it; continue or stop and stand for the round. Rat cards cannot be used, and the third rat you flip in a round destroys your hand. Best poker hand among those standing scores three, second one.",
+     "total": 49.7
+    },
+    {
+     "rank": 75,
+     "title": "Dig Deeper",
+     "family": "Hybrid",
+     "hook": "Can't beat it from your hand? Draw until you can, and keep everything that didn't work.",
+     "core_twist": "Climbing with a push-your-luck pass. A player who cannot or will not beat the table may draw from the deck, one card at a time. A drawn card that beats the top play as a single may be played at once. Every card that fails stays in your hand. You may stop digging and pass at any point.",
+     "total": 49.7
+    },
+    {
+     "rank": 76,
+     "title": "Called Suit",
+     "family": "Ladder Climbing",
+     "hook": "Secretly pick a suit. You score for every card of it your opponents are still holding at the end.",
+     "core_twist": "Before play, each player secretly names a suit. When someone goes out, every player scores a point for each card of their named suit left in the other players' hands, and loses a point for each card left in their own. You want to strand one colour in other people's hands without showing which.",
+     "total": 49.6
+    },
+    {
+     "rank": 77,
+     "title": "The Shoe",
+     "family": "Hybrid",
+     "hook": "The leader flips cards to set the target. Closest without going over takes the trick.",
+     "core_twist": "Push-your-luck sets up each trick. The leader flips one to three cards from the deck, deciding after each; their sum is the target. Over twelve, the leader busts and loses a point, and the target is twelve. Each player then plays one card, and the card closest to the target without exceeding it wins.",
+     "total": 49.6
+    },
+    {
+     "rank": 78,
+     "title": "Dress Code",
+     "family": "Ladder Climbing",
+     "hook": "Each hand comes with a dress code that rules one kind of play out.",
+     "core_twist": "A game is five hands. Before each, a dress-code card is turned up and applies to everyone: no pairs tonight, runs only, singles must be odd, nothing above nine may be led. The basic climbing rules never change, and the same cards are a good hand or a bad one depending on the code.",
+     "total": 49.5
+    },
+    {
+     "rank": 79,
+     "title": "Card Sharp",
+     "family": "Ladder Climbing",
+     "hook": "Once a round, swap a card out of the play on the table for one of yours.",
+     "core_twist": "Once per round, instead of playing or passing, you may exchange one card in your hand with one card of the top play, provided the play left on the table is the same shape and no lower than before. You shed nothing, but you take the card that completes your run.",
+     "total": 49.5
+    },
+    {
+     "rank": 80,
+     "title": "Hand to Mouth",
+     "family": "Hybrid",
+     "hook": "Start with four cards and decide after every trick how many more to draw.",
+     "core_twist": "Trick-taking with a self-set hand. Hands start at four. After each trick, each player in turn draws none, one or two cards. Tricks continue until the deck is gone and one more has been played; then every card still in a hand costs a point. A player with no cards sits out until they draw.",
+     "total": 49.5
+    },
+    {
+     "rank": 81,
+     "title": "Keep Climbing",
+     "family": "Hybrid",
+     "hook": "Play a combination, draw two, and try to beat yourself.",
+     "core_twist": "A solitary climb on each turn. Play any combination from your hand, then either bank it, scoring a point per card, or draw two cards and try to beat your own last play with a higher or larger one. Each success may be banked or pushed again. If you draw and cannot beat yourself, the turn scores nothing.",
+     "total": 49.3
+    },
+    {
+     "rank": 82,
+     "title": "Top-Decking",
+     "family": "Hybrid",
+     "hook": "Don't like your hand? Play the top card of the deck and hope.",
+     "core_twist": "Trick-taking with a gamble on every turn. Instead of playing from your hand, you may flip the top card of the deck as your play. It counts whatever it is. If it does not follow suit when you held a card that could have, you lose a point. You keep your hand cards for later, so every flip saves a card you chose not to spend.",
+     "total": 48.6
+    },
+    {
+     "rank": 83,
+     "title": "Top Shelf",
+     "family": "Hybrid",
+     "hook": "Each play must be higher, but the shelf only holds twenty-one.",
+     "core_twist": "Climbing with a bust. Singles only: each card must outrank the last, and its rank is added to the shelf's running total. A player whose card would take the total past twenty-one cannot play it and must pass. The player who lands exactly on twenty-one sheds a second card of their choice.",
+     "total": 48.4
+    },
+    {
+     "rank": 84,
+     "title": "Topsy-Trumps",
+     "family": "Trick-taking",
+     "hook": "In the trump suit, and only there, the little cards beat the big ones.",
+     "core_twist": "The three plain suits rank normally, high over low. Inside the trump suit the order is upside down: the 1 is the strongest trump and the highest number the weakest. Trump still beats any plain card.",
+     "total": 47.5
+    },
+    {
+     "rank": 85,
+     "title": "Victory Lap",
+     "family": "Hybrid",
+     "hook": "Win the round, then flip for bonus discards until your luck turns.",
+     "core_twist": "Climbing with a gamble for the winner. When everyone has passed on your play, you may flip cards from the deck before leading. Each flipped card lower than your winning play lets you discard one card from your hand. The first card that is higher ends the lap, and you take every card you flipped into your hand.",
+     "total": 47.1
+    },
+    {
+     "rank": 86,
+     "title": "Double Take",
+     "family": "Trick-taking",
+     "hook": "Tricks come in pairs, and in the second you must play the suit you played in the first.",
+     "core_twist": "Tricks are played two at a time. The first of a pair is ordinary must-follow. In the second, led by the first one's winner, there is no following the lead: each player must play a card of the same suit they played to the first trick, if they have one. The highest card of the leader's suit wins.",
+     "total": 46.8
+    },
+    {
+     "rank": 87,
+     "title": "Mystery Crate",
+     "family": "Hybrid",
+     "hook": "Once a round you may open a sealed crate of four cards. It's a bomb or it's a burden.",
+     "core_twist": "Climbing with one big gamble each. Sealed crates of four cards sit beside the deck; a third of them hold four of a kind, the rest are mixed. Once per round, on your turn, you may take a crate into your hand. Four of a kind is a bomb that beats anything. Four loose cards are four more to shed.",
+     "total": 46.3
+    },
+    {
+     "rank": 88,
+     "title": "Repertoire",
+     "family": "Ladder Climbing",
+     "hook": "You can lead each kind of play once. Then you need a new trick.",
+     "core_twist": "Each player has a checklist of six play types: single, pair, triple, run of three, run of four, two pairs. When you lead, you must lead a type you have not yet ticked, and tick it. Beating someone else's play ticks nothing. When all six are ticked the list is wiped.",
+     "total": 46.0
+    },
+    {
+     "rank": 89,
+     "title": "Greedy Hands",
+     "family": "Hybrid",
+     "hook": "Draw as many cards as you want. Just don't end your turn holding more than ten.",
+     "core_twist": "Climbing for points, with a hand limit that bites. At the start of your turn you may draw any number of cards. You then beat the table, scoring a point per card in your play, or pass. If you end your turn with more than ten cards, you discard down to five and lose three points.",
+     "total": 45.9
+    },
+    {
+     "rank": 90,
+     "title": "Hindsight",
+     "family": "Trick-taking",
+     "hook": "You find out what was trump after the trick has been played.",
+     "core_twist": "Eight cards lie face-down in a row, one for each trick. At the start of the round every player secretly looks at two of them. After a trick has been played, its card is turned over and that suit is trump for the trick just completed. Everyone knows a different part of the future.",
+     "total": 45.8
+    },
+    {
+     "rank": 91,
+     "title": "Pole Position",
+     "family": "Hybrid",
+     "hook": "A shedding race decides who calls trump for the tricks that follow.",
+     "core_twist": "Climbing, then trick-taking. Each player splits a hand of twelve into a qualifying hand and a race hand of six each. The qualifying hands are played as a shedding game; the order in which players go out sets the seating order for the tricks, and the first out names trump. The race hands are then played as six tricks.",
+     "total": 44.8
+    },
+    {
+     "rank": 92,
+     "title": "Lucky Streak",
+     "family": "Hybrid",
+     "hook": "Play a run, then flip to see if the deck will make it longer.",
+     "core_twist": "Climbing with a gamble on runs. After playing a run you may flip cards from the deck. Each flip that is the next rank up, in any suit, is added to your run for free. The first flip that is not ends the streak: the run and every card you flipped go back into your hand, and you have passed.",
+     "total": 44.8
+    },
+    {
+     "rank": 93,
+     "title": "Pack Your Own Parachute",
+     "family": "Push Your Luck",
+     "hook": "Everyone flips from their own deck, and you chose what went into yours.",
+     "core_twist": "Each player has a personal deck of twelve cards, identical at the start. On your turn you flip only from your own deck and bust on a third snag. After each round you may spend banked points to add one card from a market to your deck or to remove a snag. Bust odds are yours to build.",
+     "total": 44.5
+    },
+    {
+     "rank": 94,
+     "title": "Scaffolding",
+     "family": "Ladder Climbing",
+     "hook": "Three ladders are going up at once. Climb whichever one you can.",
+     "core_twist": "Three piles stand side by side: one for singles, one for pairs, one for runs of three. On your turn, beat the top of any one pile, or pass and draw a card. When every player passes in succession, all three piles are cleared.",
+     "total": 44.3
+    },
+    {
+     "rank": 95,
+     "title": "Left Foot, Right Foot",
+     "family": "Ladder Climbing",
+     "hook": "Higher every time, and odd must follow even.",
+     "core_twist": "Singles and sets must beat the last play and also alternate: an odd rank can only be beaten by an even one, and an even by an odd. Runs are exempt and reset the step. Half of your higher cards are always the wrong foot.",
+     "total": 44.3
+    },
+    {
+     "rank": 96,
+     "title": "Seesaw",
+     "family": "Ladder Climbing",
+     "hook": "One of you may only go up. The other may only go down.",
+     "core_twist": "Two players, single cards only. The Up player must play a card higher than the card on the table; the Down player must play one lower. A player who cannot play draws a card, and the other then starts afresh with any card. First to empty their hand wins, and the roles swap for the next round.",
+     "total": 43.6
+    },
+    {
+     "rank": 97,
+     "title": "U-Turn",
+     "family": "Trick-taking",
+     "hook": "Every time a red card wins, play turns round and goes the other way.",
+     "core_twist": "Play starts clockwise. Whenever a trick is won by a red card, the direction of play reverses, starting with the next trick. The player who would have played last after the winner now plays second, so the colour you win with decides who gets the best seat.",
+     "total": 43.3
+    },
+    {
+     "rank": 98,
+     "title": "Deep Pockets",
+     "family": "Ladder Climbing",
+     "hook": "You only ever hold five cards. The rest are in your pocket, face-down.",
+     "core_twist": "Each player is dealt a face-down stack of thirteen and draws a hand of five from it. After every play you refill to five from your own stack. The first to empty both stack and hand wins. You can only build the combinations your pocket happens to hand you next.",
+     "total": 43.2
+    },
+    {
+     "rank": 99,
+     "title": "Consolation Prize",
+     "family": "Trick-taking",
+     "hook": "Get trumped and you still walk away with something.",
+     "core_twist": "A trick scores a point for its winner. When a trick is won by a trump, the player who played the highest card of the led suit also scores a point. Trumping in still takes the trick and the lead, but it no longer takes anything away from the player it robbed.",
+     "total": 41.5
+    },
+    {
+     "rank": 100,
+     "title": "Side Hustle",
+     "family": "Hybrid",
+     "hook": "Win a trick and you may also shed a combination onto a ladder running alongside.",
+     "core_twist": "Trick-taking with a climbing track beside it. Tricks are played for a point each. The winner of a trick may also lay a set or run from their hand on the side ladder, provided it beats the combination already there. Cards shed that way are gone from your hand, so you finish the tricks short, but each is worth a point.",
+     "total": 39.8
+    }
+   ]
   }
  ]
 }
